@@ -1,0 +1,109 @@
+{
+  "label": "Condizioni",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {},
+  "entries": {
+    "Condition: Afraid": {
+      "name": "Condizione: Spaventato",
+      "description": "<p>Il personaggio è spaventato.</p>"
+    },
+    "Condition: Asleep": {
+      "name": "Condizione: Addormentato",
+      "description": ""
+    },
+    "Condition: Banished": {
+      "name": "Condizione: Bandito",
+      "description": ""
+    },
+    "Condition: Beguiled": {
+      "name": "Condizione: Ammaliato",
+      "description": "<p>Il personaggio è stato ammaliato.</p>"
+    },
+    "Condition: Blind": {
+      "name": "Condizione: Accecato",
+      "description": "<p>Un personaggio accecato ha svantaggio nelle prove che richiedono la vista.</p>"
+    },
+    "Condition: Bug Brain": {
+      "name": "Condizione: Cervello d'Insetto",
+      "description": ""
+    },
+    "Condition: Charmed": {
+      "name": "Condizione: Affascinato",
+      "description": "<p>Il personaggio è affascinato e considera la fonte come amica.</p>"
+    },
+    "Condition: Compelled": {
+      "name": "Condizione: Costretto",
+      "description": "<p>Il personaggio è costretto ad agire secondo il volere altrui.</p>"
+    },
+    "Condition: Cursed": {
+      "name": "Condizione: Maledetto",
+      "description": ""
+    },
+    "Condition: Deaf": {
+      "name": "Condizione: Assordato",
+      "description": "<p>Il personaggio non può sentire.</p>"
+    },
+    "Condition: Dying": {
+      "name": "Condizione: Moribondo",
+      "description": "<p>Il personaggio è sceso a 0 punti ferita, è privo di sensi e sta morendo.</p>"
+    },
+    "Condition: Enfeebled": {
+      "name": "Condizione: Indebolito",
+      "description": ""
+    },
+    "Condition: Exhausted": {
+      "name": "Condizione: Esausto",
+      "description": ""
+    },
+    "Condition: Gushing": {
+      "name": "Condizione: Sanguinante",
+      "description": ""
+    },
+    "Condition: Life Drain (1)": {
+      "name": "Condizione: Risucchio di Vita (1)",
+      "description": ""
+    },
+    "Condition: Life Drain (2)": {
+      "name": "Condizione: Risucchio di Vita (2)",
+      "description": ""
+    },
+    "Condition: Life Drain (3)": {
+      "name": "Condizione: Risucchio di Vita (3)",
+      "description": ""
+    },
+    "Condition: Life Drain (4)": {
+      "name": "Condizione: Risucchio di Vita (4)",
+      "description": ""
+    },
+    "Condition: Mesmerized": {
+      "name": "Condizione: Ipnotizzato",
+      "description": ""
+    },
+    "Condition: Paralyzed": {
+      "name": "Condizione: Paralizzato",
+      "description": "<p>Il personaggio è paralizzato e non può compiere azioni o muoversi.</p>"
+    },
+    "Condition: Petrified": {
+      "name": "Condizione: Pietrificato",
+      "description": ""
+    },
+    "Condition: Polymorphed": {
+      "name": "Condizione: Metamorfosato",
+      "description": "<p>Il personaggio è stato trasformato.</p>"
+    },
+    "Condition: Possessed": {
+      "name": "Condizione: Posseduto",
+      "description": "<p>Il personaggio è posseduto.</p>"
+    },
+    "Condition: Stuck": {
+      "name": "Condizione: Immobilizzato",
+      "description": "<p>Il personaggio non può muoversi finché non viene liberato.</p>"
+    },
+    "Condition: Stupified": {
+      "name": "Condizione: Inebetito",
+      "description": "<p>Il personaggio è inebetito.</p>"
+    }
+  }
+}

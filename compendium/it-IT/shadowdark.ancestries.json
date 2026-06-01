@@ -1,0 +1,37 @@
+{
+  "label": "Stirpi",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {},
+  "entries": {
+    "Dwarf": {
+      "description": "<p>Popolo coraggioso e tarchiato, tenace come le roccaforti che scava all'interno delle montagne. Conosci il Comune e il Nanesco.</p>",
+      "name": "Nano"
+    },
+    "Elf": {
+      "description": "<p>Popolo etereo e aggraziato che venera la conoscenza e la bellezza. Gli elfi ci vedono lontano e vivono a lungo. Conosci il Comune, l'Elfico e il Silvano.</p>",
+      "name": "Elfo"
+    },
+    "Goblin": {
+      "description": "<p>Creature verdastre e astute che prosperano in spazi angusti e oscuri. I goblin sono feroci quanto sono piccoli. Conosci il Comune e il Goblin.</p>",
+      "name": "Goblin"
+    },
+    "Half-Orc": {
+      "description": "<p>Guerrieri imponenti e zannuti, spietati come gli orchi e audaci come gli umani. Conosci il Comune e l'Orchesco.</p>",
+      "name": "Mezzorco"
+    },
+    "Halfling": {
+      "description": "<p>Esserini campagnoli di carattere allegro e propenso agli scherzi. Godono dei piaceri semplici. Conosci il Comune.</p>",
+      "name": "Halfling"
+    },
+    "Human": {
+      "description": "<p>Popolo intrepido, adattabile e variegato, che apprende in fretta ed è capace di grandi imprese. Conosci il Comune e un'altra lingua comune a tua scelta.</p>",
+      "name": "Umano"
+    },
+    "Kobold": {
+      "description": "<p>Piccoli umanoidi rettiliani dai tratti canini, propensi alle invenzioni, alla costruzione di trappole e dotati di un briciolo di magia.</p>",
+      "name": "Coboldo"
+    }
+  }
+}

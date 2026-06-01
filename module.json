@@ -1,0 +1,55 @@
+{
+  "id": "shadowdark-rpg-it",
+  "title": "ShadowDark - Traduzione in Italiano IT",
+  "description": "ShadowDark RPG. Traduzione Italiana. Basata sulla traduzione italiana di Need Games",
+  "library": "false",
+  "version": "1.0",
+  "url": "https://github.com/Arcadio21/shadowdark-rpg-it",
+  "manifest": "https://raw.githubusercontent.com/Arcadio21/shadowdark-rpg-it/main/module.json",
+  "download": "https://codeload.github.com/Arcadio21/shadowdark-rpg-it/zip/main",
+  "authors": [
+    {
+      "name": "Arcadio21",
+      "discord": "@arcadio21"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "shadowdark",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "media": [
+    {
+      "type": "setup",
+      "url": "",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "it-IT",
+      "name": "Italiano",
+      "path": "i18n/it.json",
+      "flags": {}
+    }
+  ]
+}

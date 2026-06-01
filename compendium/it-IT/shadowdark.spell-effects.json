@@ -1,0 +1,341 @@
+{
+  "label": "Effetti delle Magie",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {},
+  "entries": {
+    "Spell Effect: Acid Arrow": {
+      "name": "Effetto: Freccia Acida",
+      "description": "<p>Infliggi [[/r 1d6]] danni per turno. La freccia rimane sul bersaglio finché mantieni la concentrazione.</p>"
+    },
+    "Spell Effect: Alter Self": {
+      "name": "Effetto: Alterare Sé Stesso",
+      "description": ""
+    },
+    "Spell Effect: Anathema": {
+      "name": "Effetto: Anatema",
+      "description": "<p>Ammalia una creatura.</p><p>Ogni volta che tu o i tuoi alleati ferite il bersaglio, i suoi vecchi alleati possono effettuare una prova di [[check 15 wis]] per interrompere gli effetti di questa magia.</p>"
+    },
+    "Spell Effect: Anima": {
+      "name": "Effetto: Anima",
+      "description": ""
+    },
+    "Spell Effect: Barkskin": {
+      "name": "Effetto: Pelle di Corteccia",
+      "description": "<p>La tua pelle si indurisce diventando simile a solida corteccia d'albero. La tua CA diventa 14 (18 in caso di successo critico nel tiro di lancio) per la durata della magia.</p><p>Subisci il doppio dei danni da fuoco finché sei sotto l'effetto di questa magia.</p>"
+    },
+    "Spell Effect: Barkskin (Critical)": {
+      "name": "Effetto: Pelle di Corteccia (Critico)",
+      "description": "<p>La tua pelle si indurisce diventando simile a solida corteccia d'albero. La tua CA diventa 14 (18 in caso di successo critico nel tiro di lancio) per la durata della magia.</p><p>Subisci il doppio dei danni da fuoco finché sei sotto l'effetto di questa magia.</p>"
+    },
+    "Spell Effect: Befriend": {
+      "name": "Effetto: Amicizia",
+      "description": ""
+    },
+    "Spell Effect: Berserk": {
+      "name": "Effetto: Berserk",
+      "description": "<p>Immunità ai danni per 3 round.</p>"
+    },
+    "Spell Effect: Blind": {
+      "name": "Effetto: Cecità",
+      "description": "<p><span style=\"font-family: Signika, sans-serif\">La creatura ha Svantaggio in qualsiasi prova dipenda dal senso perduto.</span></p>"
+    },
+    "Spell Effect: Bogboil": {
+      "name": "Effetto: Palude Ribollente",
+      "description": "<p>Una creatura intrappolata nel fango non può muoversi e deve superare una prova di DES contro il tuo tiro di lancio per liberarsi.</p>"
+    },
+    "Spell Effect: Breath": {
+      "name": "Effetto: Respiro",
+      "description": "<p>Puoi trattenere il respiro per la durata della magia.</p>"
+    },
+    "Spell Effect: Broomstick": {
+      "name": "Effetto: Scopa Volante",
+      "description": "<p>Chi utilizza la scopa può volare fino a distanza media a ogni round e può fluttuare sul posto.</p>"
+    },
+    "Spell Effect: Cacklerot": {
+      "name": "Effetto: Marciume Sghignazzante",
+      "description": "<p>Cadi a terra indifeso, ridendo in modo sinistro e doloroso per la durata della magia.</p>"
+    },
+    "Spell Effect: Cast Out": {
+      "name": "Effetto: Esorcizzare",
+      "description": "<p>Per la durata della magia, questa creatura non può avvicinarsi a te a una distanza inferiore a media. Può comunque attaccarti da oltre la distanza media.</p>"
+    },
+    "Spell Effect: Cat's Eye": {
+      "name": "Effetto: Occhio di Gatto",
+      "description": "<p>Puoi vedere le creature invisibili e le porte segrete per la durata della magia.</p>"
+    },
+    "Spell Effect: Chant": {
+      "name": "Effetto: Cantico",
+      "description": "<p>Per la durata della magia, puoi vedere tutte le cose invisibili e nascoste come se fossero chiaramente visibili. Questa magia non ti permette di vedere in condizioni in cui normalmente non potresti, come nell'oscurità totale o attraverso i muri.</p>"
+    },
+    "Spell Effect: Charm Person": {
+      "name": "Effetto: Charme su Persone",
+      "description": "<p>L'umanoide ti considera un amico per la durata della magia. L'effetto svanisce immediatamente se nota che tu o i tuoi alleati fate qualcosa per ferirlo.</p>"
+    },
+    "Spell Effect: Cleansing Weapon": {
+      "name": "Effetto: Arma Purificatrice",
+      "description": "<p>Un'arma che tocchi viene avvolta da fiamme purificatrici. Infligge [[/r 1d4]] danni aggiuntivi ([[/r 1d6]] contro i non morti) per la durata dell'effetto.</p>"
+    },
+    "Spell Effect: Cloak of Night": {
+      "name": "Effetto: Manto della Notte",
+      "description": "<p>Per la durata della magia, la tua CA diventa 17 (20 con un successo critico nel tiro di lancio).</p><p>Hai Vantaggio nelle prove di Destrezza per muoverti furtivamente e nasconderti per la durata della magia.</p>"
+    },
+    "Spell Effect: Cloak of Night (Critical)": {
+      "name": "Effetto: Manto della Notte (Critico)",
+      "description": "<p>Per la durata della magia, la tua CA diventa 17 (20 con un successo critico nel tiro di lancio).</p><p>Hai Vantaggio nelle prove di Destrezza per muoverti furtivamente e nasconderti per la durata della magia.</p>"
+    },
+    "Spell Effect: Command": {
+      "name": "Effetto: Comando",
+      "description": "<p>Il bersaglio obbedisce al comando impartito finché mantieni la concentrazione.</p><p>Se il comando è direttamente dannoso per la creatura, questa può effettuare una prova di Carisma contro il tuo ultimo tiro di lancio. Se ha successo, la magia termina.</p>"
+    },
+    "Spell Effect: Confusion": {
+      "name": "Effetto: Confusione",
+      "description": "<p>Ipnottizzi una creatura che puoi vedere entro la gittata. Il bersaglio non può compiere azioni e si muove in una direzione casuale nel suo turno. Se il bersaglio è di livello 9+, può effettuare una prova di SAG contro il tuo ultimo tiro di lancio all'inizio del suo turno per tentare di terminare la magia.</p>"
+    },
+    "Spell Effect: Deaf": {
+      "name": "Effetto: Sordità",
+      "description": ""
+    },
+    "Spell Effect: Detect Magic": {
+      "name": "Effetto: Individuazione del Magico",
+      "description": "<p>Puoi percepire la presenza della magia entro distanza media per la durata dell'effetto. Se ti concentri per due round, puoi identificarne le proprietà generali. Le barriere solide bloccano questa magia.</p>"
+    },
+    "Spell Effect: Divine Vengeance": {
+      "name": "Effetto: Vendetta Divina",
+      "description": "<p>Diventi l'avatar divino dell'ira del tuo dio, avvolto da fiamme sacre o da un'aura oscura di ardente corruzione. Per la durata della magia, puoi volare fino a distanza media, le tue armi diventano magiche e ottieni un bonus di +4 ai tiri per colpire e ai danni con la tua arma.</p>"
+    },
+    "Spell Effect: Enfeeble (CHA)": {
+      "name": "Effetto: Indebolimento (CAR)",
+      "description": ""
+    },
+    "Spell Effect: Enfeeble (CON)": {
+      "name": "Effetto: Indebolimento (CON)",
+      "description": ""
+    },
+    "Spell Effect: Enfeeble (DEX)": {
+      "name": "Effetto: Indebolimento (DES)",
+      "description": ""
+    },
+    "Spell Effect: Enfeeble (INT)": {
+      "name": "Effetto: Indebolimento (INT)",
+      "description": ""
+    },
+    "Spell Effect: Enfeeble (STR)": {
+      "name": "Effetto: Indebolimento (FOR)",
+      "description": ""
+    },
+    "Spell Effect: Enfeeble (WIS)": {
+      "name": "Effetto: Indebolimento (SAG)",
+      "description": ""
+    },
+    "Spell Effect: Evoke Rage": {
+      "name": "Effetto: Suscitare Furia",
+      "description": "<p>Il bersaglio diventa immune alle prove di morale, ha Vantaggio alle prove di FOR e ai tiri per colpire in mischia, e infligge +1d4 danni aggiuntivi per la durata della magia.</p><p>Se il bersaglio non attacca un'altra creatura nel proprio turno, la magia termina.</p>"
+    },
+    "Spell Effect: Eyebite": {
+      "name": "Effetto: Sguardo Malefico",
+      "description": "<p>Il bersaglio non può vederti fino alla fine del suo prossimo turno.</p>"
+    },
+    "Spell Effect: Floating Disk": {
+      "name": "Effetto: Disco Fluttuante",
+      "description": ""
+    },
+    "Spell Effect: Fly": {
+      "name": "Effetto: Volare",
+      "description": "<p>I tuoi piedi si sollevano dal suolo e ti sfrecci in aria come un uccello. Puoi volare fino a distanza media per la durata della magia e sei in grado di fluttuare sul posto.</p>"
+    },
+    "Spell Effect: Freya's Omen": {
+      "name": "Effetto: Presagio di Freya",
+      "description": "<p>Per la durata della magia, non perdi la capacità di lanciare un incantesimo se fallisci il tiro per colpire di lancio.</p><p>Se ottieni un fallimento critico in un tiro di lancio, puoi ripetere il tiro. Devi utilizzare il nuovo risultato.</p>"
+    },
+    "Spell Effect: Gaseous Form": {
+      "name": "Effetto: Forma Gassosa",
+      "description": "<p>Tu e il tuo equipaggiamento vi trasformate in una nuvola di fumo per la durata della magia.</p><p>Puoi volare e attraversare qualsiasi apertura che il fumo potrebbe normalmente superare. Puoi percepire il terreno e qualsiasi movimento a distanza media intorno a te.</p><p>Non puoi lanciare incantesimi mentre ti trovi in questa forma.</p>"
+    },
+    "Spell Effect: Glassbones": {
+      "name": "Effetto: Ossa di Vetro",
+      "description": "<p>Una creatura che tocchi diventa fragile. Subisce danni raddoppiati per la durata della magia.</p>"
+    },
+    "Spell Effect: Hallucinate": {
+      "name": "Effetto: Allucinazione",
+      "description": "<p>Una creatura bersaglio situata a distanza media, il cui livello sia pari o inferiore al tuo, viene sopraffatta da visioni di ciò che potrebbe ancora accadere. Per la durata della magia, il bersaglio non può agire nel proprio turno a meno che non superi una prova di Saggezza pari al tuo ultimo tiro di lancio.</p>"
+    },
+    "Spell Effect: Hold Monster": {
+      "name": "Effetto: Blocca Mostri",
+      "description": "<p>Paralizzi una creatura che puoi vedere entro la gittata. Se il bersaglio è di livello 9+, può effettuare una prova di Forza contro il tuo ultimo tiro di lancio all'inizio del suo turno per terminare la magia.</p>"
+    },
+    "Spell Effect: Hold Person": {
+      "name": "Effetto: Blocca Persone",
+      "description": ""
+    },
+    "Spell Effect: Hold Portal": {
+      "name": "Effetto: Blocca Portale",
+      "description": ""
+    },
+    "Spell Effect: Holy Weapon": {
+      "name": "Effetto: Arma Sacra",
+      "description": ""
+    },
+    "Spell Effect: Hypnotize": {
+      "name": "Effetto: Ipnotizzare",
+      "description": "<p>Ipnotizzi una creatura che puoi vedere entro la gittata. Il bersaglio non può compiere azioni e si muove in una direzione casuale nel suo turno. Se il bersaglio è di livello 9+, può effettuare una prova di SAG contro il tuo ultimo tiro di lancio all'inizio del suo turno per tentare di terminare la magia.</p>"
+    },
+    "Spell Effect: Instill": {
+      "name": "Effetto: Incanalare vitalità",
+      "description": "<p>Un'arma che impugni viene infusa di forza vitale. Diventa un'arma +1 per la durata della magia.</p><p>Se l'arma è un bastone, infligge 1d6 danni invece di 1d4.</p>"
+    },
+    "Spell Effect: Invisibility": {
+      "name": "Effetto: Invisibilità",
+      "description": ""
+    },
+    "Spell Effect: Levitate": {
+      "name": "Effetto: Levitazione",
+      "description": ""
+    },
+    "Spell Effect: Locusts": {
+      "name": "Effetto: Sciame di Cavallette",
+      "description": "<p>Una nuvola disorientante di cavallette furiose e fameliche riempie un'area intorno a te fino a distanza media.</p><p>La nuvola si sposta insieme a te quando ti muovi. Tu non ne subisci gli effetti.</p><p>Le creature nell'area d'effetto subiscono [[/r 1d10]] danni per round all'inizio del loro turno. Devono inoltre superare una prova di CON pari al tuo ultimo tiro di lancio, altrimenti non potranno muoversi durante il loro turno.</p>"
+    },
+    "Spell Effect: Mage Armor": {
+      "name": "Effetto: Armatura Magica",
+      "description": ""
+    },
+    "Spell Effect: Mage Armor (Critical)": {
+      "name": "Effetto: Armatura Magica (Critico)",
+      "description": ""
+    },
+    "Spell Effect: Magnetize": {
+      "name": "Effetto: Magnetizzare",
+      "description": "<p>Un oggetto che tocchi, delle dimensioni massime di un cavallo, diventa fortemente magnetizzato.</p><p>Attira tutti gli oggetti magnetici più piccoli entro distanza media.</p><p>Se l'oggetto stesso è in grado di muoversi, viene attirato da oggetti magnetici più grandi situati a distanza media. Una creatura metallica deve superare una prova di FOR pari al tuo tiro di lancio per resistere.</p>"
+    },
+    "Spell Effect: Mirror Image": {
+      "name": "Effetto: Immagine Speculare",
+      "description": ""
+    },
+    "Spell Effect: Mistletoe": {
+      "name": "Effetto: Vischio",
+      "description": "<p>Due creature che puoi vedere, situate a distanza media da te, rimangono affascinate l'una dall'altra per 1d8 giorni.</p><p>Ogni volta che una delle creature colpite subisce danni, può effettuare una prova di [[check 15 cha]]. Se ha successo, la magia termina.</p>"
+    },
+    "Spell Effect: Oak, Ash, Thorn": {
+      "name": "Effetto: Quercia, Frassino e Spino",
+      "description": "<p>Per la durata della magia, fey, diavoli e demoni non possono attaccarti.</p><p>Queste creature non possono inoltre possederti, ammaliarti o influenzarti in alcun modo magico.</p>"
+    },
+    "Spell Effect: Odin's Wisdom": {
+      "name": "Effetto: Sapere di Odino",
+      "description": "<p>Per la durata della magia, aggiungi il tuo livello come bonus a tutte le prove di Saggezza e ai tiri di lancio delle magie.</p>"
+    },
+    "Spell Effect: Pillar of Salt": {
+      "name": "Effetto: Statua di Sale",
+      "description": "<p>Una creatura bersaglio si trasforma in una statua fatta di solido sale.</p><p>Il tuo bersaglio può essere una creatura di livello 5 o inferiore che sei in grado di vedere.</p><p>Se mantieni la concentrazione su questa magia per 3 round consecutivi, la trasformazione diventa permanente.</p>"
+    },
+    "Spell Effect: Pin Doll": {
+      "name": "Effetto: Bambola Voodoo",
+      "description": "<p>Unisci una ciocca di capelli o un pezzo di carne prelevato da una creatura a una piccola bambola di tela evocata da questa magia.</p><p>Nel tuo turno, mentre ti concentri sulla magia, puoi conficcare uno spillo nella bambola. Ogni volta che lo fai, la creatura a cui appartengono i capelli o la carne subisce [[/r 2d6]] danni.</p><p>Quando la magia termina, i capelli o la carne utilizzati si dissolvono in cenere.</p>"
+    },
+    "Spell Effect: Polymorph": {
+      "name": "Effetto: Metamorfosi",
+      "description": "<p>Trasformi una creatura che tocchi in un'altra creatura naturale di taglia pari o inferiore, a tua scelta. Qualsiasi equipaggiamento trasportato dal bersaglio si fonde nella nuova forma.</p><p>Il bersaglio acquisisce le caratteristiche e i punteggi fisici della nuova creatura, ma mantiene le proprie caratteristiche e punteggi mentali.</p><p>Se il bersaglio scende a 0 punti vita, ritorna alla sua forma originaria con la metà dei suoi PV precedenti.</p><p>Il bersaglio può essere una creatura consenziente, oppure una creatura non consenziente il cui livello sia pari o inferiore alla metà del tuo livello, arrotondato per difetto (minimo 1).</p>"
+    },
+    "Spell Effect: Protection from Energy (Cold)": {
+      "name": "Effetto: Protezione dall'Energia (Freddo)",
+      "description": "<p>Per la durata della magia, il bersaglio diventa immune ai danni da energia di tipo freddo.</p>"
+    },
+    "Spell Effect: Protection from Energy (Electricity)": {
+      "name": "Effetto: Protezione dall'Energia (Elettricità)",
+      "description": "<p>Per la durata della magia, il bersaglio diventa immune ai danni da energia di tipo elettrico.</p>"
+    },
+    "Spell Effect: Protection from Energy (Fire)": {
+      "name": "Effetto: Protezione dall'Energia (Fuoco)",
+      "description": "<p>Per la durata della magia, il bersaglio diventa immune ai danni da energia di tipo fuoco.</p>"
+    },
+    "Spell Effect: Protection From Evil": {
+      "name": "Effetto: Protezione dal Male",
+      "description": "<p>Per la durata della magia, le creature caotiche hanno Svantaggio nei tiri per colpire e nei lanci di incantesimi ostili contro il bersaglio. Tali creature non possono inoltre possedere, ammaliare o influenzare il bersaglio.</p><p>Se la magia viene lanciata su un bersaglio già posseduto, l'entità possidente effettua una prova di Carisma contro il tuo ultimo tiro di lancio. Se la fallisce, l'entità viene espulsa.</p>"
+    },
+    "Spell Effect: Puppet": {
+      "name": "Effetto: Marionetta",
+      "description": "<p>Una creatura umanoide di livello 2 o inferiore che tocchi perde il controllo dei propri movimenti. Nel tuo turno, la creatura imita fedelmente ogni tua azione fisica.</p><p>Se imitare i tuoi movimenti comporta un danno diretto per la creatura stessa o per un suo alleato, questa può effettuare una prova di [[check 15 cha]]. Se ha successo, riesce a resistere all'effetto per quel movimento.</p>"
+    },
+    "Spell Effect: Rebuke Unholy": {
+      "name": "Effetto: Scacciare il Profano",
+      "description": "<p>La creatura fugge lontano da te per 5 round.</p>"
+    },
+    "Spell Effect: Shapechanger": {
+      "name": "Effetto: Trasformazione",
+      "description": "<p>Ti trasformi, insieme a tutto l'equipaggiamento che indossi o trasporti, in un'altra creatura naturale che hai già visto in precedenza e che sia di livello 10 o inferiore. Assumi le caratteristiche e i punteggi fisici della creatura, ma mantieni le tue caratteristiche e i tuoi punteggi mentali (inclusi INT, SAG e CAR).</p><p>Se scendi a 0 punti vita mentre sei sotto l'effetto di questa magia, ritorni alla tua forma originaria con 1 PF.</p>"
+    },
+    "Spell Effect: Shield of Faith": {
+      "name": "Effetto: Scudo della Fede",
+      "description": ""
+    },
+    "Spell Effect: Sleep": {
+      "name": "Effetto: Sonno",
+      "description": "<p>Subire un danno o ricevere una vigorosa scrollata sveglia immediatamente la creatura.</p>"
+    },
+    "Spell Effect: Soulbind": {
+      "name": "Effetto: Vincolo dell'Anima",
+      "description": "<p>Sigilli l'anima di una creatura vivente, impedendo alla magia di influenzarla.</p><p>Una creatura che tocchi diventa di fatto immune a tutti gli incantesimi. Per la durata della magia, qualsiasi altro incantesimo (benefico o dannoso) che prenda come bersaglio la creatura richiede un tiro con CD 18 per avere effetto.</p><p>Questa magia termina immediatamente non appena il bersaglio viene influenzato da un altro incantesimo.</p>"
+    },
+    "Spell Effect: Spidersilk": {
+      "name": "Effetto: Tela di Ragno",
+      "description": "<p>Fili appiccicosi di seta di ragno ricoprono le tue mani e i tuoi piedi. Per la durata della magia, puoi camminare su superfici verticali con la stessa facilità con cui ti muovi sul terreno.</p>"
+    },
+    "Spell Effect: Stoneskin": {
+      "name": "Effetto: Pelle di Pietra",
+      "description": ""
+    },
+    "Spell Effect: Stoneskin (Critical)": {
+      "name": "Effetto: Pelle di Pietra (Critico)",
+      "description": ""
+    },
+    "Spell Effect: Summon Storm": {
+      "name": "Effetto: Evocare la Tempestà",
+      "description": "<p>Evochi una violenta tempesta che influenza un'area entro un raggio di 1,6 km da te per l'intera durata della magia.</p><p>La tempesta si manifesta con cieli cupi, venti fortissimi e pioggia torrenziale.</p><p>Puoi lanciare *controllare acqua* e *fulmine* per l'intera durata, anche se non conosci normalmente questi incantesimi.</p>"
+    },
+    "Spell Effect: Treeshape": {
+      "name": "Effetto: Forma d'Albero",
+      "description": "<p>Tu e il tuo equipaggiamento vi trasformate in un Ent con le caratteristiche riportate di seguito per la durata della magia.</p><p>Non possiedi la capacità dell'Ent di Animare Alberi.</p><p>Non puoi lanciare incantesimi finché ti trovi in questa forma.</p><p>Mantieni i tuoi punteggi di INT, SAG e CAR.</p><p><strong>CA</strong> 14, <strong>PF</strong> 38, <strong>ATQ</strong> 2 colpi +8 (1d12) o 1 roccia (lunga) +8 (2d6), <strong>MV</strong> media, <strong>F</strong> +4, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> *, <strong>S</strong> *, <strong>Car</strong> *, <strong>AL</strong> N, <strong>NV</strong> 8</p>"
+    },
+    "Spell Effect: Turn Undead": {
+      "name": "Effetto: Scacciare Non Morti",
+      "description": "<p>La creatura fugge lontano da te per 5 round.</p>"
+    },
+    "Spell Effect: Void Stare": {
+      "name": "Effetto: Sguardo del Vuoto",
+      "description": "<p>I tuoi occhi diventano completamente neri mentre fissi l'oscurità tra le stelle.</p><p>Una creatura di livello 6 o inferiore che sei in grado di vedere cade sotto il tuo totale controllo. Decidi tu tutte le azioni compiute dalla creatura durante il suo turno.</p>"
+    },
+    "Spell Effect: Web": {
+      "name": "Effetto: Ragnatela",
+      "description": "<p>Crei un cubo di ragnatela fitta e appiccicosa di taglia media entro la gittata. Una creatura intrappolata nella ragnatela non può muoversi e deve superare una prova di Forza contro il tuo tiro di lancio per potersi liberare.</p>"
+    },
+    "Spell Effect: Wolfshape (Dire Wolf)": {
+      "name": "Effetto: Forma di Lupo (Lupo Terribile)",
+      "description": "<p><strong>Lupo Terribile</strong></p><p><strong>CA</strong> 12, <strong>PF</strong> 19, <strong>ATQ</strong> 2 morsi [[/r 1d20+4]] ([[/r 1d8]]), <strong>MV</strong> media x2, <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +1</p><p><strong>Caccia in Branco.</strong> Infliggi +1 danno fintanto che un alleato si trova a distanza corta.</p><p>Tu e il tuo equipaggiamento vi trasformate in un lupo per la durata della magia. Assumi i punteggi di FOR, DES e CON, i PF, la CA, la velocità, gli attacchi e i tratti fisici del lupo. Mantieni i tuoi valori di INT, SAG e CAR.</p><p>Puoi lanciare incantesimi mentre ti trovi in questa forma. Se scendi a 0 PF, ritorni alla tua forma originaria con 0 PF.</p>"
+    },
+    "Spell Effect: Wolfshape (Winter Wolf)": {
+      "name": "Effetto: Forma di Lupo (Lupo Invernale)",
+      "description": "<p><strong>Lupo Invernale</strong></p><p><strong>CA</strong> 12, <strong>PF</strong> 23, <strong>ATQ</strong> 2 morsi [[/r 1d20+4]] ([[/r 1d6]]) o 1 soffio di ghiaccio, <strong>MV</strong> media x2, <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +1</p><p><strong>Invulnerabile.</strong> Immune al freddo.</p><p><strong>Soffio di Ghiaccio.</strong> Riempie un cubo di taglia media che si estende a partire dal lupo invernale. [[check 15 dex]] o subisce [[/r 3d8]] danni. Non è possibile riutilizzare questa capacità per [[/r 1d4]] round.</p><p>Tu e il tuo equipaggiamento vi trasformate in un lupo per la durata della magia. Assumi i punteggi di FOR, DES e CON, i PF, la CA, la velocità, gli attacchi e i tratti fisici del lupo. Mantieni i tuoi valori di INT, SAG e CAR.</p><p>Puoi lanciare incantesimi mentre ti trovi in questa forma. Se scendi a 0 PF, ritorni alla tua forma originaria con 0 PF.</p>"
+    },
+    "Spell Effect: Wolfshape (Wolf)": {
+      "name": "Effetto: Forma di Lupo (Lupo)",
+      "description": "<p><strong>Lupo</strong></p><p><strong>CA</strong> 12, <strong>PF</strong> 10, <strong>ATQ</strong> 1 morso [[/r 1d20+2]] ([[/r 1d6]]), <strong>MV</strong> media x2, <strong>F</strong> +2, <strong>D</strong> +2, <strong>C</strong> +1</p><p><strong>Caccia in Branco.</strong> Infliggi +1 danno fintanto che un alleato si trova a distanza corta.</p><p>Tu e il tuo equipaggiamento vi trasformate in un lupo per la durata della magia. Assumi i punteggi di FOR, DES e CON, i PF, la CA, la velocità, gli attacchi e i tratti fisici del lupo. Mantieni i tuoi valori di INT, SAG e CAR.</p><p>Puoi lanciare incantesimi mentre ti trovi in questa forma. Se scendi a 0 PF, ritorni alla tua forma originaria con 0 PF.</p>"
+    },
+    "Spell Effect: World Serpent": {
+      "name": "Effetto: Serpente del Mondo",
+      "description": "<p>Il veleno tormentoso del Serpente del Mondo gocciola dalle armi di una creatura che tocchi.</p><p>Il bersaglio infligge danni raddoppiati a ogni attacco (x4 in caso di colpo critico) per la durata della magia.</p>"
+    },
+    "Spell Effect: World Tree": {
+      "name": "Effetto: Albero del Mondo",
+      "description": "<p>Le radici dell'Albero del Mondo, la sorgente della vita, avvolgono l'anima di una creatura che tocchi.</p><p>Per la durata della magia, i PF del bersaglio non possono essere ridotti a meno di 1.</p>"
+    },
+    "Spell Effect: Wrath": {
+      "name": "Effetto: Ira",
+      "description": "<p>Le tue armi diventano magiche +2 e infliggono 1d8 danni aggiuntivi per la durata della magia.</p>"
+    },
+    "Spell Effect: Zone of Truth": {
+      "name": "Effetto: Zona di Verità",
+      "description": "<p>Costringi una creatura che vedi a dire la verità. Non può pronunciare intenzionalmente una bugia finché si trova entro la gittata.</p>"
+    }
+  }
+}

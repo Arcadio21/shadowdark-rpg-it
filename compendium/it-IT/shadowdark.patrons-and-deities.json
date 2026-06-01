@@ -1,0 +1,92 @@
+{
+  "label": "Patroni & Divinità",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Patrons": "Patroni",
+    "Deities": "Divinità"
+  },
+  "entries": {
+    "Almazzat": {
+      "name": "Almazzat",
+      "description": "<p>Un arcidemone con la testa di lupo, sei occhi e sei corna. Almazzat brama di sottrarre le Sabbie delle Ere a suo padre, Kytheros.</p>"
+    },
+    "Freya": {
+      "name": "Freya",
+      "description": "<p>La dea dell'amore e dell'odio. La Regina delle Vergini dello Scudo, le cui valchirie trasportano le anime degne al Grande Banchetto. La Prima Veggente, che legge i suoi presagi nelle ossa, nel sangue e nelle viscere. Freya ispira i poeti e poi li tormenta con la sua assenza.</p>"
+    },
+    "Gede": {
+      "name": "Gede",
+      "description": "<p>La dea dei banchetti, della gioia e delle terre selvagge. Gede è solitamente pacifica, ma tempeste primordiali scoppiano quando viene fatta infuriare. Molti elfi e halfling la adorano.</p>"
+    },
+    "Kytheros": {
+      "name": "Kytheros",
+      "description": "<p>Il Signore del Tempo, colui che vede tutti i futuri possibili. Kytheros brama il compimento di tutti i destini nel modo più tragico e distruttivo possibile.</p>"
+    },
+    "Madeera the Covenant": {
+      "name": "Madeera del Patto",
+      "description": "<p>La dea della legge, della giustizia e dei giuramenti. Madeera osserva il mondo con occhi d'argento e stringe patti vincolanti con i mortali. I suoi seguaci puniscono i traditori e difendono l'ordine.</p>"
+    },
+    "Memnon": {
+      "name": "Memnon",
+      "description": "<p>Il Maestro d'Arme, il generale degli eserciti celesti. Memnon esige disciplina, strategia e onore incrollabile in battaglia. I suoi paladini sono baluardi contro le orde del caos.</p>"
+    },
+    "Odin": {
+      "name": "Odino",
+      "description": "<p>Il Padre degli Dei, il re di Asgard. Odino sacrifica ogni cosa per la conoscenza e la magia arcanica. Cavalca Sleipnir e osserva il multiverso attraverso i suoi corvi, Hugin e Munin.</p>"
+    },
+    "Ord": {
+      "name": "Ord",
+      "description": "<p>Il Re della Luce, il dio del sole e della verità. Ord esige l'onestà e la distruzione implacabile dei non morti e delle eresie malevole. I suoi paladini portano la luce della legge nei dungeon più profondi.</p>"
+    },
+    "Radruun": {
+      "name": "Radruun",
+      "description": "<p>Il dio della caccia, delle foreste e del ciclo naturale. Radruun non cerca la giustizia ma l'equilibrio della natura. I suoi cacciatori proteggono i santuari naturali sia dalla civilizzazione forzata sia dalla corruzione demoniaca.</p>"
+    },
+    "Ramlaat": {
+      "name": "Ramlaat",
+      "description": "<p>Ramlaat è il Razziatore, il Barbaro, l'Orda. Molti orchi lo adorano e vivono secondo il Rito del Sangue, una profezia che afferma che solo i più forti sopravviveranno alla sventura imminente.</p>"
+    },
+    "Saint Terragnis": {
+      "name": "Santa Terragnis",
+      "description": "<p>Una cavaliera leggendaria che è la patrona della maggior parte degli umani legali. È ascesa alla divinità molto tempo fa, ed è la personificazione dell'integrità, del martirio e della giustizia.</p>"
+    },
+    "Shune the Vile": {
+      "name": "Shune la Vile",
+      "description": "<p>Shune la Vile sussurra segreti arcani a maghi e streghe che la invocano nell'oscurità della notte. Trama per spodestare Ord e assumere il controllo del grande flusso della magia.</p>"
+    },
+    "Titania": {
+      "name": "Titania",
+      "description": "<p>La volubile Regina delle Fate, che considera l'intera esistenza come un sogno fantasioso ricco di significati nascosti e drammi dolorosi. Titania cerca il capriccio, la bellezza e l'arte selvaggia.</p>"
+    },
+    "All Nord Gods": {
+      "name": "Tutti gli Dei Nordici",
+      "description": "<p>Il pantheon degli antichi dei guerrieri del nord. Esaltano il valore in combattimento, l'onore della stirpe e una morte gloriosa con le armi in pugno per guadagnarsi un seggio nelle sale del Valhalla.</p>"
+    },
+    "The Sea King": {
+      "name": "Il Re del Mare",
+      "description": "<p>Il sovrano degli abissi e delle tempeste oceaniche. Il Re del Mare è capriccioso e distruttivo; i marinai e i pirati gli offrono sacrifici per placare le sue onde e assicurarsi un viaggio sicuro.</p>"
+    },
+    "Thot": {
+      "name": "Thot",
+      "description": "<p>Il Maestro Inflessibile, il Saggio, il Guardiano dei Segreti. Egli è il dio della magia, della conoscenza, del tempo e dell'equilibrio neutro.</p>"
+    },
+    "The Crawling King": {
+      "name": "Il Re Strisciante",
+      "description": "<p>Il signore della putrefazione, delle malattie e dei parassiti sotterranei. Rappresenta la fine corrotta di ogni cosa e il trionfo del caos entropico; i suoi adoratori venerano le melme.</p>"
+    },
+    "Gorg": {
+      "name": "Gorg",
+      "description": "<p>Il Re delle Larve. Una divinità immonda che governa sul decadimento della carne e sulla corruzione spirituale. I suoi cultisti diffondono piaghe nell'oscurità dei vermi.</p>"
+    },
+    "Ramith": {
+      "name": "Ramith",
+      "description": "<p>Il Raggiratore, il patrono dei ladri, degli assassini e delle ombre. Ramith governa l'inganno, la fortuna capricciosa e il ribaltamento delle gerarchie sociali tramite il furto sacramento.</p>"
+    },
+    "Shuma": {
+      "name": "Shuma",
+      "description": "<p>Il Signore del Sangue, il dio della violenza cieca, della carneficina e dei mostri predatori. Shuma esige sacrifici di sangue freschi e glorifica unicamente la legge del più forte.</p>"
+    }
+  }
+}

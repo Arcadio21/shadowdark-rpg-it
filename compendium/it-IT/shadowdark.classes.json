@@ -1,0 +1,638 @@
+{
+  "label": "Classi",
+  "mapping": {
+    "description": "system.description",
+    "titles": "system.titles"
+  },
+  "folders": {},
+  "entries": {
+    "Bard (Legacy)": {
+      "name": "Bardo",
+      "description": "<p>I bardi sono viaggiatori benvenuti e saggi consiglieri; il loro compito è proteggere e condividere la conoscenza che viene tramandata attraverso le ere.</p>",
+      "titles": [
+        {
+          "chaotic": "Furfante",
+          "from": 1,
+          "lawful": "Cantastorie",
+          "neutral": "Cercatore",
+          "to": 2
+        },
+        {
+          "chaotic": "Ciarlatano",
+          "from": 3,
+          "lawful": "Trovatore",
+          "neutral": "Testimone",
+          "to": 4
+        },
+        {
+          "chaotic": "Satirista",
+          "from": 5,
+          "lawful": "Filosofo",
+          "neutral": "Oratore",
+          "to": 6
+        },
+        {
+          "chaotic": "Lingua d'Argento",
+          "from": 7,
+          "lawful": "Poeta",
+          "neutral": "Voce",
+          "to": 8
+        },
+        {
+          "chaotic": "Araldo della Rovina",
+          "from": 9,
+          "lawful": "Maestro Poeta",
+          "neutral": "Araldo della Verità",
+          "to": 10
+        }
+      ]
+    },
+    "Basilisk Warrior": {
+      "name": "Guerriero Basilisco",
+      "description": "<p>Guerrieri dagli occhi ardenti che ricoprono la propria pelle con fango e pietra. Il loro antico stile di combattimento imita la postura regale e i colpi feroci di un basilisco.</p>",
+      "titles": [
+        {
+          "chaotic": "Combattente di Pietra",
+          "from": 1,
+          "lawful": "Combattente di Pietra",
+          "neutral": "Combattente di Pietra",
+          "to": 2
+        },
+        {
+          "chaotic": "Pietra Tagliente",
+          "from": 3,
+          "lawful": "Pietra Forte",
+          "neutral": "Pietra Silenziosa",
+          "to": 4
+        },
+        {
+          "chaotic": "Sicario",
+          "from": 5,
+          "lawful": "Protettore",
+          "neutral": "Vigilante",
+          "to": 6
+        },
+        {
+          "chaotic": "Serpente della Luna",
+          "from": 7,
+          "lawful": "Serpente del Sole",
+          "neutral": "Serpente del Cielo",
+          "to": 8
+        },
+        {
+          "chaotic": "Basilisco d'Ossidiana",
+          "from": 9,
+          "lawful": "Basilisco d'Ambra",
+          "neutral": "Basilisco di Zaffiro",
+          "to": 10
+        }
+      ]
+    },
+    "Desert Rider": {
+      "name": "Cavaliere del Deserto",
+      "description": "<p>Barbari ululanti che sfrecciano sulla sabbia in sella a cavalli selvaggi, spie elfiche che brandiscono lame ricurve su cammelli argentati, o banditi avvolti in sete colorate che cavalcano snelli stalloni del deserto.</p>",
+      "titles": [
+        {
+          "chaotic": "Bandito",
+          "from": 1,
+          "lawful": "Esploratore",
+          "neutral": "Topo",
+          "to": 2
+        },
+        {
+          "chaotic": "Bandolero",
+          "from": 3,
+          "lawful": "Corridore delle Sabbie",
+          "neutral": "Volpe",
+          "to": 4
+        },
+        {
+          "chaotic": "Predone",
+          "from": 5,
+          "lawful": "Pioniere",
+          "neutral": "Lupo",
+          "to": 6
+        },
+        {
+          "chaotic": "Piaga",
+          "from": 7,
+          "lawful": "Vento Veloce",
+          "neutral": "Tigre",
+          "to": 8
+        },
+        {
+          "chaotic": "Re/Regina dei Banditi",
+          "from": 9,
+          "lawful": "Corridore della Tempesta",
+          "neutral": "Drago",
+          "to": 10
+        }
+      ]
+    },
+    "Fighter": {
+      "name": "Guerriero",
+      "description": "<p>Gladiatori insanguinati con armature ammaccate, duellanti acrobatici con spade da lancio, o arcieri elfici dalla vista acuta che forgiano le loro leggende con acciaio e coraggio.</p>",
+      "titles": [
+        {
+          "chaotic": "Furfante",
+          "from": 1,
+          "lawful": "Scudiero",
+          "neutral": "Guerriero",
+          "to": 2
+        },
+        {
+          "chaotic": "Bandito",
+          "from": 3,
+          "lawful": "Cavaliere",
+          "neutral": "Barbaro",
+          "to": 4
+        },
+        {
+          "chaotic": "Assassino",
+          "from": 5,
+          "lawful": "Paladino",
+          "neutral": "Berserker",
+          "to": 6
+        },
+        {
+          "chaotic": "Predone",
+          "from": 7,
+          "lawful": "Barone",
+          "neutral": "Capoguerra",
+          "to": 8
+        },
+        {
+          "chaotic": "Signore della Guerra",
+          "from": 9,
+          "lawful": "Lord/Lady",
+          "neutral": "Condottiero",
+          "to": 10
+        }
+      ]
+    },
+    "Knight of St. Ydris": {
+      "name": "Cavaliere di Sant'Ydris",
+      "description": "<p>Cavalieri maledetti che percorrono il cammino di Sant'Ydris, il Profano, l'Indemoniato. Abbracciano l'oscurità per combatterla, purificando il male con colpi d'acciaio e stregoneria proibita.</p>",
+      "titles": [
+        {
+          "chaotic": "Traditore",
+          "from": 1,
+          "lawful": "Arbitro",
+          "neutral": "Fratello/Sorella",
+          "to": 2
+        },
+        {
+          "chaotic": "Caduto",
+          "from": 3,
+          "lawful": "Esecutore",
+          "neutral": "Esorcista",
+          "to": 4
+        },
+        {
+          "chaotic": "Spergiuro",
+          "from": 5,
+          "lawful": "Cavaliere Maresciallo",
+          "neutral": "Cavaliere Reverendo",
+          "to": 6
+        },
+        {
+          "chaotic": "Rinnegato",
+          "from": 7,
+          "lawful": "Giudice",
+          "neutral": "Inquisitore",
+          "to": 8
+        },
+        {
+          "chaotic": "Signore dei Demoni",
+          "from": 9,
+          "lawful": "Giustiziere",
+          "neutral": "Grande Inquisitore",
+          "to": 10
+        }
+      ]
+    },
+    "Level 0": {
+      "name": "Livello 0",
+      "description": "<p>Alcune avventure iniziano con PG di livello 0: deboli popolani che non hanno ancora acquisito le capacità per essere avventurieri. I personaggi di livello 0 sono fragili.</p><p>Il GM dovrebbe consultare La Prova (The Gauntlet) a pag. 118 per maggiori dettagli.</p><p>Poiché i personaggi di livello 0 hanno la fortuna dei principianti, possono usare qualsiasi equipaggiamento finché non raggiungono il livello 1.</p><p>I personaggi di livello 0 iniziano con:</p><ul><li><p>Caratteristiche, pag. 15.</p></li><li><p>Scelta della Stirpe, pag. 16.</p></li><li><p>Punti ferita pari al modificatore di Costituzione (minimo 1).</p></li><li><p>Background, pag. 26.</p></li><li><p>Scelta dell'allineamento, pag. 27.</p></li><li><p>Equipaggiamento iniziale, pag. 33.</p></li></ul><p>I personaggi di livello 0 avanzano al livello 1 se sopravvivono alla loro prima avventura (vedi pag. 39).</p>",
+      "titles": [
+        {
+          "chaotic": "",
+          "from": null,
+          "lawful": "",
+          "neutral": "",
+          "to": null
+        }
+      ]
+    },
+    "Pit Fighter": {
+      "name": "Combattente della Fossa",
+      "description": "<p>Guerrieri insanguinati che si accerchiano in fosse rumorose, banditi del deserto coperti di cicatrici che duellano per il diritto di guidare la loro banda, o sfacciati attaccabrighe da taverna che non rifiutano mai una sfida.</p>",
+      "titles": [
+        {
+          "chaotic": "Attaccabrighe",
+          "from": 1,
+          "lawful": "Novellino",
+          "neutral": "Sfavorito",
+          "to": 2
+        },
+        {
+          "chaotic": "Bullo",
+          "from": 3,
+          "lawful": "Gladiatore",
+          "neutral": "Rivelazione",
+          "to": 4
+        },
+        {
+          "chaotic": "Canaglia",
+          "from": 5,
+          "lawful": "Eroe",
+          "neutral": "Jolly",
+          "to": 6
+        },
+        {
+          "chaotic": "Cattivo",
+          "from": 7,
+          "lawful": "Campione",
+          "neutral": "Vincitore",
+          "to": 8
+        },
+        {
+          "chaotic": "Leggenda",
+          "from": 9,
+          "lawful": "Leggenda",
+          "neutral": "Leggenda",
+          "to": 10
+        }
+      ]
+    },
+    "Priest": {
+      "name": "Sacerdote",
+      "description": "<p>Templari crociati, sciamani profetici o zeloti dallo sguardo folle che brandiscono il potere dei loro dèi per purificare gli empi.</p>",
+      "titles": [
+        {
+          "chaotic": "Iniziato",
+          "from": 1,
+          "lawful": "Accolito",
+          "neutral": "Cercatore",
+          "to": 2
+        },
+        {
+          "chaotic": "Fanatico",
+          "from": 3,
+          "lawful": "Crociato",
+          "neutral": "Invocatore",
+          "to": 4
+        },
+        {
+          "chaotic": "Cultista",
+          "from": 5,
+          "lawful": "Templare",
+          "neutral": "Aruspice",
+          "to": 6
+        },
+        {
+          "chaotic": "Flagello",
+          "from": 7,
+          "lawful": "Campione",
+          "neutral": "Mistico",
+          "to": 8
+        },
+        {
+          "chaotic": "Cavaliere del Caos",
+          "from": 9,
+          "lawful": "Paladino",
+          "neutral": "Oracolo",
+          "to": 10
+        }
+      ]
+    },
+    "Ranger": {
+      "name": "Ranger",
+      "description": "<p>Abili tracciatori, viandanti furtivi e combattenti impareggiabili che considerano le terre selvagge la loro casa.</p>",
+      "titles": [
+        {
+          "chaotic": "Incappucciato",
+          "from": 1,
+          "lawful": "Viandante",
+          "neutral": "Straniero",
+          "to": 2
+        },
+        {
+          "chaotic": "Fuorilegge",
+          "from": 3,
+          "lawful": "Camminatore",
+          "neutral": "Viaggiatore",
+          "to": 4
+        },
+        {
+          "chaotic": "Fuggitivo",
+          "from": 5,
+          "lawful": "Guardiano",
+          "neutral": "Forestiero",
+          "to": 6
+        },
+        {
+          "chaotic": "Esiliato",
+          "from": 7,
+          "lawful": "Protettore",
+          "neutral": "Recluso",
+          "to": 8
+        },
+        {
+          "chaotic": "Reietto",
+          "from": 9,
+          "lawful": "Sentinella",
+          "neutral": "Eremita",
+          "to": 10
+        }
+      ]
+    },
+    "Ras-Godai": {
+      "name": "Ras-Godai",
+      "description": "<p>Assassini vestiti di nero che si addestrano fin dall'infanzia in un monastero nascosto nel deserto. Ottengono i loro poteri mistici da un leggendario loto nero concesso loro da un demone.</p>",
+      "titles": [
+        {
+          "chaotic": "Accolito",
+          "from": 1,
+          "lawful": "Accolito",
+          "neutral": "Accolito",
+          "to": 2
+        },
+        {
+          "chaotic": "Via dell'Ombra",
+          "from": 3,
+          "lawful": "Via dello Specchio",
+          "neutral": "Via del Fuoco",
+          "to": 4
+        },
+        {
+          "chaotic": "Monaco",
+          "from": 5,
+          "lawful": "Monaco",
+          "neutral": "Monaco",
+          "to": 6
+        },
+        {
+          "chaotic": "Assassino",
+          "from": 7,
+          "lawful": "Maestro",
+          "neutral": "Lama Demoniaca",
+          "to": 8
+        },
+        {
+          "chaotic": "Loto Nero",
+          "from": 9,
+          "lawful": "Loto Bianco",
+          "neutral": "Loto Rosso",
+          "to": 10
+        }
+      ]
+    },
+    "Sea Wolf": {
+      "name": "Lupo di Mare",
+      "description": "<p>Predoni dei mari che solcano le isole in cerca di bottino su drakkar con la testa di drago. Quando suona il corno di guerra, diventano feroci berserker e fanciulle dello scudo che desiderano compiacere i loro dèi con una morte onorevole.</p>",
+      "titles": [
+        {
+          "chaotic": "Feccia",
+          "from": 1,
+          "lawful": "Uomo Libero",
+          "neutral": "Errante",
+          "to": 2
+        },
+        {
+          "chaotic": "Predone",
+          "from": 3,
+          "lawful": "Scudiero",
+          "neutral": "Esploratore",
+          "to": 4
+        },
+        {
+          "chaotic": "Saccheggiatore",
+          "from": 5,
+          "lawful": "Thegn",
+          "neutral": "Avventuriero",
+          "to": 6
+        },
+        {
+          "chaotic": "Conquistatore",
+          "from": 7,
+          "lawful": "Jarl",
+          "neutral": "Rinomato",
+          "to": 8
+        },
+        {
+          "chaotic": "Usurpatore",
+          "from": 9,
+          "lawful": "Re/Regina",
+          "neutral": "Leggendario",
+          "to": 10
+        }
+      ]
+    },
+    "Seer": {
+      "name": "Veggente",
+      "description": "<p>Sinistri oracoli che odorano di fumo e sangue. Svelano i sussurri degli dèi leggendo rune, ossa e stelle. La loro conoscenza del destino permette loro di plasmarlo.</p>",
+      "titles": [
+        {
+          "chaotic": "Stregone della Siepe",
+          "from": 1,
+          "lawful": "Guida",
+          "neutral": "Divinatore",
+          "to": 2
+        },
+        {
+          "chaotic": "Sussurratore",
+          "from": 3,
+          "lawful": "Incantatore",
+          "neutral": "Salmodiante",
+          "to": 4
+        },
+        {
+          "chaotic": "Lettore di Ossa",
+          "from": 5,
+          "lawful": "Lettore di Rune",
+          "neutral": "Lettore di Stelle",
+          "to": 6
+        },
+        {
+          "chaotic": "Il Temuto",
+          "from": 7,
+          "lawful": "Il Saggio",
+          "neutral": "Il Benedetto",
+          "to": 8
+        },
+        {
+          "chaotic": "Veggente di Loki",
+          "from": 9,
+          "lawful": "Veggente di Odino",
+          "neutral": "Veggente di Freya",
+          "to": 10
+        }
+      ]
+    },
+    "Thief": {
+      "name": "Ladro",
+      "description": "<p>Assassini che si muovono furtivi sui tetti, truffatori sorridenti o scalatori incappucciati capaci di strappare una gemma dagli artigli di un demone addormentato e venderla al doppio del suo prezzo.</p>",
+      "titles": [
+        {
+          "chaotic": "Delinquente",
+          "from": 1,
+          "lawful": "Malvivente",
+          "neutral": "Rapinatore",
+          "to": 2
+        },
+        {
+          "chaotic": "Tagliagole",
+          "from": 3,
+          "lawful": "Scassinatore",
+          "neutral": "Fuorilegge",
+          "to": 4
+        },
+        {
+          "chaotic": "Ombra",
+          "from": 5,
+          "lawful": "Truffatore",
+          "neutral": "Canaglia",
+          "to": 6
+        },
+        {
+          "chaotic": "Assassino",
+          "from": 7,
+          "lawful": "Sottocapo",
+          "neutral": "Rinnegato",
+          "to": 8
+        },
+        {
+          "chaotic": "Spettro",
+          "from": 9,
+          "lawful": "Capo",
+          "neutral": "Re/Regina dei Banditi",
+          "to": 10
+        }
+      ]
+    },
+    "Warlock": {
+      "name": "Warlock",
+      "description": "<p>Guerrieri ululanti con denti appuntiti, araldi del Giorno del Giudizio che predicano l'Annientamento con sguardo selvaggio, e cacciatori di storie incappucciati che nascondono i loro Marchi di Shune.</p>",
+      "titles": [
+        {
+          "chaotic": "Marchiato",
+          "from": 1,
+          "lawful": "Favorito",
+          "neutral": "Prescelto",
+          "to": 2
+        },
+        {
+          "chaotic": "Fanatico",
+          "from": 3,
+          "lawful": "Araldo",
+          "neutral": "Canalizzatore",
+          "to": 4
+        },
+        {
+          "chaotic": "Occultista",
+          "from": 5,
+          "lawful": "Eminente",
+          "neutral": "Profetizzato",
+          "to": 6
+        },
+        {
+          "chaotic": "Campione",
+          "from": 7,
+          "lawful": "Esaltato",
+          "neutral": "Trascendente",
+          "to": 8
+        },
+        {
+          "chaotic": "Precursore",
+          "from": 9,
+          "lawful": "Incarnazione",
+          "neutral": "Avatar",
+          "to": 10
+        }
+      ]
+    },
+    "Witch": {
+      "name": "Strega",
+      "description": "<p>Vecchie ricurve che borbottano sopra calderoni, sciamane coperte di sangue e fango che intonano canti, e fanciulle esiliate dagli occhi bianchi che scorgono segreti e presagi.</p>",
+      "titles": [
+        {
+          "chaotic": "Sussurratrice",
+          "from": 1,
+          "lawful": "Veggente",
+          "neutral": "Sciamana",
+          "to": 2
+        },
+        {
+          "chaotic": "Maledicente",
+          "from": 3,
+          "lawful": "Indovina",
+          "neutral": "Incantatrice",
+          "to": 4
+        },
+        {
+          "chaotic": "Megera",
+          "from": 5,
+          "lawful": "Profetessa",
+          "neutral": "Chiaroveggente",
+          "to": 6
+        },
+        {
+          "chaotic": "Vecchia",
+          "from": 7,
+          "lawful": "La Saggia",
+          "neutral": "Medium",
+          "to": 8
+        },
+        {
+          "chaotic": "Baba",
+          "from": 9,
+          "lawful": "Baba",
+          "neutral": "Baba",
+          "to": 10
+        }
+      ]
+    },
+    "Wizard": {
+      "name": "Mago",
+      "description": "<p>Adepti tatuati con rune, saggi con occhiali e streghe evocatrici di fiamme che osano manipolare le terribili forze della magia.</p>",
+      "titles": [
+        {
+          "chaotic": "Adepto",
+          "from": 1,
+          "lawful": "Apprendista",
+          "neutral": "Sciamano",
+          "to": 2
+        },
+        {
+          "chaotic": "Canalizzatore",
+          "from": 3,
+          "lawful": "Evocatore",
+          "neutral": "Veggente",
+          "to": 4
+        },
+        {
+          "chaotic": "Stregone",
+          "from": 5,
+          "lawful": "Arcanista",
+          "neutral": "Custode",
+          "to": 6
+        },
+        {
+          "chaotic": "Diabolista",
+          "from": 7,
+          "lawful": "Mago",
+          "neutral": "Saggio",
+          "to": 8
+        },
+        {
+          "chaotic": "Mago Oscuro",
+          "from": 9,
+          "lawful": "Arcimago",
+          "neutral": "Druido",
+          "to": 10
+        }
+      ]
+    }
+  }
+}

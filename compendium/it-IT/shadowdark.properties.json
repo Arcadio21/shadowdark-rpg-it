@@ -1,0 +1,76 @@
+{
+  "label": "Proprietà",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Armor": "Armatura",
+    "Weapon": "Arma"
+  },
+  "entries": {
+    "Blowgun": {
+      "name": "Cerbottana",
+      "description": "<p>Attaccare con quest'arma mentre si è nascosti non rivela la propria posizione.</p>"
+    },
+    "Bolas": {
+      "name": "Bolas",
+      "description": "<p>Quando colpisci una creatura dotata di zampe che sia della taglia di un cavallo o inferiore, la velocità del bersaglio è ridotta a corta finché non si libera ([[check 15 str]] o [[check 15 dex]]).</p>"
+    },
+    "Breakable": {
+      "name": "Fragile",
+      "description": "<p>Quest'arma si rompe se con un attacco si ottiene un 1 naturale.</p>"
+    },
+    "Disadvantage/Stealth": {
+      "name": "SVANT Furtività",
+      "description": "<p>Subisci svantaggio alle prove di furtività mentre indossi questa armatura.</p>"
+    },
+    "Disadvantage/Swim": {
+      "name": "SVANT Nuoto",
+      "description": "<p>Subisci svantaggio alle prove di nuoto mentre indossi questa armatura.</p>"
+    },
+    "Finesse": {
+      "name": "Accurata",
+      "description": "<p>Puoi usare FOR o DES quando attacchi con quest'arma.</p>"
+    },
+    "Loading": {
+      "name": "Ricarica",
+      "description": "<p>Devi spendere un'azione di movimento per ricaricare quest'arma prima di poter sparare di nuovo.</p>"
+    },
+    "No Swim": {
+      "name": "No Nuoto",
+      "description": "<p>Non puoi nuotare mentre indossi questa armatura.</p>"
+    },
+    "Occupies One Hand": {
+      "name": "Occupa una mano",
+      "description": "<p>Non puoi usare una delle tue mani mentre usi questo oggetto.</p>"
+    },
+    "Returning": {
+      "name": "Ritorno",
+      "description": "<p>Dopo un attacco a distanza, quest'arma ritorna nella tua mano.</p>"
+    },
+    "Shield": {
+      "name": "Scudo",
+      "description": "<p>Fornisce una protezione supplementare.</p>"
+    },
+    "Shuriken": {
+      "name": "Shuriken",
+      "description": "<p>Può essere lanciata contro il suolo. Le creature viventi che la calpestano subiscono 1 danno e possono muoversi solo a metà della loro velocità per 10 round.</p>"
+    },
+    "Sundering": {
+      "name": "Frantumazione",
+      "description": "<p><span style=\"font-family: Signika, sans-serif\">Quando vieni colpito da un attacco in mischia, puoi scegliere di distruggere quest'arma o armatura per negare tutti i danni dell'attacco.</span></p>"
+    },
+    "Thrown": {
+      "name": "Lancio",
+      "description": "<p>Puoi lanciare quest'arma per effettuare un attacco a distanza, usando FOR o DES.</p>"
+    },
+    "Two-Handed": {
+      "name": "A due mani",
+      "description": "<p>Devi usare due mani per attaccare con quest'arma.</p>"
+    },
+    "Versatile": {
+      "name": "Versatile",
+      "description": "<p>Puoi usare quest'arma a una o due mani. Il danno cambia in base a quante mani utilizzi.</p>"
+    }
+  }
+}

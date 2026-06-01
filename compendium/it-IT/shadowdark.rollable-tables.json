@@ -1,0 +1,2715 @@
+{
+  "label": "Tabelle Casuali",
+  "folders": {
+    "Adventuring Sites": "Luoghi d'Avventura",
+    "Patron Boons": "Doni dei Patroni",
+    "Random Encounters": "Incontri Aleatori",
+    "Hazards": "Pericoli",
+    "Character Background": "Origine del Personaggio",
+    "Magic Item": "Oggetti Magici",
+    "SoloDark": "SoloDark",
+    "Class Talents": "Talenti di Classe",
+    "Names": "Nomi",
+    "Traps": "Trappole"
+  },
+  "entries": {
+    "Adventuring Site Name: Name 1": {
+      "name": "Nome luogo dell'avventura: Nome 1",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Miniere del"
+        },
+        "2-2": {
+          "description": "Abbazia del"
+        },
+        "3-3": {
+          "description": "Torre del"
+        },
+        "4-4": {
+          "description": "Caverne del"
+        },
+        "5-5": {
+          "description": "Tumulo del"
+        },
+        "6-6": {
+          "description": "Cunicoli del"
+        },
+        "7-7": {
+          "description": "Cripta del"
+        },
+        "8-8": {
+          "description": "Monastero del"
+        },
+        "9-9": {
+          "description": "Rovine del"
+        },
+        "10-10": {
+          "description": "Gallerie del"
+        },
+        "11-11": {
+          "description": "Cittadella del"
+        },
+        "12-12": {
+          "description": "Tomba del"
+        },
+        "13-13": {
+          "description": "Castello del"
+        },
+        "14-14": {
+          "description": "Tempio del"
+        },
+        "15-15": {
+          "description": "Fortezza del"
+        },
+        "16-16": {
+          "description": "Isola del"
+        },
+        "17-17": {
+          "description": "Rocca del"
+        },
+        "18-18": {
+          "description": "Dungeon del"
+        },
+        "19-19": {
+          "description": "Necropoli del"
+        },
+        "20-20": {
+          "description": "Santuario del"
+        }
+      }
+    },
+    "Adventuring Site Name: Name 2": {
+      "name": "Nome luogo dell'avventura: Nome 2",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Fiamma"
+        },
+        "2-2": {
+          "description": "Fantasma"
+        },
+        "3-3": {
+          "description": "Buio"
+        },
+        "4-4": {
+          "description": "Picco"
+        },
+        "5-5": {
+          "description": "Terre di confine"
+        },
+        "6-6": {
+          "description": "Re"
+        },
+        "7-7": {
+          "description": "Crepuscolo"
+        },
+        "8-8": {
+          "description": "Profondità"
+        },
+        "9-9": {
+          "description": "Gioiello"
+        },
+        "10-10": {
+          "description": "Dio"
+        },
+        "11-11": {
+          "description": "Terre Luccicanti"
+        },
+        "12-12": {
+          "description": "Tempesta"
+        },
+        "13-13": {
+          "description": "Palude"
+        },
+        "14-14": {
+          "description": "Gola"
+        },
+        "15-15": {
+          "description": "Valle"
+        },
+        "16-16": {
+          "description": "Orda"
+        },
+        "17-17": {
+          "description": "Teschio"
+        },
+        "18-18": {
+          "description": "Regina"
+        },
+        "19-19": {
+          "description": "Lande"
+        },
+        "20-20": {
+          "description": "Eroe"
+        }
+      }
+    },
+    "Adventuring Site Name: Name 3": {
+      "name": "Nome luogo dell'avventura: Nome 3",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Maledetto"
+        },
+        "2-2": {
+          "description": "Sussurrante"
+        },
+        "3-3": {
+          "description": "Sanguinante"
+        },
+        "4-4": {
+          "description": "Ammantato"
+        },
+        "5-5": {
+          "description": "Perduto"
+        },
+        "6-6": {
+          "description": "Morto"
+        },
+        "7-7": {
+          "description": "Boscofondo"
+        },
+        "8-8": {
+          "description": "Caduto"
+        },
+        "9-9": {
+          "description": "Redivivo"
+        },
+        "10-10": {
+          "description": "Congelato"
+        },
+        "11-11": {
+          "description": "Incantato"
+        },
+        "12-12": {
+          "description": "Caos"
+        },
+        "13-13": {
+          "description": "Abbandonato"
+        },
+        "14-14": {
+          "description": "Degradato"
+        },
+        "15-15": {
+          "description": "Dimenticato"
+        },
+        "16-16": {
+          "description": "Dormiente"
+        },
+        "17-17": {
+          "description": "Selvaggio"
+        },
+        "18-18": {
+          "description": "Sacrilego"
+        },
+        "19-19": {
+          "description": "Incantevole"
+        },
+        "20-20": {
+          "description": "Immortale"
+        }
+      }
+    },
+    "Background": {
+      "name": "Background",
+      "description": "<p>Le conoscenze e le abilità acquisite nel tuo passato possono esserti utili durante le tue avventure.</p><p>Parla con il MJ per determinare se il tuo background ti garantisce Vantaggio in determinate situazioni.</p>",
+      "results": {
+        "1-1": {
+          "description": "Moneletto"
+        },
+        "2-2": {
+          "description": "Ricercato"
+        },
+        "3-3": {
+          "description": "Iniziato del culto"
+        },
+        "4-4": {
+          "description": "Gilda dei ladri"
+        },
+        "5-5": {
+          "description": "Esiliato"
+        },
+        "6-6": {
+          "description": "Orfano"
+        },
+        "7-7": {
+          "description": "Apprendista mago"
+        },
+        "8-8": {
+          "description": "Gioielliere"
+        },
+        "9-9": {
+          "description": "Erborista"
+        },
+        "10-10": {
+          "description": "Barbaro"
+        },
+        "11-11": {
+          "description": "Mercenario"
+        },
+        "12-12": {
+          "description": "Marinaio"
+        },
+        "13-13": {
+          "description": "Accolito"
+        },
+        "14-14": {
+          "description": "Soldato"
+        },
+        "15-15": {
+          "description": "Guardiano"
+        },
+        "16-16": {
+          "description": "Esploratore"
+        },
+        "17-17": {
+          "description": "Menestrello"
+        },
+        "18-18": {
+          "description": "Studioso"
+        },
+        "19-19": {
+          "description": "Nobile"
+        },
+        "20-20": {
+          "description": "Chirurgo"
+        }
+      }
+    },
+    "Black Lotus Talents": {
+      "name": "Talenti del Loto Nero",
+      "description": "<p>Puoi tenere o tirare nuovamente i duplicati.</p>",
+      "results": {
+        "1-1": {
+          "description": "Talenti del Loto Nero"
+        },
+        "2-2": {
+          "description": "Paralizzare un bersaglio"
+        },
+        "3-3": {
+          "description": "Evitare Imprigionamenti/Ferite"
+        },
+        "4-4": {
+          "description": "+1 alla CA combattendo con due armi"
+        },
+        "5-5": {
+          "description": "PF Addizionali"
+        },
+        "6-6": {
+          "description": "Danno Triplo dell'Assassino"
+        },
+        "7-7": {
+          "description": "Prova di Morale con CD 18"
+        },
+        "8-8": {
+          "description": "Camminare sull'acqua"
+        },
+        "9-9": {
+          "description": "Addormentare una creatura"
+        },
+        "10-10": {
+          "description": "Camminare su superfici ripide"
+        },
+        "11-11": {
+          "description": "+1 al danno corpo a corpo"
+        },
+        "12-12": {
+          "description": "Nascondersi da una creatura"
+        }
+      }
+    },
+    "Character Names: Dwarf": {
+      "name": "Nomi dei Personaggi: Nano",
+      "description": "",
+      "results": {}
+    },
+    "Character Names: Elf": {
+      "name": "Nomi dei Personaggi: Elfo",
+      "description": "",
+      "results": {}
+    },
+    "Character Names: Goblin": {
+      "name": "Nomi dei Personaggi: Goblin",
+      "description": "",
+      "results": {}
+    },
+    "Character Names: Half-Orc": {
+      "name": "Nomi dei Personaggi: Mezzorco",
+      "description": "",
+      "results": {}
+    },
+    "Character Names: Halfling": {
+      "name": "Nomi dei Personaggi: Halfling",
+      "description": "",
+      "results": {}
+    },
+    "Character Names: Human": {
+      "name": "Nomi dei Personaggi: Umano",
+      "description": "",
+      "results": {}
+    },
+    "Character Names: Kobold": {
+      "name": "Nomi dei Personaggi: Coboldo",
+      "description": "",
+      "results": {}
+    },
+    "Class Talents: Bard": {
+      "name": "Talenti di Classe: Bardo",
+      "description": "",
+      "text": "+2 punti da distribuire in qualsiasi caratteristica"
+    },
+    "Class Talents: Basilisk Warrior": {
+      "name": "Talenti di Classe: Combattente Basilisco",
+      "description": ""
+    },
+    "Class Talents: Desert Rider": {
+      "name": "Talenti di Classe: Cavaliere del Deserto",
+      "description": "<p>Duplicato = tira nuovamente.</p>"
+    },
+    "Class Talents: Fighter": {
+      "name": "Talenti di Classe: Guerriero",
+      "description": ""
+    },
+    "Class Talents: Knight of St. Ydris": {
+      "name": "Talenti di Classe: Cavaliere di San Ydris",
+      "description": ""
+    },
+    "Class Talents: Pit Fighter": {
+      "name": "Talenti di Classe: Gladiatore della Fossa",
+      "description": ""
+    },
+    "Class Talents: Priest": {
+      "name": "Talenti di Classe: Sacerdote",
+      "description": ""
+    },
+    "Class Talents: Ranger": {
+      "name": "Talenti di Classe: Ranger",
+      "description": ""
+    },
+    "Class Talents: Ras-Godai": {
+      "name": "Talenti di Classe: Ras-Godai",
+      "description": ""
+    },
+    "Class Talents: Sea Wolf": {
+      "name": "Talenti di Classe: Lupo del Mare",
+      "description": ""
+    },
+    "Class Talents: Seer": {
+      "name": "Talenti di Classe: Veggente",
+      "description": ""
+    },
+    "Class Talents: Thief": {
+      "name": "Talenti di Classe: Ladro",
+      "description": ""
+    },
+    "Class Talents: Warlock": {
+      "name": "Talenti di Classe: Profanatore",
+      "description": ""
+    },
+    "Class Talents: Witch": {
+      "name": "Talenti di Classe: Strega",
+      "description": ""
+    },
+    "Class Talents: Wizard": {
+      "name": "Talenti di Classe: Mago",
+      "description": ""
+    },
+    "Distribute to Stats": {
+      "name": "Distribuire tra le Caratteristiche",
+      "description": ""
+    },
+    "Dungeon Names: Name 1": {
+      "name": "Nome di dungeon: Nome 1",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Cittadella"
+        },
+        "2-3": {
+          "description": "Naufragio"
+        },
+        "4-5": {
+          "description": "Rovine"
+        },
+        "6-7": {
+          "description": "Cappella"
+        },
+        "8-9": {
+          "description": "Biblioteca"
+        },
+        "10-11": {
+          "description": "Sepoltura"
+        },
+        "12-13": {
+          "description": "Baluardo"
+        },
+        "14-15": {
+          "description": "Laboratorio"
+        },
+        "16-17": {
+          "description": "Abbazia"
+        },
+        "18-19": {
+          "description": "Prigione"
+        },
+        "20-21": {
+          "description": "Tomba"
+        },
+        "22-23": {
+          "description": "Forgia"
+        },
+        "24-25": {
+          "description": "Gola"
+        },
+        "26-27": {
+          "description": "Monastero"
+        },
+        "28-29": {
+          "description": "Guglia"
+        },
+        "30-31": {
+          "description": "Nascondiglio"
+        },
+        "32-33": {
+          "description": "Castello"
+        },
+        "34-35": {
+          "description": "Tunnel"
+        },
+        "36-37": {
+          "description": "Saloni"
+        },
+        "38-39": {
+          "description": "Torre"
+        },
+        "40-41": {
+          "description": "Fattoria"
+        },
+        "42-43": {
+          "description": "Subcittà"
+        },
+        "44-45": {
+          "description": "Nido"
+        },
+        "46-47": {
+          "description": "Caveau"
+        },
+        "48-49": {
+          "description": "Osservatorio"
+        },
+        "50-53": {
+          "description": "Manicomio"
+        },
+        "54-55": {
+          "description": "Sepolcro"
+        },
+        "56-57": {
+          "description": "Tumulo"
+        },
+        "58-59": {
+          "description": "Palazzo"
+        },
+        "60-61": {
+          "description": "Bastione"
+        },
+        "62-63": {
+          "description": "Caverne"
+        },
+        "64-65": {
+          "description": "Altare"
+        },
+        "66-67": {
+          "description": "Giardino"
+        },
+        "68-69": {
+          "description": "Tempio"
+        },
+        "70-71": {
+          "description": "Labirinto"
+        },
+        "72-73": {
+          "description": "Ridotto"
+        },
+        "74-75": {
+          "description": "Piramide"
+        },
+        "76-77": {
+          "description": "Santuario"
+        },
+        "78-79": {
+          "description": "Miniere"
+        },
+        "80-81": {
+          "description": "Tana"
+        },
+        "82-83": {
+          "description": "Antro"
+        },
+        "84-85": {
+          "description": "Fossi"
+        },
+        "86-87": {
+          "description": "Grotta"
+        },
+        "88-89": {
+          "description": "Profondità"
+        },
+        "90-91": {
+          "description": "Fortezza"
+        },
+        "92-93": {
+          "description": "Magione"
+        },
+        "94-95": {
+          "description": "Tane"
+        },
+        "96-97": {
+          "description": "Monolito"
+        },
+        "98-99": {
+          "description": "Cripte"
+        },
+        "100-100": {
+          "description": "Dungeon"
+        }
+      }
+    },
+    "Dungeon Names: Name 2": {
+      "name": "Nome di dungeon: Nome 2",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "del-Idolo"
+        },
+        "2-3": {
+          "description": "del Traditore"
+        },
+        "4-5": {
+          "description": "del Re"
+        },
+        "6-7": {
+          "description": "dell'Elefante"
+        },
+        "8-9": {
+          "description": "del Dio"
+        },
+        "10-11": {
+          "description": "del Culto"
+        },
+        "12-13": {
+          "description": "del Cavaliere"
+        },
+        "14-15": {
+          "description": "dell'Eroe"
+        },
+        "16-17": {
+          "description": "dei Pirati"
+        },
+        "18-19": {
+          "description": "dello Spirito"
+        },
+        "20-21": {
+          "description": "delle Sorelle"
+        },
+        "22-23": {
+          "description": "della Spada"
+        },
+        "24-25": {
+          "description": "della Bestia"
+        },
+        "26-27": {
+          "description": "degli Antichi"
+        },
+        "28-29": {
+          "description": "dei Perduti"
+        },
+        "30-31": {
+          "description": "dei Reietti"
+        },
+        "32-33": {
+          "description": "del Marinaio"
+        },
+        "34-35": {
+          "description": "dei Non Morti"
+        },
+        "36-37": {
+          "description": "del Mago"
+        },
+        "38-39": {
+          "description": "del Tesoro"
+        },
+        "40-41": {
+          "description": "della Mummia"
+        },
+        "42-43": {
+          "description": "dell'Usurpatore"
+        },
+        "44-45": {
+          "description": "del Santo"
+        },
+        "46-47": {
+          "description": "del Meccanismo"
+        },
+        "48-49": {
+          "description": "dei Fratelli"
+        },
+        "50-53": {
+          "description": "del Lord"
+        },
+        "54-55": {
+          "description": "del Discendente"
+        },
+        "56-57": {
+          "description": "dell'Abominio"
+        },
+        "58-59": {
+          "description": "dell'Eremita"
+        },
+        "60-61": {
+          "description": "del Signore della Guerra"
+        },
+        "62-63": {
+          "description": "del Cacciatore"
+        },
+        "64-65": {
+          "description": "della Gilda"
+        },
+        "66-67": {
+          "description": "del Vampiro"
+        },
+        "68-69": {
+          "description": "del Filosofo"
+        },
+        "70-71": {
+          "description": "dei Guerrieri"
+        },
+        "72-73": {
+          "description": "della Regina"
+        },
+        "74-75": {
+          "description": "della Gemma"
+        },
+        "76-77": {
+          "description": "del Segreto"
+        },
+        "78-79": {
+          "description": "dell'Imperatore"
+        },
+        "80-81": {
+          "description": "dell'Arma"
+        },
+        "82-83": {
+          "description": "dello Stregone"
+        },
+        "84-85": {
+          "description": "della Corona"
+        },
+        "86-87": {
+          "description": "dell'Antenato"
+        },
+        "88-89": {
+          "description": "delle Rune"
+        },
+        "90-91": {
+          "description": "dell'Albero"
+        },
+        "92-93": {
+          "description": "dell'Assassino"
+        },
+        "94-95": {
+          "description": "della Reliquia"
+        },
+        "96-97": {
+          "description": "della Benedizione"
+        },
+        "98-99": {
+          "description": "del Rituale"
+        },
+        "100-100": {
+          "description": "del Signore Supremo"
+        }
+      }
+    },
+    "Dungeon Names: Name 3": {
+      "name": "Nome di dungeon: Nome 3",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Infestato"
+        },
+        "2-3": {
+          "description": "Dimenticato"
+        },
+        "4-5": {
+          "description": "Disonorato"
+        },
+        "6-7": {
+          "description": "Barbaro"
+        },
+        "8-9": {
+          "description": "Monstruoso"
+        },
+        "10-11": {
+          "description": "Caduto"
+        },
+        "12-13": {
+          "description": "Maledetto"
+        },
+        "14-15": {
+          "description": "Imprigionato"
+        },
+        "16-17": {
+          "description": "Velenoso"
+        },
+        "18-19": {
+          "description": "Ciclopico"
+        },
+        "20-21": {
+          "description": "del Cielo"
+        },
+        "22-23": {
+          "description": "Congelato"
+        },
+        "24-25": {
+          "description": "Fiammeggiante"
+        },
+        "26-27": {
+          "description": "dei Ladri"
+        },
+        "28-29": {
+          "description": "Cristallino"
+        },
+        "30-31": {
+          "description": "Oltre-mondo"
+        },
+        "32-33": {
+          "description": "In rovina"
+        },
+        "34-35": {
+          "description": "Primitivo"
+        },
+        "36-37": {
+          "description": "Draconico"
+        },
+        "38-39": {
+          "description": "Etereo"
+        },
+        "40-41": {
+          "description": "Profanato"
+        },
+        "42-43": {
+          "description": "Rettiliano"
+        },
+        "44-45": {
+          "description": "Metallico"
+        },
+        "46-47": {
+          "description": "Insettoide"
+        },
+        "48-49": {
+          "description": "Elvendale"
+        },
+        "50-53": {
+          "description": "Aracnide"
+        },
+        "54-55": {
+          "description": "Demoniaco"
+        },
+        "56-57": {
+          "description": "Fungino"
+        },
+        "58-59": {
+          "description": "Dorato"
+        },
+        "60-61": {
+          "description": "Fata"
+        },
+        "62-63": {
+          "description": "dei Fulmini"
+        },
+        "64-65": {
+          "description": "dei Pesci"
+        },
+        "66-67": {
+          "description": "Corrotto"
+        },
+        "68-69": {
+          "description": "Giusto"
+        },
+        "70-71": {
+          "description": "di Fango"
+        },
+        "72-73": {
+          "description": "della Notte"
+        },
+        "74-75": {
+          "description": "Occulto"
+        },
+        "76-77": {
+          "description": "Proibito"
+        },
+        "78-79": {
+          "description": "Scintillante"
+        },
+        "80-81": {
+          "description": "di Vetro"
+        },
+        "82-83": {
+          "description": "Radiante"
+        },
+        "84-85": {
+          "description": "Folle"
+        },
+        "86-87": {
+          "description": "Selvaggio"
+        },
+        "88-89": {
+          "description": "Perduto"
+        },
+        "90-91": {
+          "description": "Maestoso"
+        },
+        "92-93": {
+          "description": "Antidiluviano"
+        },
+        "94-95": {
+          "description": "Profetizzato"
+        },
+        "96-97": {
+          "description": "Velato"
+        },
+        "98-99": {
+          "description": "Cosmico"
+        },
+        "100-100": {
+          "description": "Leggendario"
+        }
+      }
+    },
+    "Hazard: Damage": {
+      "name": "Pericolo: Danno",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Pozzanghere di Acido"
+        },
+        "2-2": {
+          "description": "Rocce che esplodono"
+        },
+        "3-3": {
+          "description": "Acqua congelante"
+        },
+        "4-4": {
+          "description": "Lava"
+        },
+        "5-5": {
+          "description": "Grandine intensa"
+        },
+        "6-6": {
+          "description": "Sfiato di vapore"
+        },
+        "7-7": {
+          "description": "Muffa tossica"
+        },
+        "8-8": {
+          "description": "Caduta di detriti"
+        },
+        "9-9": {
+          "description": "Pioggia acida"
+        },
+        "10-10": {
+          "description": "Cortina di fuoco"
+        },
+        "11-11": {
+          "description": "Campo elettrificato"
+        },
+        "12-12": {
+          "description": "Flusso gravitazionale"
+        }
+      }
+    },
+    "Hazard: Movement": {
+      "name": "Pericolo: Movimento",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Sabbie mobili"
+        },
+        "2-2": {
+          "description": "Triboli"
+        },
+        "3-3": {
+          "description": "Detriti instabili"
+        },
+        "4-4": {
+          "description": "Pozza di catrame"
+        },
+        "5-5": {
+          "description": "Viticci ghermitori"
+        },
+        "6-6": {
+          "description": "Pendenza ripida"
+        },
+        "7-7": {
+          "description": "Ghiaccio scivoloso"
+        },
+        "8-8": {
+          "description": "Forte corrente"
+        },
+        "9-9": {
+          "description": "Teie appiccicose"
+        },
+        "10-10": {
+          "description": "Forte vento"
+        },
+        "11-11": {
+          "description": "Terreno oleoso"
+        },
+        "12-12": {
+          "description": "Terreno illusorio"
+        }
+      }
+    },
+    "Hazard: Weaken": {
+      "name": "Pericolo: Indebolimento",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Fumo accecante"
+        },
+        "2-2": {
+          "description": "Campo magnetico"
+        },
+        "3-3": {
+          "description": "Rune di sfinimento"
+        },
+        "4-4": {
+          "description": "Zona antimagia"
+        },
+        "5-5": {
+          "description": "Spegne le fonti di luce"
+        },
+        "6-6": {
+          "description": "Suono disorientante"
+        },
+        "7-7": {
+          "description": "Silenzio magico"
+        },
+        "8-8": {
+          "description": "Freddo intorpidente"
+        },
+        "9-9": {
+          "description": "Puzzo nauseabondo"
+        },
+        "10-10": {
+          "description": "Spore sonnifere"
+        },
+        "11-11": {
+          "description": "Riflessi distorcenti"
+        },
+        "12-12": {
+          "description": "Ladro di ricordi"
+        }
+      }
+    },
+    "Magic Item: Name 1": {
+      "name": "Oggetto Magico: Nome 1",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "La Lâmina"
+        },
+        "2-2": {
+          "description": "Il Cataplasma"
+        },
+        "3-3": {
+          "description": "Il Rituale"
+        },
+        "4-4": {
+          "description": "L'Ascia"
+        },
+        "5-5": {
+          "description": "Il Martello"
+        },
+        "6-6": {
+          "description": "La Bacchetta"
+        },
+        "7-7": {
+          "description": "Il Mantello"
+        },
+        "8-8": {
+          "description": "Il Tomo"
+        },
+        "9-9": {
+          "description": "La Litania"
+        },
+        "10-10": {
+          "description": "Il Bastone"
+        },
+        "11-11": {
+          "description": "La Pergamena"
+        },
+        "12-12": {
+          "description": "Il Teschio"
+        },
+        "13-13": {
+          "description": "L'Arco"
+        },
+        "14-14": {
+          "description": "La Spada"
+        },
+        "15-15": {
+          "description": "Lo Scudo"
+        },
+        "16-16": {
+          "description": "Il Pugnale"
+        },
+        "17-17": {
+          "description": "L'Armatura"
+        },
+        "18-18": {
+          "description": "L'Orbe"
+        },
+        "19-19": {
+          "description": "L'Occhio"
+        },
+        "20-20": {
+          "description": "L'Elisir"
+        }
+      }
+    },
+    "Magic Item: Name 2": {
+      "name": "Oggetto Magico: Nome 2",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Cremisi"
+        },
+        "2-2": {
+          "description": "delle Ceneri"
+        },
+        "3-3": {
+          "description": "di Ortival"
+        },
+        "4-4": {
+          "description": "della Rovina"
+        },
+        "5-5": {
+          "description": "del Crepuscolo"
+        },
+        "6-6": {
+          "description": "Astrale"
+        },
+        "7-7": {
+          "description": "di Krull"
+        },
+        "8-8": {
+          "description": "Crudele"
+        },
+        "9-9": {
+          "description": "di Memnon"
+        },
+        "10-10": {
+          "description": "Benedetto"
+        },
+        "11-11": {
+          "description": "Infernale"
+        },
+        "12-12": {
+          "description": "di Madeera"
+        },
+        "13-13": {
+          "description": "Sussurrante"
+        },
+        "14-14": {
+          "description": "Profano"
+        },
+        "15-15": {
+          "description": "di Shune"
+        },
+        "16-16": {
+          "description": "Perduto"
+        },
+        "17-17": {
+          "description": "di Ord"
+        },
+        "18-18": {
+          "description": "Virtuoso"
+        },
+        "19-19": {
+          "description": "Demoniaco"
+        },
+        "20-20": {
+          "description": "Primordiale"
+        }
+      }
+    },
+    "Magic Item: Name 3": {
+      "name": "Oggetto Magico: Nome 3",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "della Morte Tonante"
+        },
+        "2-2": {
+          "description": "delle Ere"
+        },
+        "3-3": {
+          "description": "dell'Arcimago"
+        },
+        "4-4": {
+          "description": "della Distruzione"
+        },
+        "5-5": {
+          "description": "di Brak"
+        },
+        "6-6": {
+          "description": "del Potere"
+        },
+        "7-7": {
+          "description": "dell'Alleanza"
+        },
+        "8-8": {
+          "description": "delle Lande"
+        },
+        "9-9": {
+          "description": "delle Orde"
+        },
+        "10-10": {
+          "description": "del Sangue"
+        },
+        "11-11": {
+          "description": "del Tempo"
+        },
+        "12-12": {
+          "description": "della Regina Lich"
+        },
+        "13-13": {
+          "description": "degli Antichi"
+        },
+        "14-14": {
+          "description": "della Follia"
+        },
+        "15-15": {
+          "description": "dello Svanimento"
+        },
+        "16-16": {
+          "description": "dell'Annientamento"
+        },
+        "17-17": {
+          "description": "del Drago"
+        },
+        "18-18": {
+          "description": "dei Redivivi"
+        },
+        "19-19": {
+          "description": "della Furia Elemntale"
+        },
+        "20-20": {
+          "description": "degli Spiriti"
+        }
+      }
+    },
+    "Oracle": {
+      "name": "Oracolo",
+      "description": "",
+      "results": {
+        "1-9": {
+          "description": "No"
+        },
+        "10-10": {
+          "description": "Colpo di Scena"
+        },
+        "11-20": {
+          "description": "Sì"
+        }
+      }
+    },
+    "Patron Boons: Almazzat": {
+      "name": "Doni dei Patroni: Almazzat",
+      "description": "",
+      "results": {
+        "6pRFf6moKzBWsgkO": {
+          "description": "Scegli uno"
+        },
+        "9aff5gq9VCzuMLgo": {
+          "description": "Scegli uno"
+        },
+        "I9LTWqB3RwHAKBqX": {
+          "description": "Scegli uno"
+        }
+      }
+    },
+    "Patron Boons: Kytheros": {
+      "name": "Doni dei Patroni: Kytheros",
+      "description": "",
+      "results": {
+        "GwMffkVDFcQE6G7I": {
+          "description": "Scegli uno"
+        },
+        "VBLBiNtnKjrS9QGB": {
+          "description": "Scegli uno"
+        }
+      }
+    },
+    "Patron Boons: Mugdulblub": {
+      "name": "Doni dei Patroni: Mugdulblub",
+      "description": "",
+      "results": {
+        "hM8FrV5sbQ3AUYAA": {
+          "description": "Scegli uno"
+        },
+        "j3Ip3ynySLmz0rvF": {
+          "description": "Scegli uno"
+        },
+        "DW2VjzX5VXw3bU8w": {
+          "description": "Scegli uno"
+        }
+      }
+    },
+    "Patron Boons: Shune the Vile": {
+      "name": "Doni dei Patroni: Shune, la Malefica",
+      "description": "",
+      "results": {
+        "cz4TZBExg4JzpDiG": {
+          "description": "Scegli uno"
+        },
+        "oiGOfHAm8buwFfab": {
+          "description": "Scegli uno"
+        }
+      }
+    },
+    "Patron Boons: The Willowman": {
+      "name": "Doni dei Patroni: L'Uomo Salice",
+      "description": "",
+      "results": {
+        "k0uOd6xLlRz2UwJj": {
+          "description": "Scegli uno"
+        },
+        "dLGxXiUn05KNCf3N": {
+          "description": "Scegli uno"
+        },
+        "SIeV3JZmL1Nk1sWD": {
+          "description": "Scegli uno"
+        }
+      }
+    },
+    "Patron Boons: Titania": {
+      "name": "Doni dei Patroni: Titania",
+      "description": "",
+      "results": {
+        "DwiNOG3uBT7nwUDK": {
+          "description": "Scegli uno"
+        },
+        "HTLJU1oZcZidDP0e": {
+          "description": "Scegli uno"
+        },
+        "alxTWycBBuIy9B2I": {
+          "description": "Scegli uno"
+        }
+      }
+    },
+    "Prompts: Noun": {
+      "name": "Comandi: Substantivo",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Colpa"
+        },
+        "2-2": {
+          "description": "Vita"
+        },
+        "3-3": {
+          "description": "Battaglia"
+        },
+        "4-4": {
+          "description": "Menzogna"
+        },
+        "5-5": {
+          "description": "Vizio"
+        },
+        "6-6": {
+          "description": "Memoria"
+        },
+        "7-7": {
+          "description": "Fardo"
+        },
+        "8-8": {
+          "description": "Tradimento"
+        },
+        "9-9": {
+          "description": "Giudizio"
+        },
+        "10-10": {
+          "description": "Rischio"
+        },
+        "11-11": {
+          "description": "Prosperità"
+        },
+        "12-12": {
+          "description": "Tempo"
+        },
+        "13-13": {
+          "description": "Conflitto"
+        },
+        "14-14": {
+          "description": "Luce"
+        },
+        "15-15": {
+          "description": "Innaturale"
+        },
+        "16-16": {
+          "description": "Informazione"
+        },
+        "17-17": {
+          "description": "Speranza"
+        },
+        "18-18": {
+          "description": "Viaggio"
+        },
+        "19-19": {
+          "description": "Mondano"
+        },
+        "20-20": {
+          "description": "Trappola"
+        },
+        "21-21": {
+          "description": "Famiglia"
+        },
+        "22-22": {
+          "description": "Ostacolo"
+        },
+        "23-23": {
+          "description": "Dubbio"
+        },
+        "24-24": {
+          "description": "Liberazione"
+        },
+        "25-25": {
+          "description": "Debolezza"
+        },
+        "26-26": {
+          "description": "Sconosciuto"
+        },
+        "27-27": {
+          "description": "Gloria"
+        },
+        "28-28": {
+          "description": "Amico"
+        },
+        "29-29": {
+          "description": "Scoperta"
+        },
+        "30-30": {
+          "description": "Indizio"
+        },
+        "31-31": {
+          "description": "Tempesta"
+        },
+        "32-32": {
+          "description": "Nemico"
+        },
+        "33-33": {
+          "description": "Integrità"
+        },
+        "34-34": {
+          "description": "Scienza"
+        },
+        "35-35": {
+          "description": "Risorsa"
+        },
+        "36-36": {
+          "description": "Crimine"
+        },
+        "37-37": {
+          "description": "Saggezza"
+        },
+        "38-38": {
+          "description": "Giustizia"
+        },
+        "39-39": {
+          "description": "Discordia"
+        },
+        "40-40": {
+          "description": "Disgusto"
+        },
+        "41-41": {
+          "description": "Pericolo"
+        },
+        "42-42": {
+          "description": "Equilibrio"
+        },
+        "43-43": {
+          "description": "Natura"
+        },
+        "44-44": {
+          "description": "Caos"
+        },
+        "45-45": {
+          "description": "Imboscata"
+        },
+        "46-46": {
+          "description": "Ricchezza"
+        },
+        "47-47": {
+          "description": "Pensiero"
+        },
+        "48-48": {
+          "description": "Oscurità"
+        },
+        "49-49": {
+          "description": "Legame"
+        },
+        "50-50": {
+          "description": "Porta"
+        },
+        "51-51": {
+          "description": "Paura"
+        },
+        "52-52": {
+          "description": "Stregoneria"
+        },
+        "53-53": {
+          "description": "Onore"
+        },
+        "54-54": {
+          "description": "Spirito"
+        },
+        "55-55": {
+          "description": "Fiducia"
+        },
+        "56-56": {
+          "description": "Perdita"
+        },
+        "57-57": {
+          "description": "Fallimento"
+        },
+        "58-58": {
+          "description": "Minaccia"
+        },
+        "59-59": {
+          "description": "Piano"
+        },
+        "60-60": {
+          "description": "Trucco"
+        },
+        "61-61": {
+          "description": "Mente"
+        },
+        "62-62": {
+          "description": "Dolore"
+        },
+        "63-63": {
+          "description": "Vittoria"
+        },
+        "64-64": {
+          "description": "Morte"
+        },
+        "65-65": {
+          "description": "Controllo"
+        },
+        "66-66": {
+          "description": "Conoscenza"
+        },
+        "67-67": {
+          "description": "Segreto"
+        },
+        "68-68": {
+          "description": "Bene"
+        },
+        "69-69": {
+          "description": "Esplorazione"
+        },
+        "70-70": {
+          "description": "Sorpresa"
+        },
+        "71-71": {
+          "description": "Magia"
+        },
+        "72-72": {
+          "description": "Animale"
+        },
+        "73-73": {
+          "description": "Sentiero"
+        },
+        "74-74": {
+          "description": "Essenza"
+        },
+        "75-75": {
+          "description": "Sogno"
+        },
+        "76-76": {
+          "description": "Rabbia"
+        },
+        "77-77": {
+          "description": "Visione"
+        },
+        "78-78": {
+          "description": "Sicurezza"
+        },
+        "79-79": {
+          "description": "Risultato"
+        },
+        "80-81": {
+          "description": "Luogo"
+        },
+        "81-81": {
+          "description": "Percorso"
+        },
+        "82-82": {
+          "description": "Sostentamento"
+        },
+        "83-83": {
+          "description": "Furto"
+        },
+        "84-84": {
+          "description": "Decomposizione"
+        },
+        "85-85": {
+          "description": "Verità"
+        },
+        "86-86": {
+          "description": "Gente"
+        },
+        "87-87": {
+          "description": "Aiuto"
+        },
+        "88-88": {
+          "description": "Equipaggiamento"
+        },
+        "89-89": {
+          "description": "Idea"
+        },
+        "90-90": {
+          "description": "Ordine"
+        },
+        "91-91": {
+          "description": "Successo"
+        },
+        "92-92": {
+          "description": "Barriera"
+        },
+        "93-93": {
+          "description": "Obiettivo"
+        },
+        "94-94": {
+          "description": "Sorte"
+        },
+        "95-95": {
+          "description": "Identità"
+        },
+        "96-96": {
+          "description": "Danno"
+        },
+        "97-97": {
+          "description": "Ermo"
+        },
+        "98-98": {
+          "description": "Motivazione"
+        },
+        "99-99": {
+          "description": "Rifugio"
+        },
+        "100-100": {
+          "description": "Potere"
+        }
+      }
+    },
+    "Prompts: Verb": {
+      "name": "Comandi: Verbo",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Fermare"
+        },
+        "2-2": {
+          "description": "Contare"
+        },
+        "3-3": {
+          "description": "Confidare"
+        },
+        "4-4": {
+          "description": "Prevenire"
+        },
+        "5-5": {
+          "description": "Consegnare"
+        },
+        "6-6": {
+          "description": "Smantellare"
+        },
+        "7-7": {
+          "description": "Creare"
+        },
+        "8-8": {
+          "description": "Resistere"
+        },
+        "9-9": {
+          "description": "Imbevere"
+        },
+        "10-10": {
+          "description": "Fare amicizia"
+        },
+        "11-11": {
+          "description": "Prendere alle spalle"
+        },
+        "12-12": {
+          "description": "Disaccordare"
+        },
+        "13-13": {
+          "description": "Illuminare"
+        },
+        "14-14": {
+          "description": "Congregare"
+        },
+        "15-15": {
+          "description": "Liberare"
+        },
+        "16-16": {
+          "description": "Combinare"
+        },
+        "17-17": {
+          "description": "Disturbare"
+        },
+        "18-18": {
+          "description": "Esigere"
+        },
+        "19-19": {
+          "description": "Ostruire"
+        },
+        "20-20": {
+          "description": "Spingere"
+        },
+        "21-21": {
+          "description": "Arrivare"
+        },
+        "22-22": {
+          "description": "Rallentare"
+        },
+        "23-23": {
+          "description": "Superare"
+        },
+        "24-24": {
+          "description": "Bloccare"
+        },
+        "25-25": {
+          "description": "Consumare"
+        },
+        "26-26": {
+          "description": "Inseguire"
+        },
+        "27-27": {
+          "description": "Ricompensare"
+        },
+        "28-28": {
+          "description": "Espandere"
+        },
+        "29-29": {
+          "description": "Sprecare"
+        },
+        "30-30": {
+          "description": "Catturare"
+        },
+        "31-31": {
+          "description": "Indebolire"
+        },
+        "32-32": {
+          "description": "Rivelare"
+        },
+        "33-33": {
+          "description": "Investigare"
+        },
+        "34-34": {
+          "description": "Proibire"
+        },
+        "35-35": {
+          "description": "Iniziare"
+        },
+        "36-36": {
+          "description": "Sorprendere"
+        },
+        "37-37": {
+          "description": "Sopportare"
+        },
+        "38-38": {
+          "description": "Tirare"
+        },
+        "39-39": {
+          "description": "Scatenare"
+        },
+        "40-40": {
+          "description": "Evitare"
+        },
+        "41-41": {
+          "description": "Avanzare"
+        },
+        "42-42": {
+          "description": "Concordare"
+        },
+        "43-43": {
+          "description": "Consegnare"
+        },
+        "44-44": {
+          "description": "Connettere"
+        },
+        "45-45": {
+          "description": "Ostacolare"
+        },
+        "46-46": {
+          "description": "Trattenere"
+        },
+        "47-47": {
+          "description": "Perdere"
+        },
+        "48-48": {
+          "description": "Evolvere"
+        },
+        "49-49": {
+          "description": "Rafforzare"
+        },
+        "50-50": {
+          "description": "Punire"
+        },
+        "51-51": {
+          "description": "Incendiare"
+        },
+        "52-52": {
+          "description": "Risvegliare"
+        },
+        "53-53": {
+          "description": "Sfidare"
+        },
+        "54-54": {
+          "description": "Occultare"
+        },
+        "55-55": {
+          "description": "Invitare"
+        },
+        "56-56": {
+          "description": "Rompere"
+        },
+        "57-57": {
+          "description": "Permettere"
+        },
+        "58-58": {
+          "description": "Aprire"
+        },
+        "59-59": {
+          "description": "Respingere"
+        },
+        "60-60": {
+          "description": "Attivare"
+        },
+        "61-61": {
+          "description": "Riunire"
+        },
+        "62-62": {
+          "description": "Donare"
+        },
+        "63-63": {
+          "description": "Invertire"
+        },
+        "64-64": {
+          "description": "Allertare"
+        },
+        "65-65": {
+          "description": "Confrontare"
+        },
+        "66-66": {
+          "description": "Tradire"
+        },
+        "67-67": {
+          "description": "Assicurare"
+        },
+        "68-68": {
+          "description": "Oscurare"
+        },
+        "69-69": {
+          "description": "Fuggire"
+        },
+        "70-70": {
+          "description": "Vincere"
+        },
+        "71-71": {
+          "description": "Diffondere"
+        },
+        "72-72": {
+          "description": "Contenere"
+        },
+        "73-73": {
+          "description": "Aiutare"
+        },
+        "74-74": {
+          "description": "Trasportare"
+        },
+        "75-75": {
+          "description": "Mettere in dubbio"
+        },
+        "76-76": {
+          "description": "Lasciare"
+        },
+        "77-77": {
+          "description": "Accettare"
+        },
+        "78-78": {
+          "description": "Sacrificare"
+        },
+        "79-79": {
+          "description": "Prosciugare"
+        },
+        "80-80": {
+          "description": "Suggerire"
+        },
+        "81-81": {
+          "description": "Inciampare"
+        },
+        "82-82": {
+          "description": "Cadere"
+        },
+        "83-83": {
+          "description": "Ascendere"
+        },
+        "84-84": {
+          "description": "Proteggere"
+        },
+        "85-85": {
+          "description": "Scappare"
+        },
+        "86-86": {
+          "description": "Sconfiggere"
+        },
+        "87-87": {
+          "description": "Riparare"
+        },
+        "88-88": {
+          "description": "Acquisire"
+        },
+        "89-89": {
+          "description": "Guidare"
+        },
+        "90-90": {
+          "description": "Illudere"
+        },
+        "91-91": {
+          "description": "Esiliare"
+        },
+        "92-92": {
+          "description": "Sostenere"
+        },
+        "93-93": {
+          "description": "Costruire"
+        },
+        "94-94": {
+          "description": "Cambiare"
+        },
+        "95-95": {
+          "description": "Revocare"
+        },
+        "96-96": {
+          "description": "Cercare"
+        },
+        "97-97": {
+          "description": "Distruggere"
+        },
+        "98-98": {
+          "description": "Scoprire"
+        },
+        "99-99": {
+          "description": "Riposare"
+        },
+        "100-100": {
+          "description": "Liberare"
+        }
+      }
+    },
+    "Random Encounter: Activity": {
+      "name": "Incontro Casuale: Attività",
+      "description": "",
+      "results": {
+        "2-4": {
+          "description": "A caccia"
+        },
+        "5-6": {
+          "description": "Mangiando"
+        },
+        "7-8": {
+          "description": "Costruendo/nel suo nido"
+        },
+        "9-10": {
+          "description": "Socializzando/giocando"
+        },
+        "11-11": {
+          "description": "Facendo la guardia"
+        },
+        "12-12": {
+          "description": "Dormendo"
+        }
+      }
+    },
+    "Random Encounter: Distance": {
+      "name": "Incontro Casuale: Distanza",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Corta"
+        },
+        "2-4": {
+          "description": "Media"
+        },
+        "5-6": {
+          "description": "Lunga"
+        }
+      }
+    },
+    "Random Encounter: Reaction": {
+      "name": "Incontro Casuale: Reazione",
+      "description": "",
+      "results": {
+        "0-6": {
+          "description": "Ostile"
+        },
+        "7-8": {
+          "description": "Diffidente"
+        },
+        "9-9": {
+          "description": "Neutrale"
+        },
+        "10-11": {
+          "description": "Curioso"
+        },
+        "12-100": {
+          "description": "Amichevole"
+        }
+      }
+    },
+    "Random Gear": {
+      "name": "Equipaggiamento Casuale",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Torcia"
+        },
+        "2-2": {
+          "description": "Pugnale"
+        },
+        "3-3": {
+          "description": "Pertica"
+        },
+        "4-4": {
+          "description": "Razioni"
+        },
+        "5-5": {
+          "description": "Corda (18 m)"
+        },
+        "6-6": {
+          "description": "Olio (ampolla)"
+        },
+        "7-7": {
+          "description": "Piede di porco"
+        },
+        "8-8": {
+          "description": "Chiodi di ferro (10)"
+        },
+        "9-9": {
+          "description": "Acciarino"
+        },
+        "10-10": {
+          "description": "Chiodi di ferro (10)"
+        },
+        "11-11": {
+          "description": "Randello"
+        },
+        "12-12": {
+          "description": "Triboli (un sacco)"
+        }
+      }
+    },
+    "Random Gear Rolls": {
+      "name": "Tiri di Equipaggiamento Casuale",
+      "description": "",
+      "results": {
+        "1-6": {
+          "description": "Equipaggiamento casuale"
+        },
+        "2-6": {
+          "description": "Equipaggiamento casuale"
+        },
+        "3-6": {
+          "description": "Equipaggiamento casuale"
+        },
+        "4-6": {
+          "description": "Equipaggiamento casuale"
+        },
+        "5-6": {
+          "description": "Equipaggiamento casuale"
+        },
+        "6-6": {
+          "description": "Equipaggiamento casuale"
+        }
+      }
+    },
+    "Roll Random Character": {
+      "name": "Generare un Personaggio Casuale",
+      "description": "<p>- Scegli un'arma (vedi il compendio delle armi) - Scegli un'armatura di cuoio se puoi usarla (vedi il compendio delle armature)</p>",
+      "results": {
+        "1-1": {
+          "description": "Tiri di Equipaggiamento Casuale"
+        }
+      }
+    },
+    "Ruin Encounters": {
+      "name": "Incontri nelle Rovine",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Un bruto delle caverne mutato sfonda un muro che crolla"
+        },
+        "2-3": {
+          "description": "Un cubo gelatinoso percorre un corridoio in silenzio"
+        },
+        "4-5": {
+          "description": "Un orsogufo in cerca di cadaveri da mangiare"
+        },
+        "6-7": {
+          "description": "Esploratori rivali affrontano i PG: “Prima noi”"
+        },
+        "8-9": {
+          "description": "1d6 rugginofagi invadono una crepa di mercurio"
+        },
+        "10-11": {
+          "description": "Un’armatura animata senza gambe si trascina per terra"
+        },
+        "12-13": {
+          "description": "Un muro scricchiolante crolla al minimo tocco"
+        },
+        "14-15": {
+          "description": "Scritta con gesso sul muro: “Karov, vieni al Maiale Leale”"
+        },
+        "16-17": {
+          "description": "Mort il goblin cerca larve e scarabei nelle crepe"
+        },
+        "18-19": {
+          "description": "Il terreno crolla in una fossa profonda 1d6 × 3 m"
+        },
+        "20-21": {
+          "description": "2d4 hobgoblin razziatori si muovono serrati"
+        },
+        "22-23": {
+          "description": "Ossa sparse formano 2d4 scheletri con ragnatele"
+        },
+        "24-25": {
+          "description": "1d4 scarabei giganti portano enormi palle di escrementi"
+        },
+        "26-27": {
+          "description": "Un’ameba ocra nascosta in una pozza o dolina"
+        },
+        "28-29": {
+          "description": "Una rosa perfetta cresce tra le lastre di pietra"
+        },
+        "30-31": {
+          "description": "2d4 banditi spengono lanterne per un’imboscata"
+        },
+        "32-33": {
+          "description": "3 goblin si picchiano la testa a padellate"
+        },
+        "34-35": {
+          "description": "2d6 uomini bestia lapidano un millepiedi gigante"
+        },
+        "36-37": {
+          "description": "Una fuga di gas fa esplodere le fonti di luce"
+        },
+        "38-39": {
+          "description": "Cubo gelatinoso con oggetti utili incastrato in un buco"
+        },
+        "40-41": {
+          "description": "Compare uno sciame di scarabei dorati"
+        },
+        "42-43": {
+          "description": "Un PNG ferito barcolla implorando aiuto"
+        },
+        "44-45": {
+          "description": "Saracinesca arrugginita cala: separa i PG"
+        },
+        "46-47": {
+          "description": "Strangolatore nascosto su uno zaino pieno di pietre"
+        },
+        "48-49": {
+          "description": "Fantasma piangente fluttua via, preso dal suo sproloquio"
+        },
+        "50-53": {
+          "description": "2d4 coboldi furtivi attaccano i PG alle spalle"
+        },
+        "54-55": {
+          "description": "Antichi vasi emettono vibrazioni ipnotiche"
+        },
+        "56-57": {
+          "description": "1d6 grick fanno il nido con pellicce di ratti giganti"
+        },
+        "58-59": {
+          "description": "Esploratori rivali portano un nobile “all’avventura”"
+        },
+        "60-61": {
+          "description": "3d4 goblin rovistatori barattano strani ninnoli"
+        },
+        "62-63": {
+          "description": "2d4 minatori nani (soldati) puntellano muro che cede"
+        },
+        "64-65": {
+          "description": "2d4 vespe giganti in un huge nido sul soffitto"
+        },
+        "66-67": {
+          "description": "Una densa nube sulfurea esce da una crepa"
+        },
+        "68-69": {
+          "description": "Uno sciame di ragni esce da uova trasparenti"
+        },
+        "70-71": {
+          "description": "Un ogre di nome Lud incide volgarità sul muro"
+        },
+        "72-73": {
+          "description": "1d6 goblin lottano con 2d4 coboldi per un grick morto"
+        },
+        "74-75": {
+          "description": "2d4 pipistrelli giganti sul soffitto disturbati dalla luce"
+        },
+        "76-77": {
+          "description": "Un ettercap avvolge prede vive in ragnatela"
+        },
+        "78-79": {
+          "description": "1d6 zeloti cercano ossa umanoidi per un empio rituale"
+        },
+        "80-81": {
+          "description": "Una driade cerca il suo albero distrutto dai bugbear"
+        },
+        "82-83": {
+          "description": "Uno gnomo suona una musica inquietante sui funghi"
+        },
+        "84-85": {
+          "description": "2d6 coboldi in un improvvisato laboratorio instabile"
+        },
+        "86-87": {
+          "description": "Un golem di pietra impila all’infinito le stesse rocce"
+        },
+        "88-89": {
+          "description": "2 mantoscuri si sfidano a duello di intimidazione"
+        },
+        "90-91": {
+          "description": "2d6 goblin portano il re bugbear su una lettiga instabile"
+        },
+        "92-93": {
+          "description": "2d4 strisciacaverne sciamano lungo il corridoio"
+        },
+        "94-95": {
+          "description": "Un falò recente con braci ancora ardenti"
+        },
+        "96-97": {
+          "description": "Un minotauro guida il Viandante d'Oro"
+        },
+        "98-99": {
+          "description": "Tira due incontri e combina i risultati (ritira 98-99)"
+        },
+        "100-100": {
+          "description": "Esploratore morto con oggetto magico casuale sul corpo"
+        }
+      }
+    },
+    "Starting Gear (Level 0)": {
+      "name": "Equipaggiamento Iniziale (Livello 0)",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Torcia"
+        },
+        "2-2": {
+          "description": "Pugnale"
+        },
+        "3-3": {
+          "description": "Pertica"
+        },
+        "4-4": {
+          "description": "Arco corto e 5 frecce"
+        },
+        "5-5": {
+          "description": "Corda (18 m)"
+        },
+        "6-6": {
+          "description": "Olio (ampolla)"
+        },
+        "7-7": {
+          "description": "Piede di porco"
+        },
+        "8-8": {
+          "description": "Chiodi di ferro (10)"
+        },
+        "9-9": {
+          "description": "Acciarino"
+        },
+        "10-10": {
+          "description": "Rampino"
+        },
+        "11-11": {
+          "description": "Randello"
+        },
+        "12-12": {
+          "description": "Triboli (un sacco)"
+        }
+      }
+    },
+    "Starting Gear (Level 0) Rolls": {
+      "name": "Tiri di Equipaggiamento Iniziale (Livello 0)",
+      "description": "",
+      "results": {
+        "1-4": {
+          "description": "Equipaggiamento Iniziale (Livello 0)"
+        },
+        "2-4": {
+          "description": "Equipaggiamento Iniziale (Livello 0)"
+        },
+        "3-4": {
+          "description": "Equipaggiamento Iniziale (Livello 0)"
+        },
+        "4-4": {
+          "description": "Equipaggiamento Iniziale (Livello 0)"
+        }
+      }
+    },
+    "Rumors": {
+      "name": "Dicerie",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Una bestia corazzata gigante devasta i dintorni"
+        },
+        "2-3": {
+          "description": "Un gruppo di tagliagole sta venendo a uccidervi"
+        },
+        "4-5": {
+          "description": "Il sovrano locale ha messo una taglia di 2.000 mo su di voi"
+        },
+        "6-7": {
+          "description": "Il culto di Shune farà un colpo di stato a mezzanotte"
+        },
+        "8-9": {
+          "description": "Hanno trovato un’antica porta di pietra giù nel castello"
+        },
+        "10-11": {
+          "description": "I lucertoloidi hanno razziato carovane vicino la palude"
+        },
+        "12-13": {
+          "description": "Scheletri corazzati vagano per il cimitero nebbioso"
+        },
+        "14-15": {
+          "description": "Un terremoto ha svelato rovine in una voragine"
+        },
+        "16-17": {
+          "description": "Degli orchi si sono insediati in un forte abbandonato"
+        },
+        "18-19": {
+          "description": "C’clock è una sala di statue dorate sotto il pozzo"
+        },
+        "20-21": {
+          "description": "Chi sopravvive alla Prova del Loto riceve uno strano dono"
+        },
+        "22-23": {
+          "description": "Un Capitano della Guardia è ostaggio di teppisti"
+        },
+        "24-25": {
+          "description": "Le Grotte Cristalline ospitano un culto di stregoni psichici"
+        },
+        "26-27": {
+          "description": "Un coccodrillo ha trascinato un mulo carico nelle fogne"
+        },
+        "28-29": {
+          "description": "Una strega veggente enuncia presagi veri"
+        },
+        "30-31": {
+          "description": "Ogni luna piena, l’Unicorno Rampante viene derubato"
+        },
+        "32-33": {
+          "description": "Un famoso gruppo di esploratori non è tornato"
+        },
+        "34-35": {
+          "description": "Un meteorite luminoso si è schiantato nelle paludi"
+        },
+        "36-37": {
+          "description": "Il fuoco non si accende in vista della Fontana del Leone"
+        },
+        "38-39": {
+          "description": "Il perduto Gioiello di Barbalto è nelle Grotte Urlanti"
+        },
+        "40-41": {
+          "description": "Un gruppo di nani minatori scopre una statua tentacolata"
+        },
+        "42-43": {
+          "description": "La taverna del Gufo Rosso ha una botola per l’Ombrascura"
+        },
+        "44-45": {
+          "description": "2d12 viperiani sorvegliano tempio di medusa nella giungla"
+        },
+        "46-47": {
+          "description": "Tre ladri hanno appena rubato gemme qui vicino"
+        },
+        "48-49": {
+          "description": "Arpie osservano dalle rupi vicino alla Tomba di Diridia"
+        },
+        "50-53": {
+          "description": "Una gorgone infesta le rovine delle Sale Sottocolle"
+        },
+        "54-55": {
+          "description": "Sotto l’Abbazia Rossa c’è il perduto Tumulo di Ur-Din"
+        },
+        "56-57": {
+          "description": "Un saggio morente cerca un potente gruppo di eroi"
+        },
+        "58-59": {
+          "description": "Un mago ha perso le sue tre cockatrici"
+        },
+        "60-61": {
+          "description": "Un signore locale è bloccato su un tetto alto"
+        },
+        "62-63": {
+          "description": "Bartomeu il Principe Pirata sarà impiccato a mezzogiorno"
+        },
+        "64-65": {
+          "description": "Speleologi goblin hanno trovato una cattedrale sotterranea"
+        },
+        "66-67": {
+          "description": "Il Meccanismo Citeriano è nel mare vicino Myrkhos"
+        },
+        "68-69": {
+          "description": "Funghi rari e preziosi crescono in un’antica cripta"
+        },
+        "70-71": {
+          "description": "La Chiesa di S. Terragnis paga per una reliquia"
+        },
+        "72-73": {
+          "description": "Un’eruzione ha rivelato tunnel in un vulcano"
+        },
+        "74-75": {
+          "description": "Le rovine ciclopiche di Tal-Yul sono nella foresta"
+        },
+        "76-77": {
+          "description": "Un tizio si gioca un rubino a Maghi e Ladri"
+        },
+        "78-79": {
+          "description": "Druidi benedicono l’arma che ha ucciso un licantropo"
+        },
+        "80-81": {
+          "description": "I becchini hanno trovato una bara incatenata"
+        },
+        "82-83": {
+          "description": "Torre di mago abbandonata piena di automi"
+        },
+        "84-85": {
+          "description": "La Gilda dei Ladri attaccherà un lord mercante rivale"
+        },
+        "86-87": {
+          "description": "I venti hanno scoperto un monolite nel deserto"
+        },
+        "88-89": {
+          "description": "Mappa del Tesoro di Jiraal trovata da esploratori rivali"
+        },
+        "90-91": {
+          "description": "Un mostro, “L’Intagliatore”, si nasconde sotto l’università"
+        },
+        "92-93": {
+          "description": "Il Destriero d’Onice è nel desolato Forte di Ekmara"
+        },
+        "94-95": {
+          "description": "La principessa è stata rapita da stregoni"
+        },
+        "96-97": {
+          "description": "Trovata tomba di Cavaliere del Caos sotto un tempio"
+        },
+        "98-99": {
+          "description": "La mitica Biblioteca di Gehemna è apparsa fuori città"
+        },
+        "100-100": {
+          "description": "Il drago Ixamir si è destato da 200 anni di sonno"
+        }
+      }
+    },
+    "Something Happens!": {
+      "name": "Succede Qualcosa!",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "La terra trema forte e si apre una voragine enorme"
+        },
+        "2-3": {
+          "description": "Un nemico invisibile spunta fuori a distanza corta"
+        },
+        "4-5": {
+          "description": "Un orribile ronzio riempie l’aria, sempre più forte"
+        },
+        "6-7": {
+          "description": "Senti l’odore acre di fumo e fiamme"
+        },
+        "8-9": {
+          "description": "Compare una stella luminosa, visibile anche a mezzogiorno"
+        },
+        "10-11": {
+          "description": "Noti una borsa semiaperta con luccicanti mo dentro"
+        },
+        "12-13": {
+          "description": "Un uomo ti infila in mano una nota e una strana pozione"
+        },
+        "14-15": {
+          "description": "Qualcuno ti osserva da lontano, poi scompare"
+        },
+        "16-17": {
+          "description": "Un nano con cappello rosso porge una rosa, s’inchina e va"
+        },
+        "18-19": {
+          "description": "Uno sconosciuto con un manto nero si avvicina a te"
+        },
+        "20-21": {
+          "description": "Qualcuno cerca di borseggiarti"
+        },
+        "22-23": {
+          "description": "Uno strano ticchettio proviene dalla tua borsa"
+        },
+        "24-25": {
+          "description": "Un cavallo schiumante e frenetico, nessun cavaliere"
+        },
+        "26-27": {
+          "description": "Un cumulo di terra scava rapido verso di te"
+        },
+        "28-29": {
+          "description": "Senti di essere magicamente scrutato"
+        },
+        "30-31": {
+          "description": "Qualcuno cerca di nasconderti un oggetto addosso"
+        },
+        "32-33": {
+          "description": "Ti pervade un forte senso di terrore e pericolo"
+        },
+        "34-35": {
+          "description": "Una donna ti porge un gatto nero e poi scappa"
+        },
+        "36-37": {
+          "description": "Una creaturina del bosco balza da uno zaino"
+        },
+        "38-39": {
+          "description": "Senti odore di lillà e una debole risata spettrale"
+        },
+        "40-41": {
+          "description": "Un pugnale con una nota avvolta ti atterra vicino"
+        },
+        "42-43": {
+          "description": "Una meteora verde brillante sfreccia nel cielo"
+        },
+        "44-45": {
+          "description": "Qualcuno lì vicino ti fissa e mormora"
+        },
+        "46-47": {
+          "description": "Un paio di occhi gialli ti osservano dal buio"
+        },
+        "48-49": {
+          "description": "Un orco con una freccia nella schiena sfonda una porta"
+        },
+        "50-53": {
+          "description": "Una bestia grida di dolore poco più avanti"
+        },
+        "54-55": {
+          "description": "Uno sciame di pipistrelli s’abbatte su di te e scappa"
+        },
+        "56-57": {
+          "description": "Un debole mendicante ha un segreto per te"
+        },
+        "58-59": {
+          "description": "Un oggetto cade dall’alto e ti manca di poco"
+        },
+        "60-61": {
+          "description": "Un gabbiano ti plana in testa e tossisce una strana bottiglia"
+        },
+        "62-63": {
+          "description": "Senti odore di ozono e l’elettricità crepita nell’aria"
+        },
+        "64-65": {
+          "description": "Una scia di piccole monete d’argento gira un angolo"
+        },
+        "66-67": {
+          "description": "Un uomo dagli occhi sbarrati e un libro sacro sollevato"
+        },
+        "68-69": {
+          "description": "Ogni fonte di luce si spegne improvvisamente"
+        },
+        "70-71": {
+          "description": "Un’improvvisa carica di animali selvatici"
+        },
+        "72-73": {
+          "description": "Una vecchia vi indica e urla: “Ecco, sono loro!”"
+        },
+        "74-75": {
+          "description": "Uno sconosciuto ti mette in mano un’antica moneta"
+        },
+        "76-77": {
+          "description": "Un coro di ululati echeggia in lontananza"
+        },
+        "78-79": {
+          "description": "Compaiono 2 goblin che si pizzicano e schiaffeggiano"
+        },
+        "80-81": {
+          "description": "Non sei solo: c’c’è qualcosa dietro di te"
+        },
+        "82-83": {
+          "description": "Fragore improvviso di acqua s’abbatte su di te"
+        },
+        "84-85": {
+          "description": "Senti un urlo assordante che nessun altro sente"
+        },
+        "86-87": {
+          "description": "Un uomo ti schiaffeggia con un guanto e te lo lancia ai piedi"
+        },
+        "88-89": {
+          "description": "Una violenta tempesta si scatena all’improvviso"
+        },
+        "90-91": {
+          "description": "Un fulmine caduto lì vicino lascia un oggetto luminoso"
+        },
+        "92-93": {
+          "description": "Una sfera multicolore si avvicina e poi sfreccia via"
+        },
+        "94-95": {
+          "description": "Un carro impazzito si schianta su di te"
+        },
+        "96-97": {
+          "description": "Un PNG si smaschera, rivelandosi un nemico"
+        },
+        "98-99": {
+          "description": "Compare un demone che ti fa un’offerta allettante"
+        },
+        "100-100": {
+          "description": "Compare un essere radioso con un avvertimento"
+        }
+      }
+    },
+    "Wizard Mishap Tier 1-2": {
+      "name": "Incidente Incantesimo: Gradi 1-2",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "<b>Devastazione!</b> Tira due volte e combina entrambi gli effetti (tira nuovamente qualsiasi 1 addizionale)."
+        },
+        "2-2": {
+          "description": "<b>Esplosione!</b> Subisci 1d8 danni."
+        },
+        "3-3": {
+          "description": "<b>Rifrazione!</b> Colpisci te stesso con l'incantesimo."
+        },
+        "4-4": {
+          "description": "<b>La mano è scivolata!</b> Il tuo incantesimo colpisce un alleato casuale."
+        },
+        "5-5": {
+          "description": "<b>Lesione mentale!</b> Non puoi lanciare questo incantesimo per una settimana."
+        },
+        "6-6": {
+          "description": "<b>Disincarnazione!</b> Un oggetto casuale del tuo equipaggiamento scompare per sempre."
+        },
+        "7-7": {
+          "description": "<b>Infezione arcana!</b> Perdi l'abilità di lanciare un incantesimo casuale a ciascuno dei tuoi turni, finché non superi una prova di [[check 12 con]]. Recuperi l'abilità di lanciare questi incantesimi dopo aver completato un riposo."
+        },
+        "8-8": {
+          "description": "<b>Fallimento armonico!</b> Perdi l'abilità di lanciare un incantesimo casuale finché non completi un riposo."
+        },
+        "9-9": {
+          "description": "<0>Puff!</0> Sopprimi qualsiasi luce si trovi a distanza corta da te, inclusa la luce del sole e le luci magiche. Dura 10 round."
+        },
+        "10-10": {
+          "description": "<b>L'orrore!</b> Gridi incontrollatamente usando il linguaggio Primordiale per 3 round, attirando molta attenzione."
+        },
+        "11-11": {
+          "description": "<b>Picco di energia!</b> Emetti un forte bagliore viola per 10 round, garantendo Vantaggio ai nemici negli attacchi contro di te."
+        },
+        "12-12": {
+          "description": "<b>Condotto instabile!</b> Hai Svantaggio nel lanciare incantesimi dello stesso grado per 10 round."
+        }
+      }
+    },
+    "Wizard Mishap Tier 3-4": {
+      "name": "Incidente Incantesimo: Gradi 3-4",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Incidente Incantesimo: Gradi 3-4"
+        },
+        "2-2": {
+          "description": "<b>Esplosione in area!</b> Tu e tutte le creature a distanza corta subite [[/r 2d6]] danni."
+        },
+        "3-3": {
+          "description": "<b>Rifrazione raddoppiata!</b> Colpisci te stesso e il tuo alleato più vicino con due copie identiche dell'incantesimo."
+        },
+        "4-4": {
+          "description": "<b>Hai sbagliato l'incanto!</b> Lanci un incantesimo casuale dai tuoi incantesimi conosciuti sugli stessi bersagli, anche se normalmente non sarebbe possibile."
+        },
+        "5-5": {
+          "description": "<b>Furto etereo!</b> Due oggetti casuali del tuo equipaggiamento scompaiono per sempre."
+        },
+        "6-6": {
+          "description": "<b>Arcano-mutageno!</b> Devi superare una prova di [[check 12 con]], o una caratteristica casuale scenderà a 3 (-4) finché non completi un riposo."
+        },
+        "7-7": {
+          "description": "<b>Bum!</b> Apri una fossa nel pavimento profonda 9 m, il cui centro sei tu. Tu e tutte le creature a distanza corta dovete superare una prova di [[check 15 dex]] o cadrete all'interno."
+        },
+        "8-8": {
+          "description": "<b>Pietrificazione!</b> [[/r 1d4]] arti del tuo corpo si pietrificano per le prossime 24 ore."
+        },
+        "9-9": {
+          "description": "<b>Stupefazione!</b> Perdi l'abilità di lanciare tutti gli incantesimi dello stesso grado finché non completi un riposo."
+        },
+        "10-10": {
+          "description": "<b>Non può essere dimenticato!</b> Devi superare una prova di [[check 12 wis]] o vaneggerai per 1d10 round."
+        },
+        "11-11": {
+          "description": "<b>Energie radioattive!</b> Sei circondato da energie repulsive, attirando l'ostilità e gli attacchi di tutti i nemici che possono vederti per i prossimi [[/r 1d4]] round."
+        },
+        "12-12": {
+          "description": "<b>Incanalamento incontrollato!</b> Hai Svantaggio nel lanciare incantesimi dello stesso grado e gradi inferiori per 10 round."
+        }
+      }
+    },
+    "Wizard Mishap Tier 5": {
+      "name": "Incidente Incantesimo: Grado 5",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Incidente Incantesimo: Grado 5"
+        },
+        "2-2": {
+          "description": "<b>Estrusione piroclastica!</b> Causi [[/r 3d8]] danni a te stesso e a tutte le creature che si trovano a distanza corta da te."
+        },
+        "3-3": {
+          "description": "<b>Incisione astrale!</b> Una lama soprannaturale recide la tua memoria. Dimentichi un incantesimo casuale permanentemente."
+        },
+        "4-4": {
+          "description": "<b>Il Grimlow!</b> Evochi accidentalmente un Grimlow ostile in un'area a distanza corta da te. Rimane per [[/r 2d4]] round prima di sparire nel suo luogo d'origine."
+        },
+        "5-5": {
+          "description": "<b>Aura di plasma oscuro!</b> Gli attacchi contro di te attraversano un'aura malefica, infliggendo il doppio del danno per i primi [[/r 2d6]] round."
+        },
+        "6-6": {
+          "description": "<b>Portale!</b> Apri un portale magico verso questo o un altro piano. Qualcosa di terribile lo attraverserà in [[/r 1d4]] round, a menos che tu non lo chiuda nel tuo turno con una prova di [[check 18 int]]."
+        },
+        "7-7": {
+          "description": "<b>Ripetizione arcana incontrollata!</b> Il tuo incantesimo colpisce una creatura casuale che puoi vedere, anche se normalmente non sarebbe possibile. A ciascun turno successivo, devi superare una prova per lo stesso incantesimo, o lo lancerai su un'altra creatura casuale nello stesso modo (un successo termina l'effetto)."
+        },
+        "8-8": {
+          "description": "<b>Ostruzione arcana!</b> Perdi l'abilità di lanciare tutti gli incantesimi di un grado casuale finché non completi un riposo."
+        },
+        "9-9": {
+          "description": "<b>Ciò che esita oltre il velo!</b> Devi superare una prova di [[check 15 wis]] o cadrai in un delirio folle per [[/r 1d4]] ore."
+        },
+        "10-10": {
+          "description": "<b>Equilibrio di Ord!</b> Devi scegliere tra il sacrificare permanentemente un oggetto magico o l'abilità di lanciare un incantesimo di grado 3+ che conosci."
+        },
+        "11-11": {
+          "description": "<b>Reazione a catena non mitigata!</b> Hai Svantaggio nel lanciare tutti gli incantesimi per i prossimi 10 round."
+        },
+        "12-12": {
+          "description": "<b>Sfilacciamento!</b> Apri una grande falla nel tessuto dell'universo vicino a te. Questa fenditura senza luce si espande a ogni round."
+        }
+      }
+    }
+  }
+}

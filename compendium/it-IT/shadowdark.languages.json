@@ -1,0 +1,51 @@
+{
+  "label": "Lingue",
+  "folders": {
+    "Rare": "Rara",
+    "Common": "Comune"
+  },
+  "entries": {
+    "Celestial": {
+      "name": "Celestiale"
+    },
+    "Common": {
+      "name": "Comune"
+    },
+    "Diabolic": {
+      "name": "Diabolico"
+    },
+    "Draconic": {
+      "name": "Draconico"
+    },
+    "Dwarvish": {
+      "name": "Nanesco"
+    },
+    "Elvish": {
+      "name": "Elfico"
+    },
+    "Giant": {
+      "name": "Gigante"
+    },
+    "Goblin": {
+      "name": "Goblin"
+    },
+    "Merran": {
+      "name": "Merran"
+    },
+    "Orcish": {
+      "name": "Orchesco"
+    },
+    "Primordial": {
+      "name": "Primordiale"
+    },
+    "Reptilian": {
+      "name": "Rettiliano"
+    },
+    "Sylvan": {
+      "name": "Silvano"
+    },
+    "Thanian": {
+      "name": "Thaniano"
+    }
+  }
+}

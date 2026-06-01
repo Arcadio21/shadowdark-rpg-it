@@ -1,0 +1,583 @@
+{
+  "label": "Lista degli Incantesimi",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Tier 1": "Grado 1",
+    "Tier 2": "Grado 2",
+    "Tier 3": "Grado 3",
+    "Tier 4": "Grado 4",
+    "Tier 5": "Grado 5",
+    "Seer": "Veggente",
+    "Witch": "Strega",
+    "Wizard": "Mago",
+    "Priest": "Sacerdote"
+  },
+  "entries": {
+    "Acid Arrow": {
+      "name": "Freccia Acida",
+      "description": "<p>Evochi un dardo corrosivo che colpisce un nemico, infliggendo 1d6 danni per round. Il dardo resta nel bersaglio finché mantieni la concentrazione.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.NXZlCiZI9X3AJc4m]</p>"
+    },
+    "Alarm": {
+      "name": "Allarme",
+      "description": "<p>Tocchi un object, come lo stipite di una porta, e vi imposti un allarme magico.</p><p>Se una creatura non designata da te tocca o oltrepassa l'oggetto, nella tua testa risuona una campana magica.</p>"
+    },
+    "Alter Self": {
+      "name": "Alterare Sé Stesso",
+      "description": "<p>Alteri magicamente la tua forma fisica, ottenendo un tratto che modifica la tua anatomia.</p><p>Per esempio, branchie funzionanti sul collo o artigli d'orso alle dita. Non puoi farti crescere ali o arti.</p><p>@UUID[Compendium.shadowdark.spell-effects.f2RsbovyTLEZvxuF]</p>"
+    },
+    "Anathema": {
+      "name": "Anatema",
+      "description": "<p>Per 1 giorno, tutti gli alleati insultano e abbandonano la creatura che tocchi.</p><p>Ogni volta che tu o i tuoi alleati ferite il bersaglio, i suoi ex alleati possono superare una prova di SAG con CD 15 per terminare l'effetto.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.vApjjHkL9nghvbQT]</p>"
+    },
+    "Animate Dead": {
+      "name": "Rianimare Morti",
+      "description": "<p>Tocchi i resti di un umanoide, che risorge come zombi o scheletro sotto il tuo controllo.</p><p>I resti devono avere almeno tre arti e la testa intatti. La creatura non morta agisce nel tuo turno. Dopo 1 giorno, si polverizza in polvere di tomba.</p>"
+    },
+    "Antimagic Shell": {
+      "name": "Guscio Anti-Magia",
+      "description": "<p>Un cubo invisibile di non-magia di lato medio compare centrato su di te.</p><p>All'interno non è possibile lanciare incantesimi. Oggetti magici e incantesimi non hanno effetto nella zona e nessuna magia può entrarvi. Il cubo si muove con te. Incantesimi come dissolvi magie non hanno effetto su di esso.</p><p>Un altro guscio anti-magia non influisce su questo.</p>"
+    },
+    "Arcane Eye": {
+      "name": "Occhio Arcano",
+      "description": "<p>Evochi un occhio invisibile entro gittata, grande quanto un acino d'uva.</p><p>Puoi vedere attraverso l'occhio. Può vedere nel buio fino a distanza media, volare a distanza media nel tuo turno e infilarsi in aperture strette come una serratura.</p>"
+    },
+    "Augury": {
+      "name": "Presagio",
+      "description": "<p>Interpreti il significato di auspici e presagi soprannaturali. Fai al GM una domanda su una specifica linea d'azione. Il GM dice se l'azione porterà a “buona sorte” o “sventura”.</p>"
+    },
+    "Beguile": {
+      "name": "Inganno",
+      "description": "<p>Evochi un'illusione visiva e sonora convincente entro gittata.</p><p>Le creature che la percepiscono reagiscono come se fosse reale, anche se non può causare danni reali. Toccare l'illusione ne rivela all'istante la natura falsa.</p><p>Puoi costringere una creatura che interagisce con l'illusione a tirare una prova di SAG con CD 15. Se fallisce, rimane incantata dall'illusione per la durata e cerca di proteggerla.</p>"
+    },
+    "Bless": {
+      "name": "Benedizione",
+      "description": "<p>Una creatura che tocchi ottiene un gettone fortuna.</p>"
+    },
+    "Blind/Deafen": {
+      "name": "Accecare/Assordare",
+      "description": "<p>Pronunci una condanna divina, accecando o assordando una creatura che puoi vedere entro gittata.</p><p>La creatura subisce svantaggio alle prove che necessitano del senso perduto.</p><p>@UUID[Compendium.shadowdark.spell-effects.SOkcvkzrGMGQKhmk]</p><p>@UUID[Compendium.shadowdark.spell-effects.aAdqy5QwVJrT8JWE]</p>"
+    },
+    "Bogboil": {
+      "name": "Palude Ribollente",
+      "description": "<p>Trasformi un cubo di terreno da 9 m³ entro gittata in una ribollente chiazza fangosa di sabbie mobili. Una creatura bloccata in essa non può muoversi e deve superare una prova di DES contro la tua di lanciare incantesimi per liberarsi.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.VOx6yLlQ23XwVvuG]</p>"
+    },
+    "Broomstick": {
+      "name": "Scopa Volante",
+      "description": "<p>Evochi una scopa volante nella tua mano.</p><p>Chi la cavalca può volare fino a distanza media ogni round o fluttuare sul posto.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.23KrUIOKwPNwVSCh]</p>"
+    },
+    "Burning Hands": {
+      "name": "Mani Brucianti",
+      "description": "<p>Allarghi le dita con i pollici uniti, sprigionando un cerchio di fiamme che erutta in un'area Corta attorno a dove ti trovi.</p><p>Le creature nell'area subiscono 1d6 danni e gli oggetti infiammabili prendono fuoco.</p>"
+    },
+    "Cacklerot": {
+      "name": "Marciume Sghignazzante",
+      "description": "<p>Un bersaglio di LV 4 o inferiore che tocchi crolla impotente a terra, scosso da un'inquietante e dolorosa risata per la durata.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.9E4RVp3xfAK1uxrl]</p>"
+    },
+    "Cast Out": {
+      "name": "Esorcizzare",
+      "description": "<p>Allontani una creatura, espellendola dalla tua presenza.</p><p>Scegli una creatura che puoi vedere. Per la durata della magia, questa creatura non può avvicinarsi a te a una distanza inferiore a media. Può comunque attaccarti da oltre la distanza media.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.8vSJhm0X9PRdKTyX]</p>"
+    },
+    "Cat's Eye": {
+      "name": "Occhio di Gatto",
+      "description": "<p>Le tue iridi si espandono fino a riempire gli occhi e le tue pupille diventano sottili fessure nere verticali. Puoi vedere creature invisibili e porte segrete per la durata.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.jKkFbA7VzDfOKvN5]</p>"
+    },
+    "Cauldron": {
+      "name": "Calderone",
+      "description": "<p>Evochi un calderone ribollente accanto a te. Può produrre uno dei seguenti effetti:</p><p>• Ogni oggetto comune rotto messo dentro al calderone viene riparato.</p><p>• Un gonfio rospo gracidante salta fuori e segue le tue istruzioni per 3 round.</p><p>• Puoi mettere fino a 3 slot di oggetti nel calderone, che li espelle la prossima volta che lanci quest'incantesimo (espellere gli oggetti conta come effetto del calderone).</p>"
+    },
+    "Chant": {
+      "name": "Cantico",
+      "description": "<p>Inizi un cantico soprannaturale che eleva la tua visiome oltre le tue limitazioni comuni.</p><p>Mentre la magia dura, puoi vedere tutte le cose invisibili e nascoste come se fossero chiaramente visibili. Questa magia non ti permette di vedere in condizioni in cui normalmente non potresti, come nell'oscurità totale o attraverso i muri.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.ZLO5oq3gTJ762o3F]</p>"
+    },
+    "Charm Person": {
+      "name": "Charme su Persone",
+      "description": "<p>Ammali con la magia un umanoide di livello 2 o inferiore entro gittata. Ti considera amico per la durata.</p><p>L'incantesimo termina se tu o i tuoi alleati fate qualcosa per ferirlo e se ne accorge. Al termine, il bersaglio è consapevole dello charme subito.</p><p>Tira [[/r 1d8]] per determinare quanti giorni durerà l'effetto.</p><p>@UUID[Compendium.shadowdark.spell-effects.Z0YwWUGs3WYC6OGn]</p>"
+    },
+    "Cleansing Weapon": {
+      "name": "Arma Purificatrice",
+      "description": "<p>Un'arma che tocchi viene avvolta da fiamme purificatrici. Per la durata, infligge 1d4 danni aggiuntivi (1d6 ai non morti).</p><p>@UUID[Compendium.shadowdark.spell-effects.7hKYL9hdnsvCUM9c]</p>"
+    },
+    "Cloak of Night": {
+      "name": "Manto della Notte",
+      "description": "<p>Un manto di ombre vorticante ti avvolge. Per la durata, la tua CA diventa 17 (20 con un critico alla prova di lanciare).</p><p>Hai vantaggio alle prove di DES per muoverti furtivamente e nasconderti per la durata.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.3viSgI4JpKsXdaFd]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.vP9UrCnOXOe2ViZU]</p>"
+    },
+    "Cloud Kill": {
+      "name": "Nube Mortale",
+      "description": "<p>Una nube gialla di putrido veleno riempie un cubo di lato medio entro la gittata. Si diffonde anche dietro gli angoli.</p><p>Le creature all'interno sono accecate e subiscono 2d6 danni all'inizio del loro turno. Una creatura di LV 9 o inferiore che termina il suo turno completamente al suo interno muore.</p>"
+    },
+    "Command": {
+      "name": "Comando",
+      "description": "<p>Lanci un comando verbale a una creatura che può capirti, entro gittata. Deve essere una sola parola, come “inginocchiati”. Il bersaglio obbedisce finché mantieni la concentrazione.</p><p>Se il tuo comando resulta direttamente dannoso per la creatura, questa può tirare una prova di CAR contro la tua ultima prova di lanciare incantesimi per terminare l'effetto.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.y7UlIRecQ47S8qCy]</p>"
+    },
+    "Commune": {
+      "name": "Comunione",
+      "description": "<p>Cerchi il consiglio del tuo dio. Poni al GM fino a tre domande a cui può rispondere “sì” o “no”. Il GM deve rispondere sinceramente a tutte.</p><p>Se lanci quest'incantesimo più di una volta in 24 ore, ogni fallimento nella prova per lanciarlo diventa un fallimento critico.</p>"
+    },
+    "Confusion": {
+      "name": "Confusione",
+      "description": "<p>Ipnotizzi una creatura che puoi vedere entro gittata. Il bersaglio non può effettuare azioni e, nel suo turno, si muove in una direzione casuale.</p><p>Se il bersaglio è di LV 9 o più, può tirare una prova di SAG contro la tua ultima prova di lanciare incantesimi all'inizio del suo turno per terminare l'effetto.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.T0Lrknq9zQry0wwR]</p>"
+    },
+    "Control Water": {
+      "name": "Controllare Acqua",
+      "description": "<p>Muovi e plasmi l'acqua. Puoi far sì che una sezione d'acqua fino a 30 m di larghezza e profondità cambi forma, sfidi la gravità o scorra in un'altra direzione.</p>"
+    },
+    "Coven": {
+      "name": "Congrega",
+      "description": "<p>Invochi la magia che condividi con le tue compagne streghe.</p><p>Recuperi l'uso di un incantesimo di grado 3 o inferiore che non potevi più lanciare. Dopo haber lanciato questo incantesimo, non puoi più farlo finché non riposi.</p>"
+    },
+    "Create Undead": {
+      "name": "Creare Non Morti",
+      "description": "<p>Evochi una creatura non-morta vendicativa al tuo comando. Al momento del lancio, scegli se evocare un wight o un wraith. Ti appare accanto, sotto il tuo controllo.</p><p>La creatura agisce nel tuo turno. Dopo 1 giorno, si dissolve in fumo.</p>"
+    },
+    "Cure Wounds": {
+      "name": "Cura Ferite",
+      "description": "<p>Il tuo tocco ripristina la vita che sta svanendo.</p><p>Tira una quantità di d6 pari a [[/roll (1 + (floor(@level.value/2)))d6]]{1 + metà del tuo livello (arrotondato per difetto)}.</p><p>Un bersaglio che tocchi recupera questa quantità di punti ferita.</p>"
+    },
+    "Curse": {
+      "name": "Maledizione",
+      "description": "<p>Una creatura che tocchi è afflitta da una delle seguenti maledizioni:</p><p>• Foruncoli e verruche orribili.</p><p>• Ogni cibo sa di cenere.</p><p>• La voce diventa stridula.</p><p>• Incubi disturbanti.</p><p>• Perde sempre al gioco d'azzardo.</p><p>• Um alleato diventa un nemico.</p><p>• Paura di qualcosa di ordinario.</p>"
+    },
+    "Detect Magic": {
+      "name": "Individuazione del Magico",
+      "description": "<p>Percepisci la magia entro distanza media per la durata dell'incantesimo. Se ti concentri per due round, ne distingui le proprietà generali. Le barriere complete bloccano quest'incantesimo.</p><p>@UUID[Compendium.shadowdark.spell-effects.74WjFjHmUmLAiNGC]</p>"
+    },
+    "Detect Thoughts": {
+      "name": "Individuazione dei Pensieri",
+      "description": "<p>Scruti nella mente di una creatura che puoi vedere entro gittata. Ogni round, apprendi i suoi pensieri più immediati.</p><p>Al suo turno, il bersaglio effettua una prova di SAG contro la tua ultima prova di lanciare incantesimi. Se vince il contrasto, nota la tua presenza nella sua mente e l'incantesimo termina.</p>"
+    },
+    "Dimension Door": {
+      "name": "Porta Dimensionale",
+      "description": "<p>Teletrasporti te e un'altra creatura senziente a distanza media entro un punto qualunque che puoi vedere.</p>"
+    },
+    "Disintegrate": {
+      "name": "Disintegrazione",
+      "description": "<p>Il tuo dito scaglia un raggio verde che riduce in cenere una creatura o un oggetto.</p><p>Una creatura bersaglio di LV 5 o inferiore muore all'istante. Se è di LV 6 o più, subisce invece 3d8 danni. Un oggetto non magico di dimensione di un grande albero o meno viene distrutto.</p>"
+    },
+    "Dispel Magic": {
+      "name": "Dissolvi Magie",
+      "description": "<p>Termini un incantesimo che affligge un bersaglio che puoi vedere entro gittata.</p>"
+    },
+    "Divination": {
+      "name": "Divinazione",
+      "description": "<p>Lanci le ossa divinatorie o scruti nel buio tra le stelle, in cerca di un presagio.</p><p>Puoi porre una domanda al GM, che risponderà “sì” o “no” in modo sincero. Se lanci quest'incantesimo più di una volta in 24 ore, ogni fallimento nella prova per lanciarlo diventa un fallimento critico.</p>"
+    },
+    "Divine Vengeance": {
+      "name": "Vendetta Divina",
+      "description": "<p>Diventi l'avatar divino dell'ira del tuo dio, avvolto in fiamme sacre o da un'aura nera di corruzione ardente.</p><p>Per la durata, puoi volare a distanza media, le tue armi sono magiche e hai un bonus +4 ai tiri per colpire con le armi e ai danni.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.o74l0TnCb0E2fAKp]</p>"
+    },
+    "Dominion": {
+      "name": "Dominare",
+      "description": "<p>Potenti esseri ti soccorrono. Gli esseri devono avere un totale combinato di 16 livelli o inferiore. I PG caotici evocano demoni/diavoli, mentre i PG legali o neutrali evocano angeli.</p><p>Gli esseri agiscono di propria volontà per aiutarti nel tuo turno. Dopo 10 round, tornano nei loro reami. Non puoi lanciare di nuovo quest'incantesimo finché non completi una penitenza.</p>"
+    },
+    "Dreamwalk": {
+      "name": "Passo Onirico",
+      "description": "<p>Tu e ogni creatura consenziente a distanza corta che scegli entrate nel sogno di una creatura addormentata che nomini e che si trova sul tuo stesso piano.</p><p>Tu e chi viaggia con te potete uscire dalla creatura, comparendo accanto a essa come se vi foste teletrasportati lì.</p>"
+    },
+    "Enfeeble": {
+      "name": "Indebolimento",
+      "description": "<p>Riduci una caratteristica casuale di una creatura che tocchi a 3 (-4) per una settimana. Tira 1d6 per determinare quale: 1. FOR, 2. DES, 3. CON, 4. INT, 5. SAG, 6. CAR.</p><p>Se fallisci la prova di lanciare, la tua caratteristica casuale viene ridotta a 3 per una settimana.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.Ya5tD4kFDne19zZO]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.1PzBYve4rd4MH6K2]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.Eojo6v3WsiHEDcKm]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.0DDkeYKSrNj6JG1l]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.Jlv9MzbDrXu92djm]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.OTHSzCFY9zLlwzFF]</p>"
+    },
+    "Evoke Rage": {
+      "name": "Suscitare Furia",
+      "description": "<p>Un umanoide volontario e che tocchi entra in stato di furia. Il bersaglio diventa immune alle prove di morale, ha Vantaggio alle prove di FOR e ai tiri per colpire in mischia, e infligge +1d4 danni aggiuntivi per la durata della magia.</p><p>Se il bersaglio non attacca un'altra creatura nel proprio turno, la magia termina.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.79D3CwKRi78k9BM7]</p>"
+    },
+    "Eyebite": {
+      "name": "Sguardo Malefico",
+      "description": "<p>Una creatura bersaglio subisce 1d4 danni e non ti vede fino alla fine del suo prossimo turno.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.0RrksUfAZkp4LpGe]</p>"
+    },
+    "Fabricate": {
+      "name": "Fabbricare",
+      "description": "<p>Questo incantesimo non può avere come bersaglio le creature. Trasformi un ammasso di materie prime delle dimensioni di un albero in un'opera finita. Per esempio, una pila di mattoni o rocce in un ponte. Al termine, l'opera finita torna a essere materia prima.</p>"
+    },
+    "Fate": {
+      "name": "Destino",
+      "description": "<p>Torci dolorosamente i fili dorati del destino di una creatura. Una creatura bersaglio entro il raggio d'azione subisce [[/r 1d10]] danni e perde tutti i gettoni fortuna in suo possesso.</p>"
+    },
+    "Feather Fall": {
+      "name": "Caduta Morbida",
+      "description": "<p>Puoi tentare di lanciare questo incantesimo mentre cadi. La tua velocità di discesa rallenta e tu atterri sano e salvo.</p>"
+    },
+    "Finger of Death": {
+      "name": "Dito della Morte",
+      "description": "<p>Una creatura che tocchi di LV 9 o inferiore muore. Fallire la prova di lanciare per questo incantesimo innesca un fallimento critico; tira sulla tabella degli incidenti con svantaggio.</p>"
+    },
+    "Fireball": {
+      "name": "Palla di Fuoco",
+      "description": "<p>Scagli una piccola fiamma che scoppia in un'esplosione di fuoco. Ogni creatura in un cubo di lato medio attorno al punto in cui atterra la fiamma subisce 4d6 danni.</p>"
+    },
+    "Fixed Object": {
+      "name": "Oggetto Fisso",
+      "description": "<p>Un oggetto non più pesante di 2,5 kg che tocchi resta fisso nella sua posizione attuale. Per la durata, può sostenere fino a 2.300 kg di peso.</p>"
+    },
+    "Flame Strike": {
+      "name": "Colpo di Fiamma",
+      "description": "<p>Invochi una sacra colonna di fuoco, immolando una creatura che puoi vedere entro gittata. Il bersaglio subisce 2d6 danni.</p>"
+    },
+    "Floating Disk": {
+      "name": "Disco Fluttuante",
+      "description": "<p>Crei un disco fluttuante di forza, con il centro concavo. Trasporta fino a 20 slot equipaggiamento. Fluttua all'altezza della vita e resta vicino a te. Non può superare dirupi o fossi più alti di un umano.</p><p>@UUID[Compendium.shadowdark.spell-effects.VMkeCfccn7zp2up7]</p>"
+    },
+    "Fly": {
+      "name": "Volo",
+      "description": "<p>I tuoi piedi si sollevano da terra e ti alzi in volo come un colibrì. Per la durata, puoi volare a distanza media o fluttuare sul posto.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.IzCONbtholryomxC]</p>"
+    },
+    "Fog": {
+      "name": "Nebbia",
+      "description": "<p>Una fitta nube di nebbia si diffonde in un'area a distanza corta intorno a te, rendendoti difficile da vedere. La nube si sposta con te. Gli attacchi contro le creature al suo interno hanno svantaggio.</p>"
+    },
+    "Freya's Omen": {
+      "name": "Presagio di Freya",
+      "description": "<p>Per la durata della magia, non perdi la capacità di lanciare un incantesimo se fallisci il tiro per l'attacco di lancio. Se ottieni un fallimento critico in un tiro di lancio, puoi ripetere il tiro. Devi utilizzare il nuovo risultato.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.HBIVwYRcojImlOOx]</p>"
+    },
+    "Frog Rain": {
+      "name": "Pioggia di Rane",
+      "description": "<p>Una pioggia di rane indignate si abbatte su un cubo da 9 m³ centrato su un punto che puoi vedere entro gittata. Ogni creatura al suo interno subisce 1d6 danni. Le rane sopravvissute balzano via e spariscono.</p>"
+    },
+    "Gaseous Form": {
+      "name": "Forma Gassosa",
+      "description": "<p>Tu e il tuo equipaggiamento vi trasformate in una nuvola di fumo per la durata dell'incantesimo. Puoi volare e attraversare fessure da cui passerebbe il fumo. Percepisci il terrain e i movimenti intorno a te fino a distanza media. Non puoi lanciare incantesimi mentre ti trovi in questa forma.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.u6apLIMU1w4EIW06]</p>"
+    },
+    "Glassbones": {
+      "name": "Ossa di Vetro",
+      "description": "<p>Una creatura che tocchi diventa fragile. Subisce danni doppi per la durata.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.qNd9stCSD6ZJyoOj]</p>"
+    },
+    "Hallucinate": {
+      "name": "Allucinazione",
+      "description": "<p>Una creatura bersaglio situata a distanza media, il cui livello sia pari o inferiore al tuo, viene sopraffatta da visioni di ciò che potrebbe ancora accadere. Per la durata della magia, il bersaglio non può agire nel proprio turno a meno che non superi una prova di Saggezza pari al tuo ultimo tiro di lancio.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.PLPiCgwZaEetlx5O]</p>"
+    },
+    "Heal": {
+      "name": "Guarigione",
+      "description": "<p>Una creatura che tocchi recupera tutti i PF. Non puoi lanciare di nuovo quest'incantesimo finché non completi un riposo.</p>"
+    },
+    "Hold Monster": {
+      "name": "Blocca Mostri",
+      "description": "<p>Paralizzi una creatura che puoi vedere entro la gittata. Se il bersaglio è di livello 9+, può effettuare una prova di Forza contro il tuo ultimo tiro di lancio all'inizio del suo turno per terminare la magia.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.PUFCnXLjvBQSM2YO]</p>"
+    },
+    "Hold Person": {
+      "name": "Blocca Persone",
+      "description": "<p>Paralizzi magicamente una creatura umanoide di livello 4 o inferiore che puoi vedere e che sia all'interno della gittata.</p><p>@UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]</p>"
+    },
+    "Hold Portal": {
+      "name": "Blocca Portale",
+      "description": "<p>Per la durata, tieni chiuso un portale con la magia. Per riaprirlo, una creatura deve superare una prova di FOR contro la tua di lanciare incantesimi. L'incantesimo scassinare termina questo effetto.</p><p>@UUID[Compendium.shadowdark.spell-effects.q109XEqMceJBEX7m]</p>"
+    },
+    "Holy Weapon": {
+      "name": "Arma Sacra",
+      "description": "<p>Un'arma che tocchi viene infusa da una benedizione sacra. Per la durata, diventa magica e ha +1 ai tiri per colpire e ai danni.</p><p>@UUID[Compendium.shadowdark.spell-effects.r2JNgS2474vuq9oy]</p>"
+    },
+    "Howl": {
+      "name": "Uivo",
+      "description": "<p>Tutti i nemici entro distanza media devono effettuare subito una prova di morale. Non ha effetto sulle creature immuni alle prove di morale.</p>"
+    },
+    "Hypnotize": {
+      "name": "Ipnotizzare",
+      "description": "<p>Una creatura di livello 3 o inferiore che può vederti rimane stordita. Interrompere la linea di vista tra la creatura e te le consente di tirare una prova di CAR con CD 15. Se la supera, l'incantesimo termina.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.6wfBZBYV85NQTcJz]</p>"
+    },
+    "Illusion": {
+      "name": "Illusione",
+      "description": "<p>Crei un'illusione convincente, visibile e udibile, che riempie un cubo di lato medio. L'illusione non può causare danni, ma chi la crede reale agisce come se lo fosse.</p><p>Una creatura che ispeziona l'illusione da lontano deve superare una prova di SAG contro la tua ultima di lanciare incantesimi per percepirne la natura falsa. Anche toccare l'illusione ne rivela l'irrealtà.</p>"
+    },
+    "Invisibility": {
+      "name": "Invisibilità",
+      "description": "<p>Una creatura che tocchi diventa invisibile per la durata. L'effetto termina se il bersaglio attacca o lancia un incantesimo.</p><p>@UUID[Compendium.shadowdark.spell-effects.SMXbMbXcj5hLvTjY]</p>"
+    },
+    "Judgment": {
+      "name": "Giudizio",
+      "description": "<p>Bandisci all'istante una creatura che tocchi, mandandola con tutti i suoi averi ad affrontare il giudizio del tuo dio. La creatura intelligente deve essere di livello 10 o inferiore.</p><p>La creatura ritorna entro 5 round, con tutti i PF recuperati se le sue azioni hanno compiaciuto il tuo dio. Se invece l'hanno fatto infuriare è ridotta a 1 PF. Se il tuo dio non può giudicare le sue azioni, torna invariata.</p>"
+    },
+    "Knock": {
+      "name": "Scassinare",
+      "description": "<p>Una porta, finestra, cancello, scrigno o portale che puoi vedere entro gittata si apre all'istante, distruggendo tutte le serrature e le barriere normali. Questo incantesimo provoca un colpo forte e udibile da chi è a portata d'orecchio.</p>"
+    },
+    "Lay to Rest": {
+      "name": "Riposo Eterno",
+      "description": "<p>Tocchi un non morto e lo mandi all'istante nell'aldilà eterno, distruggendolo completamente. Puoi bersagliare una creatura non morta di livello 9 o inferiore.</p>"
+    },
+    "Levitate": {
+      "name": "Levitazione",
+      "description": "<p>Puoi fluttuare verticalmente a distanza media per round e nel tuo turno. Puoi anche spingerti contro oggetti solidi per spostarti in orizzontale.</p><p>@UUID[Compendium.shadowdark.spell-effects.sLb9GOXx9F6XCb2o]</p>"
+    },
+    "Light": {
+      "name": "Luce",
+      "description": "<p>Un oggetto che tocchi brilla d'una luce intensa e priva di calore, illuminando fino a distanza media per 1 ora di tempo reale.</p><p>@UUID[Compendium.shadowdark.gear.Item.PkQXG3AaHNMVwGTc]</p><p>@UUID[Compendium.shadowdark.gear.Item.BBDG7QpHOFXG6sKe]</p><p>@UUID[Compendium.shadowdark.gear.Item.rjNBToTJCYLLdVcT]</p>"
+    },
+    "Lightning Bolt": {
+      "name": "Fulmine",
+      "description": "<p>Scagli un raggio di fulmine bianco-azzurro dalle mani, colpendo tutte le creature in linea retta fino a gittata lunga. Le creature colpite subiscono 3d6 danni.</p>"
+    },
+    "Loki's Trickery": {
+      "name": "Inganno di Loki",
+      "description": "<p>Scegli una creatura che possa sentirti e comprenderti, situata entro la gittata. Fai un'affermazione plausibile, vera o falsa. Il bersaglio deve superare una prova di SAG contro il tuo tiro di lancio: se fallisce, crederà alla tua affermazione come a una verità assoluta, indipendentemente dalle sue conoscenze precedenti.</p>"
+    },
+    "Mage Armor": {
+      "name": "Armatura Magica",
+      "description": "<p>Uno strato invisibile di forza magica protegge i tuoi organi vitali. La tua CA diventa 14 (18 con un critico sulla prova di lancio) per la durata dell'incantesimo.</p><p>@UUID[Compendium.shadowdark.spell-effects.h9MTxzrrPmyhEmRL]</p><p>@UUID[Compendium.shadowdark.spell-effects.Gyol5I0ZdApO8MPe]</p>"
+    },
+    "Magic Circle": {
+      "name": "Cerchio Magico",
+      "description": "<p>Evochi un cerchio di rune centrato su di te, che si estende fino a un cubo di lato medio e nomini un tipo di creatura (per esempio, demoni).</p><p>Per la durata dell'incantesimo, quel tipo di creature non può attaccare o lanciare incantesimi ostili contro chi si trovi all'interno. Non possono inoltre possedere, forzare o ammaliare nessuno dentro il cerchio.</p>"
+    },
+    "Magic Missile": {
+      "name": "Dardo Incantato",
+      "description": "<p>Hai vantaggio alla prova per lanciare questo incantesimo. Un dardo di forza luminoso scaturisce dalla tua mano aperta, infliggendo 1d4 danni a un bersaglio.</p>"
+    },
+    "Mass Cure": {
+      "name": "Cura di Massa",
+      "description": "<p>Tutti gli alleati vicini a te recuperano 2d6 PF.</p>"
+    },
+    "Mirror Image": {
+      "name": "Immagine Speculare",
+      "description": "<p>Crei un ammontare di tuoi doppioni illusori pari a metà del tuo livello arrotondato per difetto (minimo 1). Ti circondano e ti imitano.</p><p>Ogni volta che una creatura ti attacca, l'attacco manca te e fa svanire uno dei doppioni. L'effetto termina quando tutte le illusioni sono scomparse.</p><p>@UUID[Compendium.shadowdark.spell-effects.vI70AaskCqH9tKJ7]</p>"
+    },
+    "Mistletoe": {
+      "name": "Vischio",
+      "description": "<p>Due creature che puoi vedere, situate a distanza media da te, rimangono affascinate l'una dall'altra per 1d8 giorni.</p><p>Ogni volta che una delle creature colpite subisce danni, può effettuare una prova di [[check 15 cha]]. Se ha successo, la magia termina.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.CFnP5fuBHsNZzrkY]</p>"
+    },
+    "Misty Step": {
+      "name": "Passo Velato",
+      "description": "<p>In uno sbuffo di fumo, ti teletrasporti a distanza media in un'area che puoi vedere.</p>"
+    },
+    "Moonbeam": {
+      "name": "Raggio Lunare",
+      "description": "<p>Un tremolante raggio di luce lunare argentea colpisce una creatura entro gittata, che subisce 3d6 danni.</p>"
+    },
+    "Mother of Night": {
+      "name": "Madre della Notte",
+      "description": "<p>Supplichi la Madre della Notte di concederti il potere. Esprimi un desiderio, scandendolo al meglio possibile. Il desiderio si avvera in base a come lo interpreta il GM.</p><p>Se fallisci la prova di lanciare, la Madre della Notte ti trascina nell'Imbrunire per il giudizio. Non puoi lanciare di nuovo l'incantesimo finché non soddisfi le sue richieste.</p>"
+    },
+    "Nightmare": {
+      "name": "Incubo",
+      "description": "<p>Visiti i sogni di una creatura addormentata, inviandole incubi capaci di fermarle il cuore. Puoi bersagliare una creatura il cui LV sia pari o inferiore alla metà del tuo LV, arrotondato per difetto (minimo 1).</p><p>Il bersaglio dev'essere addormentato e devi già averlo visto di persona. Se ti concentri per 3 round consecutivi, la creatura muore di paura.</p>"
+    },
+    "Oak, Ash, Thorn": {
+      "name": "Quercia, Frassino, Spina",
+      "description": "<p>Per la durata, fate, demoni e diavoli non possono attaccarti né possederti, costringerti o ammaliarti.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.88nOOPKvH7t6mhVu]</p>"
+    },
+    "Odin's Wisdom": {
+      "name": "Sapere di Odino",
+      "description": "<p>Per la durata della magia, aggiungi il tuo livello come bonus a tutte le prove di Saggezza e ai tiri di lancio delle magie.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.1zAGVkhuWYmSaxgy]</p>"
+    },
+    "Passwall": {
+      "name": "Passapareti",
+      "description": "<p>Un tunnel alto quanto te si apre in una barriera che tocchi e resta per la durata. Il passaggio può essere lungo fino a distanza media e dev'essere in linea retta.</p>"
+    },
+    "Pillar of Salt": {
+      "name": "Pilastro di Sale",
+      "description": "<p>Una creatura che scegli si trasforma in una statua di sale duro. Puoi bersagliare una creatura di LV 5 o inferiore che puoi vedere. Se riesci a concentrarti per 3 round consecutivi, la trasformazione diventa permanente.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.6yYj2FkmYppGAl9N]</p>"
+    },
+    "Pin Doll": {
+      "name": "Bambola di Spilli",
+      "description": "<p>Fissi un capello o pezzo di carne di una creatura a una piccola bambola di iuta evocata dall'incantesimo. Nel tuo turno, mentre ti concentri, puoi conficcare uno spillo nella bambola. Ogni volta che lo fai, la creatura a cui appartiene il capello o la carne subisce 2d6 danni. Al termine dell'incantesimo, il capello o la carne diventa cenere.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.zjm48oHhbVG4XeoB]</p>"
+    },
+    "Plane Shift": {
+      "name": "Spostamento Planare",
+      "description": "<p>Pieghi spazio e tempo, trasportando te e tutte le creature consenzienti, entro gittata corta, in un luogo su un altro piano a tua scelta. A meno che tu non abbia visitato tale luogo in precedenza, compari in un punto casuale del piano di destinazione.</p>"
+    },
+    "Poison": {
+      "name": "Veleno",
+      "description": "<p>Un oggetto indossato o trasportato che tocchi diventa tossico per la durata. Ogni creatura a contatto con esso all'inizio del suo turno subisce 1d6 danni.</p>"
+    },
+    "Polymorph": {
+      "name": "Metamorfosi",
+      "description": "<p>Trasformi una creatura che tocchi in un'altra naturale a tua scelta di taglia uguale o inferiore. L'equipaggiamento che trasporta si fonde nella sua nuova forma. Il bersaglio ottiene caratteristiche e peculiarità fisiche della creatura, ma mantiene quelle non fisiche.</p><p>Se il bersaglio scende a 0 PF, torna alla sua vera forma con metà dei PF precedenti. Puoi scegliere come conclusione qualsiasi creatura consenziente, oppure una non consenziente il cui livello sia pari o inferiore a metà del tuo arrotondato per difetto (minimo 1).</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.Hc3xUBBlZLxWNKYV]</p>"
+    },
+    "Potion": {
+      "name": "Pozione",
+      "description": "<p>Come parte della coniugazione di questa magia, devi benedire un'unica dose di qualsiasi liquido. Il liquido riceve proprietà curative per 1 giorno. Una creatura che lo ingerisce può terminare gli effetti di un veleno o viene stabilizzata e non muore (la creatura rimane con 0 PV).</p>"
+    },
+    "Power Word Kill": {
+      "name": "Parola del Potere Uccidere",
+      "description": "<p>Pronunci la Parola di Sventura. Una creatura bersaglio di LV 9 o inferiore muore se ti sente. Ogni fallimento nella prova per lanciare questo incantesimo diventa un fallimento critico; tira l'incidente con svantaggio.</p>"
+    },
+    "Prismatic Orb": {
+      "name": "Globo Prismatico",
+      "description": "<p>Scagli un globo stroboscopico di energia pulsante verso un bersaglio entro gittata. Scegli un tipo di energia tra fuoco, freddo ed elettricità. Il globo infligge 3d8 danni e sprigiona un'esplosione concussiva del tipo di energia scelto.</p><p>Se il tipo di energia è anatema per l'esistenza del bersaglio (per esempio, energia fredda contro un elementale del fuoco), infligge danni doppi.</p>"
+    },
+    "Prophecy": {
+      "name": "Profezia",
+      "description": "<p>Entri in comunione diretta con il tuo dio in cerca di una guida. Poni una domanda al GM, che risponde sinceramente sfruttando ciò che sa il tuo dio. Le divinità sono potenti, ma non onniscienti. Non puoi lanciare di nuovo questo incantesimo finché non completi una penitenza.</p>"
+    },
+    "Protection from Energy": {
+      "name": "Protezione dall'Energia",
+      "description": "<p>Una creatura che tocchi diventa invulnerabile alla furia indomita degli elementi. Scegli fuoco, freddo o elettricità. Per la durata, il bersaglio è immune ai danni causati dall'energia del tipo scelto.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.KXfv6edqcRQdnc7m]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.8mFFTIDKLulz3Yp6]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.HxMd3lV8CPpvL3my]</p>"
+    },
+    "Protection From Evil": {
+      "name": "Protezione dal Male",
+      "description": "<p>Per la durata, gli esseri caotici subiscono svantaggio ai tiri per colpire e alle prove di lanciare incantesimi ostili contro il bersaglio. Questi esseri inoltre non possono possederlo, costringerlo o ammaliarlo.</p><p>Se lanciato su un bersaglio già posseduto, l'entità effettua una prova di CAR contro l'ultima prova di lanciare incantesimi. Se fallisce, viene espulsa.</p><p>@UUID[Compendium.shadowdark.spell-effects.H7v5Izebo8O45DXB]</p>"
+    },
+    "Puppet": {
+      "name": "Marionetta",
+      "description": "<p>Una creatura umanoide di LV 2 o inferiore che tocchi viene intrappolata dai tuoi movimenti. Nel tuo turno, la creatura imita tutti i tuoi movimenti.</p><p>Se imitarti farebbe sì che la creatura danneggi direttamente sé stessa o un alleato, può tirare CAR CD 15, resistendo in caso di successo.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.Cu3dona3PiHxO1lK]</p>"
+    },
+    "Ragnarok": {
+      "name": "Ragnarok",
+      "description": "<p>Scegli una creatura entro la gittata. Puoi usare questa magia solo una volta sulla stessa creatura. Il bersaglio deve superare una prova di CON con CD pari al tuo ultimo tiro di lancio, altrimenti morirà all'istante.</p>"
+    },
+    "Raven": {
+      "name": "Corvo",
+      "description": "<p>Pronuncia una frase breve e il nome del destinatario, vivo o morto. Quella creatura sentirà il messaggio sussurrato direttamente nella sua mente.</p>"
+    },
+    "Read the Runes": {
+      "name": "Leggere le Rune",
+      "description": "<p>Fai una domanda di 'sì' o 'no' al GM, che risponderà onestamente.</p>"
+    },
+    "Rebuke Unholy": {
+      "name": "Intimorire l'Empio",
+      "description": "<p>Se sei legale o neutrale, l'incantesimo ha effetto su demoni, diavoli ed esterni. Se sei caotico, ha effetto su angeli e creature naturali selvatiche.</p><p>Le creature influenzate entro gittata devono tirare una prova di CAR contro la tua prova per lanciare incantesimi. Se una creatura fallisce di 10 o più punti ed è di livello pari o inferiore al tuo, viene distrutta. Altrimenti, fugge da te per 5 round.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.aQfBagCGogkjgCS8]</p>"
+    },
+    "Regenerate": {
+      "name": "Rigenerazione",
+      "description": "<p>Una creatura che tocchi recupera 1d4 PF nel tuo turno, per la durata. Questo incantesimo fa anche ricrescere parti del corpo perse.</p>"
+    },
+    "Resilient Sphere": {
+      "name": "Sfera Resiliente",
+      "description": "<p>Evochi attorno a te una sfera vitrea e priva di peso che si estende fino a distanza media. Per la durata dell'incantesimo, nulla può attraversarla o schiacciarla. Puoi farla rotolare fino a distanza media nel tuo turno.</p>"
+    },
+    "Restoration": {
+      "name": "Ristorare",
+      "description": "<p>Cancelli maledizioni e malattie tramite il tocco delle tue mani e fai terminare una maledizione, malattia o afflizione a tua scelta che ha colpito una creatura.</p>"
+    },
+    "Sacrifice": {
+      "name": "Sacrificio",
+      "description": "<p>Come parte della coniugazione di questa magia, devi sacrificare una creatura vivente di livello 2 o superiore in un rituale. Il bersaglio che tocchi riceve un bonus sul suo prossimo tiro per colpire o prova pari al livello della creatura sacrificata.</p>"
+    },
+    "Scrying": {
+      "name": "Scrutare",
+      "description": "<p>Scruti in una sfera di cristallo o pozza riflettente, evocando immagini di un luogo lontano. Per la durata, puoi vedere e udire una creatura o un luogo a tua scelta che si trovi sullo stesso piano.</p><p>Se tenti di scrutare una creatura o un luogo non familiare, la CD per lanciarlo è 18. A ogni round, le creature che vedi possono tirare una prova di SAG contro la tua ultima prova di lanciare incantesimi per accorgersi che li stai osservando con la magia.</p>"
+    },
+    "Sending": {
+      "name": "Messaggio",
+      "description": "<p>Invii un breve messaggio mentale a qualsiasi creatura che si trova sul tuo stesso piano e con cui hai familiarità.</p>"
+    },
+    "Shadowdance": {
+      "name": "Danza dell'Ombra",
+      "description": "<p>Trasformi le ombre in una convincente illusione visiva e uditiva in un punto entro gittata. L'illusione può essere grande quanto una persona e muoversi entro distanza media dal punto in cui è apparsa. L'illusione non può interagire con oggetti fisici. Toccarla ne rivela la natura falsa.</p>"
+    },
+    "Shapechanger": {
+      "name": "Trasformazione",
+      "description": "<p>Ti trasformi, insieme a tutto l'equipaggiamento che indossi o trasporti, in un'altra creatura naturale che hai già visto in precedenza e che sia di livello 10 o inferiore. Assumi le caratteristiche e i punteggi fisici della creatura, ma mantieni le tue caratteristiche e i tuoi punteggi mentali (inclusi INT, SAG e CAR).</p><p>Se scendi a 0 punti vita mentre sei sotto l'effetto di questa magia, ritorni alla tua forma originaria con 1 PF.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.F89CJeindj8k8oiC]</p>"
+    },
+    "Shield of Faith": {
+      "name": "Scudo della Fede",
+      "description": "<p>Una forza protettiva forgiata dal tuo sacro credo ti circonda. Ottieni un bonus +2 alla CA per la durata.</p><p>@UUID[Compendium.shadowdark.spell-effects.4dCcpPeyRKWt9XkC]</p>"
+    },
+    "Silence": {
+      "name": "Silenzio",
+      "description": "<p>Silenzi con la magia ogni suono in un cubo di lato medio, entro gittata. Le creature nell'area vengono assordate e qualsiasi suono producano non può essere udito.</p><p>@UUID[Compendium.shadowdark.spell-effects.aAdqy5QwVJrT8JWE]</p>"
+    },
+    "Sleep": {
+      "name": "Sonno",
+      "description": "<p>Lanci un incantesimo soporifero che si estende da te fino a un cubo di lato medio. Le creature viventi nell'area d'effetto cadono in un sonno profondo se sono di LV 2 o inferiore. Subire un danno o ricevere una vigorosa scrollata sveglia immediatamente la creatura.</p>"
+    },
+    "Smite": {
+      "name": "Punizione Divina",
+      "description": "<p>Evochi fiamme punitive su una creatura entro gittata e che puoi vedere, facendole subire 1d6 danni.</p>"
+    },
+    "Soul Jar": {
+      "name": "Giara dell'Anima",
+      "description": "<p>Trasferisci l'anima di una creatura che tocchi di LV 9 o meno in un contenitore, come una giara. Il corpo della creatura entra in coma, ma non muore. Se il contenitore si apre o rompe, l'anima ritorna nel suo corpo.</p><p>Puoi possedere il corpo vuoto con il tuo spirito, prendendone il controllo. Se lo fai, il tuo corpo va in coma. Se il corpo ospite muore mentre lo possiedi, la tua anima ritorna nel tuo.</p>"
+    },
+    "Soulbind": {
+      "name": "Vincolo dell'Anima",
+      "description": "<p>Sigilli l'anima di una creatura vivente, impedendo alla magia di influenzarla. Una creatura che tocchi diventa di fatto immune a tutti gli incantesimi. Per la durata della magia, qualsiasi altro incantesimo (benefico o dannoso) che prenda come bersaglio la creatura richiede un tiro con CD 18 per avere effetto.</p><p>Questa magia termina immediatamente non appena il bersaglio viene influenzato da un altro incantesimo.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.z7X1jRQHFTnSXpds]</p>"
+    },
+    "Speak with Dead": {
+      "name": "Parlare con i Morti",
+      "description": "<p>Un cadavere che tocchi risponde alle tue domande con una voce lontana e rantolante. Puoi porre fino a tre domande (una alla volta). Il GM risponde sinceramente “sì” o “no” a ciascuna.</p><p>Se lanci quest'incantesimo più di una volta in 24 ore, ogni fallimento nel lanciarlo è un fallimento critico.</p>"
+    },
+    "Spidersilk": {
+      "name": "Seta di ragno",
+      "description": "<p>Una tela di ragno appiccicosa ti ricopre mani e piedi. Per la durata, puoi camminare facilmente su superfici verticali come se fossero piane.</p>"
+    },
+    "Stoneskin": {
+      "name": "Pelle di Pietra",
+      "description": "<p>La tua pelle diventa come il granito. Per la durata dell'incantesimo, la tua CA diventa 17 (20 con un critico alla prova per lanciarlo).</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.deNtIVyGoXaDPrmJ]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.5rK6guXTllcryhLv]</p>"
+    },
+    "Summon Extraplanar": {
+      "name": "Evocazione Extraplanare",
+      "description": "<p>Tendi la mano verso i piani esterni, evocando una creatura. Evochi un elementale o un esterno di LV 7 o inferiore. La creatura è sotto il tuo controllo e agisce nel tuo turno.</p><p>Se perdi la concentrazione, perdi il controllo della creatura, che devia ostile nei confronti tuoi e dei tuoi alleati. Devi superare una prova di lanciare incantesimi nel tuo turno per rimandare la creatura nel suo piano.</p>"
+    },
+    "Swarm": {
+      "name": "Sciame",
+      "description": "<p>Un fitto sciame di pipistrelli, ratti o locuste mordaci compare in un cubo da 9 m³ in un punto che puoi vedere entro gittata. Tutte le creature che iniziano il loro turno all'interno dello sciame subiscono 2d6 danni e sono accecate.</p>"
+    },
+    "Telekinesis": {
+      "name": "Telecinesi",
+      "description": "<p>Sollevi una creatura o un oggetto con la mente. Scegli un bersaglio che pesa 450 kg o meno. Puoi spostarlo a distanza media in ogni direzione e mantenerlo in posizione.</p>"
+    },
+    "Teleport": {
+      "name": "Teletrasporto",
+      "description": "<p>Tu e qualsiasi creatura consenziente che scegli entro gittata vi teletrasportate in un luogo a tua scelta sul tuo stesso piano. Puoi raggiungere un sigillo di teletrasporto conosciuto o un luogo che hai già visitato. Altrimenti, hai il 50% di probabilità di mancare la destinazione.</p>"
+    },
+    "Thor's Thunder": {
+      "name": "Fulmine di Thor",
+      "description": "<p>Un bersaglio entro la gittata subisce [[/r 3d6]] danni.</p>"
+    },
+    "Toadstool": {
+      "name": "Amanita",
+      "description": "<p>Evochi un fungo maculato edibile nella tua mano. Scompare alla fine del tuo prossimo turno. Una creatura che lo mangia recupera 1d6 PF.</p>"
+    },
+    "Trance": {
+      "name": "Trance",
+      "description": "<p>Entri in transe, assorbendo brevi visioni sul destino di una creatura. Una creatura umanoide che tocchi (non può essere te stesso) guadagna un gettone fortuna. Non può avere più di un gettone fortuna contemporaneamente.</p>"
+    },
+    "Turn Undead": {
+      "name": "Scacciare Non Morti",
+      "description": "<p>Rimproveri i non morti, costringendoli a fuggire. Devi impugnare un simbolo sacro per lanciare questo incantesimo. Le creature non morte entro gittata devono tirare CAR contro la tua prova di lanciare incantesimi.</p><p>Se una creatura fallisce di 10 o più punti ed è di livello pari o inferiore al tuo, viene distrutta. Altrimenti, fugge da te per 5 round.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.T4LUCIffieQPMGsN]</p>"
+    },
+    "Valkyrie": {
+      "name": "Valchiria",
+      "description": "<p>Evochi una valchiria affinché ti assista. Essa appare in un punto a distanza media e agisce di propria volontà. Quando la magia termina, ritorna nel Valhalla. Non puoi lanciare di nuovo questo incantesimo finché non completi una penitenza.</p>"
+    },
+    "Void Stare": {
+      "name": "Sguardo del Vuoto",
+      "description": "<p>I tuoi occhi diventano neri mentre scruti il buio tra le stelle. Una creatura di LV 6 o meno che puoi vedere cade sotto il tuo controllo. Decidi le sue azioni durante il suo turno.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.nctlTXcIkACzb0yd]</p>"
+    },
+    "Wall of Force": {
+      "name": "Muro di Forza",
+      "description": "<p>Sollevi le mani ed evochi un sottile muro di forza trasparente. Il muro deve essere contiguo e può coprire un'area di lato medio in larghezza e lunghezza. Scegli tu la forma. Nulla sullo stesso piano può fisicamente attraversarlo.</p>"
+    },
+    "Web": {
+      "name": "Ragnatela",
+      "description": "<p>Crei un cubo di lato medio di ragnatela appiccicosa e densa entro gittata. Una creatura impigliata al suo interno non può muoversi e deve superare una prova di FOR contro la tua prova di lanciare incantesimi per liberarsi.</p><p>@UUID[Compendium.shadowdark.spell-effects.28PPFz1MYTsfPwzh]</p>"
+    },
+    "Whisper": {
+      "name": "Sussurro",
+      "description": "<p>Sussurri all'orecchio di una creatura, impiantando un breve falso ricordo nella sua mente. Descrivilo e il bersaglio crede sia vero da quel momento in poi.</p><p>Se fallisci la prova di lanciare, il GM ne sceglie uno da impiantare nella tua mente.</p>"
+    },
+    "Willowman": {
+      "name": "Uomo Salice",
+      "description": "<p>Invochi l'Uomo Salice affinché appaia nella mente di una creatura, riempiendola di terrore soprannaturale. Scegli una creatura di LV 2 o meno entro gittata che deve effettuare immediatamente una prova di morale.</p><p>Anche le creature di norma non soggette a prove di morale (come i non morti) devono farlo.</p>"
+    },
+    "Wish": {
+      "name": "Desiderio",
+      "description": "<p>Questo potente incantesimo altera la realtà. Esprimi un singolo desiderio nel modo più esatto possibile. Si avvererà, come interpretato dal GM. Considera un fallimento nella prova di lancio per quest'incantesimo come un fallimento critico e tira l'incidente con svantaggio.</p>"
+    },
+    "Witchlight": {
+      "name": "Luce Stregata",
+      "description": "<p>Evochi una luce di palude che fluttua in aria e illumina entro un raggio corto attorno a sé. La luce può cambiare colore e assumere vaghe forme. Può fluttuare fino a distanza corta nel tuo turno.</p>"
+    },
+    "Wolfshape": {
+      "name": "Forma di Lupo",
+      "description": "<p>Tu e il tuo equipaggiamento vi trasformate in un lupo per la durata della magia. Assumi i punteggi di FOR, DES e CON, i PV, la CA, la velocità, gli attacchi e i tratti fisici del lupo. Mantieni i tuoi valori di INT, SAG e CAR. Se il tuo livello è 5+, puoi trasformarti in un lupo terribile o in un lupo invernale.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.B9ChlhtUjECrLlre]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.3vCyl2kqfz31N1yP]</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.cC4hF54uctVhvvCo]</p>"
+    },
+    "World Serpent": {
+      "name": "Serpente del Mondo",
+      "description": "<p>Il veleno tormentoso del Serpente del Mondo gocciola dalle armi di una creatura che tocchi. Il bersaglio infligge danni raddoppiati a ogni attacco (x4 in caso di colpo critico) per la durata della magia.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.sZ6msFePi3R6DUju]</p>"
+    },
+    "World Tree": {
+      "name": "Albero del Mondo",
+      "description": "<p>Le radici dell'Albero del Mondo, la sorgente della vita, avvolgono l'anima di una creatura che tocchi. Per la durata della magia, i PV del bersaglio non possono essere ridotti a meno di 1.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.FDyJAnR0Fk9cZZEf]</p>"
+    },
+    "Wrath": {
+      "name": "Ira",
+      "description": "<p>Le tue armi diventano magiche (+2), e causano un d8 di danno aggiuntivo per la durata della magia.</p><p>@UUID[Compendium.shadowdark.spell-effects.Item.pKu2XsypNq65vkbV]</p>"
+    },
+    "Zone of Truth": {
+      "name": "Zona di Verità",
+      "description": "<p>Costringi una creatura che vedi a dire la verità. Non può mentire deliberatamente finché si trova entro la gittata.</p><p>@UUID[Compendium.shadowdark.spell-effects.cL5aPfXcad9FtHoK]</p>"
+    }
+  }
+}

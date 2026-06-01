@@ -1,0 +1,108 @@
+{
+  "label": "Capacità di Classe",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Ranger": "Ranger",
+    "Knight of St. Ydris": "Cavaliere di Sant'Ydris",
+    "Desert Rider": "Cavaliere del Deserto",
+    "Witch": "Strega",
+    "Seer": "Veggente",
+    "Pit Fighter": "Combattente della Fossa",
+    "Bard": "Bardo",
+    "Basilisk Warrior": "Guerriero Basilisco",
+    "Sea Wolf": "Lupo di Mare",
+    "Ras-Godai": "Ras-Godai"
+  },
+  "entries": {
+    "Berserk": {
+      "name": "Furia",
+      "description": "<p>1/giorno, entra in furia: immune ai danni per 3 round</p><p>Effetto duplicato = +1 uso/giorno</p>"
+    },
+    "Charge": {
+      "name": "Carica",
+      "description": "<p>3/giorno, puoi effettuare una carica durante il combattimento muovendoti di almeno distanza media prima di attaccare. Ogni volta che lo fai, i tuoi attacchi in mischia infliggono danni raddoppiati in quel round.</p>"
+    },
+    "Curative": {
+      "name": "Curativa",
+      "description": "<p>Equivale a una @UUID[Compendium.shadowdark.magic-items.Item.jucTGEjsqJ1znHdf]</p>"
+    },
+    "Demonic Possession": {
+      "name": "Possessione Demoniaca",
+      "description": "<p><span style=\"font-family: Signika, sans-serif\">3/giorno, ottieni un bonus di +1 ai tiri per i danni per 3 round.</span></p><p><span style=\"font-family: Signika, sans-serif\">Inoltre, aggiungi metà del tuo livello al bonus ai danni (arrotondato per difetto).</span></p>"
+    },
+    "Fascinate": {
+      "name": "Affascinare",
+      "description": "<p>(Concentrazione)</p> <p>Fai una prova di [[check 12 cha]].</p><p>In caso di successo, paralizzi tutti i bersagli vicini il cui livello è pari o inferiore a 1 + metà del tuo livello (arrotondato per difetto).</p><p>Se fallisci (escludendo concentrazione), non puoi usare di nuovo questa abilità fino a un riposo.</p>\n"
+    },
+    "Flourish": {
+      "name": "Fioritura",
+      "description": "<p><span>3/giorno, recuperi [[/roll 1d6]] punti ferita quando colpisci un nemico con un attacco in mischia.</span></p>"
+    },
+    "Foebane": {
+      "name": "Flagello dei Nemici",
+      "description": "<p>@UUID[Compendium.shadowdark.gear.Item.FeoRamUTz5jakMJ8]. Vantaggio agli attacchi e ai danni contro un tipo di creatura a tua scelta per [[/r 1d6]] round</p>"
+    },
+    "Hide from Creature": {
+      "name": "Nascondersi a una Creatura",
+      "description": "<p>1/giorno, scegli una creatura di LV 9 o inferiore che puoi vedere; deve superare una prova di [[check 15 wis]] o non potrà vederti né sentirti per [[/r 1d4]] round</p>"
+    },
+    "Ignore All Damage": {
+      "name": "Ignorare Tutti i Danni",
+      "description": "<p>1/giorno, ignora tutti i danni e gli effetti causati da un attacco</p> <p>Effetto duplicato = +1 uso al giorno</p>"
+    },
+    "Inspire": {
+      "name": "Ispirare",
+      "description": "<p>Ogni giorno, puoi donare un numero di segnalini fortuna pari al tuo modificatore di Carisma (min. 1).</p>"
+    },
+    "Omen": {
+      "name": "Presagio",
+      "description": "<p>3/giorno, puoi effettuare una prova di [[check 9 wis]]. In caso di successo, ottieni un segnalino fortuna (non puoi avere più di un segnalino fortuna alla volta).</p>"
+    },
+    "Paralyze a Target": {
+      "name": "Paralizzare un Bersaglio",
+      "description": "<p>1/giorno, paralizza un bersaglio di LV 9 o inferiore per [[/r 1d4]] round quando gli infliggi danni con un'arma</p>"
+    },
+    "Petrifying Gaze": {
+      "name": "Sguardo Pietrificante",
+      "description": "<p>Una creatura del tuo livello o inferiore che incrocia il tuo sguardo deve superare una prova di [[check 15 con]] o essere pietrificata per [[/r 1d4]] round. Subisce danni normalmente mentre è pietrificata.</p><p>Puoi usare questo talento un numero di volte al giorno pari al tuo modificatore di COS (minimo 1).</p>"
+    },
+    "Relentless": {
+      "name": "Implacabile",
+      "description": "<p><span>3/giorno, quando i tuoi PF scendono a 0, effettua una prova di [[check 18 con]] (il talento Implacabile si applica a questo tiro). In caso di successo, rimani a 1 PF.</span></p>"
+    },
+    "Restorative": {
+      "name": "Ristoratrice",
+      "description": "<p>@UUID[Compendium.shadowdark.gear.Item.QV93CYmgcgJ3UCPf] Termina un veleno o una malattia.</p>"
+    },
+    "Salve": {
+      "name": "Balsamo",
+      "description": "<p>@UUID[Compendium.shadowdark.gear.Item.m857P6MI00wAONTp] Cura 1 PF.</p>"
+    },
+    "Sleep a Creature": {
+      "name": "Addormentare una Creatura",
+      "description": "<p>1/giorno, scegli una creatura vivente di LV 5 o inferiore che puoi vedere a distanza media; deve superare una prova di [[check 15 con]] o si addormenterà</p>"
+    },
+    "Smoke Step": {
+      "name": "Passo di Fumo",
+      "description": "<p><span>3/giorno, teletrasportati in un luogo che puoi vedere a distanza media. Questo non consuma la tua azione.</span></p>"
+    },
+    "Stimulant": {
+      "name": "Stimolante",
+      "description": "<p>@UUID[Compendium.shadowdark.gear.Item.dBQr9YPyhvwyPm0g] Non puoi essere sorpreso per 10 round.</p>"
+    },
+    "Teleport to Familiar": {
+      "name": "Teletrasportarsi dal Familiare",
+      "description": "<p>1/giorno, teletrasportati nel luogo in cui si trova il tuo familiare usando il tuo movimento</p> <p>Effetto duplicato = +1 uso al giorno</p>"
+    },
+    "Walk on Sheer Surfaces": {
+      "name": "Camminare su Superfici Ripide",
+      "description": "<p>1/giorno, puoi camminare su superfici ripide, come i muri, per [[/r 1d4]] round</p>"
+    },
+    "Walk on Water": {
+      "name": "Camminare sull'Acqua",
+      "description": "<p>1/giorno, puoi camminare sull'acqua per [[/r 1d4]] round come se fosse una superficie solida</p>"
+    }
+  }
+}

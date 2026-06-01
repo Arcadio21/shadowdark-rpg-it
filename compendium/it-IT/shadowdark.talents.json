@@ -1,0 +1,554 @@
+{
+  "label": "Talenti",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Class": "Classe",
+    "Ancestry": "Stirpe",
+    "Patron Boon": "Doni del Patrono",
+    "Level": "Livello"
+  },
+  "entries": {
+    "+1 AC Dual Wield": {
+      "name": "+1 CA con Due Armi",
+      "description": "<p>Ottieni un bonus di +1 alla CA quando impugni un'arma da mischia in ciascuna mano.</p><p><em><strong>Nota:</strong> non dimenticare di attivare/disattivare l'effetto attivo <strong>+1 CA con Due Armi</strong> nella scheda Effetti della scheda del personaggio quando necessario.</em></p>"
+    },
+    "+1 on Spellcasting Checks": {
+      "name": "+1 alle Prove di Lancio degli Incantesimi",
+      "description": ""
+    },
+    "+1 to AC": {
+      "name": "+1 alla CA",
+      "description": "<p>Ottieni +1 alla CA grazie alla preveggenza soprannaturale.</p>"
+    },
+    "+1 to Charisma": {
+      "name": "+1 a Carisma",
+      "description": ""
+    },
+    "+1 to Constitution": {
+      "name": "+1 a Costituzione",
+      "description": ""
+    },
+    "+1 to Damage": {
+      "name": "+1 ai Danni",
+      "description": ""
+    },
+    "+1 to Dexterity": {
+      "name": "+1 a Destrezza",
+      "description": ""
+    },
+    "+1 to Intelligence": {
+      "name": "+1 a Intelligenza",
+      "description": ""
+    },
+    "+1 to Magical Dabbler Rolls": {
+      "name": "+1 alle Prove di Mago Amador",
+      "description": ""
+    },
+    "+1 to Melee and Ranged Attacks": {
+      "name": "+1 agli attacchi in mischia o a distanza",
+      "description": ""
+    },
+    "+1 to Melee Attacks": {
+      "name": "+1 agli attacchi in mischia",
+      "description": ""
+    },
+    "+1 to Melee Attacks and Damage": {
+      "name": "+1 agli attacchi in mischia e ai danni",
+      "description": ""
+    },
+    "+1 to Melee Damage": {
+      "name": "+1 ai danni in mischia",
+      "description": ""
+    },
+    "+1 to Ranged Attacks": {
+      "name": "+1 agli attacchi a distanza",
+      "description": ""
+    },
+    "+1 to Ranged Attacks and Damage": {
+      "name": "+1 agli attacchi a distanza e ai danni",
+      "description": ""
+    },
+    "+1 to Strength": {
+      "name": "+1 a Forza",
+      "description": ""
+    },
+    "+1 to Weapon Attacks and Damage": {
+      "name": "+1 agli attacchi con l'arma e ai danni",
+      "description": ""
+    },
+    "+1 to Wisdom": {
+      "name": "+1 a Saggezza",
+      "description": ""
+    },
+    "+1 use per day of Petrifying Gaze": {
+      "name": "+1 utilizzo al giorno di Sguardo Pietrificante",
+      "description": ""
+    },
+    "+1 XP for Secrets": {
+      "name": "+1 PE per i Segreti",
+      "description": "<p>+1 PE ogni volta che scopri un segreto prezioso o significativo (tira di nuovo in caso di duplicati).</p>"
+    },
+    "+2 to Charisma": {
+      "name": "+2 a Carisma",
+      "description": ""
+    },
+    "+2 to Constitution": {
+      "name": "+2 a Costituzione",
+      "description": ""
+    },
+    "+2 to Dexterity": {
+      "name": "+2 a Destrezza",
+      "description": ""
+    },
+    "+2 to Intelligence": {
+      "name": "+2 a Intelligenza",
+      "description": ""
+    },
+    "+2 to Strength": {
+      "name": "+2 a Forza",
+      "description": ""
+    },
+    "+2 to Wisdom": {
+      "name": "+2 a Saggezza",
+      "description": ""
+    },
+    "Add Wisdom to Roll": {
+      "name": "Aggiungi Saggezza alla Prova",
+      "description": "<p>3 volte al giorno, aggiungi il tuo modificatore di Saggezza a qualsiasi prova (tira di nuovo in caso di duplicati).</p>"
+    },
+    "Additional Black Lotus Talent": {
+      "name": "Talento del Loto Nero Aggiuntivo",
+      "description": "<p>Tira un talento aggiuntivo sulla tabella @UUID[Compendium.shadowdark.rollable-tables.RollTable.pQAyZAcfrs9JrG0Q].</p>"
+    },
+    "Additional HP": {
+      "name": "PF Aggiuntivi",
+      "description": "<p>Ricevi un dado aggiuntivo ai punti ferita.</p>"
+    },
+    "Additional Omen Use": {
+      "name": "Utilizzo Aggiuntivo di Presagio",
+      "description": "<p>Ricevi un utilizzo aggiuntivo del tuo talento Presagio ogni giorno.</p>"
+    },
+    "Additional Use of Charge": {
+      "name": "Utilizzo Aggiuntivo di Carica",
+      "description": "<p>Ricevi un utilizzo aggiuntivo del tuo talento Carica ogni giorno.</p>"
+    },
+    "Additional Use of Smoke Step": {
+      "name": "Utilizzo Aggiuntivo di Passo di Fumo",
+      "description": "<p>Ricevi un utilizzo aggiuntivo del tuo talento Passo di Fumo ogni giorno.</p>"
+    },
+    "Advantage on Melee Attacks": {
+      "name": "Vantaggio agli attacchi in mischia",
+      "description": "<p>Una volta al giorno, ottieni vantaggio agli attacchi in mischia per 3 round.</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Ambitious": {
+      "name": "Ambizioso",
+      "description": "<p><span class=\"fontstyle0\">Ottieni un tiro di talento aggiuntivo al 1° livello.</span></p>"
+    },
+    "Armor Mastery": {
+      "name": "Maestria nelle Armature",
+      "description": ""
+    },
+    "Avoid Entrapment/Injury": {
+      "name": "Evitare Intrappolamento/Ferite",
+      "description": "<p>Hai vantaggio alle prove di Destrezza per evitare di essere intrappolato o ferito.</p>"
+    },
+    "Backstab": {
+      "name": "Pugnalata alle Spalle",
+      "description": "<p><span class=\"fontstyle0\">Se colpisci una creatura ignara del tuo attacco, infliggi un dado danno extra per l'arma. Aggiungi ulteriori dadi danno per l'arma pari alla metà del tuo livello (arrotondato per difetto).</span></p>"
+    },
+    "Backstab +1 Damage Dice": {
+      "name": "Pugnalata alle Spalle: +1 Dado Danno",
+      "description": "<p><span class=\"fontstyle0\">Le tue pugnalate alle spalle infliggono +1 dado danno.</span></p>"
+    },
+    "Bardic Arts": {
+      "name": "Arti Bardiche",
+      "description": "<p>Sei addestrato in oratoria, arti sceniche, storia e diplomazia. Hai vantaggio a tutte le prove correlate.</p>"
+    },
+    "Basilisk Blood": {
+      "name": "Sangue di Basilisco",
+      "description": "<p>Hai vantaggio alle prove di Costituzione per evitare malattie, veleni o afflizioni dannose.</p>"
+    },
+    "Basilisk Egg": {
+      "name": "Uovo di Basilisco",
+      "description": "<p><span class=\"fontstyle0\">Trovi un @UUID[Compendium.shadowdark.gear.Item.zU6dopKBk3pKS9F9]; un piccolo basilisco a te leale nascerà tra [[/r 1d4]] giorni.</span></p>"
+    },
+    "Beginner's Luck": {
+      "name": "Fortuna del Principiante",
+      "description": "<p>I personaggi di livello 0 possono utilizzare qualsiasi equipaggiamento fino al raggiungimento del 1° livello.</p>"
+    },
+    "Black Lotus": {
+      "name": "Loto Nero",
+      "description": "<p>Hai guadagnato il diritto di mangiare un petalo del leggendario loto nero e sei sopravvissuto ai suoi effetti mistici.</p><p>Tira un talento sulla tabella @UUID[Compendium.shadowdark.rollable-tables.RollTable.pQAyZAcfrs9JrG0Q]. Puoi tirare nuovamente in caso di duplicati o mantenerli.</p>"
+    },
+    "Charge": {
+      "name": "Carica",
+      "description": "<p>3 volte al giorno, puoi effettuare una @UUID[Compendium.shadowdark.class-abilities.Item.Ecajh7eY7lBEHuMv] durante il combattimento muovendoti di almeno una distanza Corta prima di attaccare. Ogni volta che lo fai, i tuoi attacchi in mischia infliggono danni doppi in quel round.</p>"
+    },
+    "D12 Weapon Damage Die": {
+      "name": "Dado Danno dell'Arma d12",
+      "effects": {
+        "Increased Weapon Damage Die": {
+          "name": "Dado Danno dell'Arma Incrementato"
+        }
+      }
+    },
+    "Deity": {
+      "name": "Divinità",
+      "description": "<p>Scegli un dio da servire che corrisponda al tuo allineamento (vedi Divinità, pag. 28). Hai un simbolo sacro del tuo dio (non occupa slot equipaggiamento).</p>"
+    },
+    "Demonic Possession": {
+      "name": "Possessione Demoniaca",
+      "description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.dsFmHTTuERiQePky]</p><p>3 volte al giorno, ottieni un bonus di +1 ai tiri per i danni per 3 round. Inoltre, aggiungi metà del tuo livello al bonus dei danni (arrotondato per difetto).</p>"
+    },
+    "Demonic Possession Bonus": {
+      "name": "Bonus di Possessione Demoniaca",
+      "description": "<p>Il tuo bonus di Possessione Demoniaca aumenta di 1 punto.</p>"
+    },
+    "Destined": {
+      "name": "Predestinato",
+      "description": "<p>Ogni volta che spendi un gettone fortuna, aggiungi [[/roll 1d6]] al risultato del tiro.</p>"
+    },
+    "Duality": {
+      "name": "Dualità",
+      "description": "<p>Scegli ogni giorno 2 effetti diversi dai @UUID[Compendium.shadowdark.talents.Item.A8Siwy6S27LwEkx5].</p><p>Duplicato = tira di nuovo.</p>"
+    },
+    "Familiar": {
+      "name": "Famiglio",
+      "description": "<p>Hai un piccolo animale, come un corvo, un ratto o una rana che ti serve con lealtà. Può parlare il Comune.</p><p>Il tuo famiglio può essere la fonte degli incantesimi che lanci. Trattalo come se fossi tu per determinare la gittata degli incantesimi.</p><p>Se il tuo famiglio muore, puoi riportarlo in vita sacrificando permanentemente 1d4 punti ferita massimi.</p>"
+    },
+    "Farsight (Ranged)": {
+      "name": "Lungimiranza (Armi a Distanza)",
+      "description": "<p>Ottieni un bonus +1 ai tiri per colpire con armi a distanza o alle prove di lancio degli incantesimi.</p>"
+    },
+    "Farsight (Spell)": {
+      "name": "Lungimiranza (Lancio Incantesimi)",
+      "description": "<p>Ottieni un bonus +1 ai tiri per colpire con armi a distanza o alle prove di lancio degli incantesimi.</p>"
+    },
+    "Find a Random Priest or Wizard Wand": {
+      "name": "Trovi una bacchetta magica casuale da Sacerdote o Mago (a tua scelta)",
+      "description": "<p>Scegli se ottenere una bacchetta magica casuale da Sacerdote o da Mago.</p>"
+    },
+    "Flourish": {
+      "name": "Fioritura",
+      "description": "<p><span>3 volte al giorno, recuperi 1d6 punti ferita quando colpisci un nemico con un attacco in mischia.</span></p><p>@UUID[Compendium.shadowdark.class-abilities.Item.6snDwCm38HjvO1uv]</p>"
+    },
+    "Force GM Reroll": {
+      "name": "Costringi il GM a Tirare Nuovamente",
+      "description": "<p>1 volta al giorno, costringi il GM a ripetere un singolo tiro.</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Force Morale Check": {
+      "name": "Costringi a una prova di morale",
+      "description": "<p>1 volta al giorno, costringi una creatura a distanza media a effettuare una prova di Morale, anche se normalmente immune.</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Go Berserk": {
+      "name": "Entrare in Furia",
+      "description": "<p>1 volta al giorno, entri in @UUID[Compendium.shadowdark.spell-effects.Item.sfeg7jRt0oW5qXO4]: immune ai danni per 3 round.</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Grit (Dexterity)": {
+      "name": "Determinazione (Destrezza)",
+      "description": "<p><span class=\"fontstyle0\">Hai vantaggio alle prove di questo tipo per superare una forza contrapposta, come sfondare a calci una porta bloccata (Forza) o liberarti da catene arrugginite (Destrezza).</span></p>"
+    },
+    "Grit (Strength)": {
+      "name": "Determinazione (Forza)",
+      "description": "<p><span class=\"fontstyle0\">Hai vantaggio alle prove di questo tipo per superare una forza contrapposta, come sfondare a calci una porta bloccata (Forza) o liberarti da catene arrugginite (Destrezza).</span></p>"
+    },
+    "Hauler": {
+      "name": "Trasportatore",
+      "description": "<p>Se positivo, aggiungi il modificatore di Costituzione ai tuoi slot equipaggiamento.</p>"
+    },
+    "Herbalism": {
+      "name": "Erboristeria",
+      "description": "<p>Effettua una prova di INT per preparare un rimedio a base di piante di tua scelta. Se fallisci, non potrai preparare questo rimedio finché non completi un riposo con successo. I rimedi non utilizzati scadono dopo 3 round.</p><p><strong>CD | Effetto</strong></p><p>11 | @UUID[Compendium.shadowdark.class-abilities.Item.UzSmg3aLstFcNsUa]. Cura 1 PF.</p><p>12 | @UUID[Compendium.shadowdark.class-abilities.Item.EhaA5tBROfrws1Kx]. Non puoi essere colto di sorpresa per 10 round.</p><p>13 | @UUID[Compendium.shadowdark.class-abilities.Item.i8PZF77jaVDkCE6n]. Hai vantaggio ad attacchi e danni contro un tipo di creatura a tua scelta per [[/r 1d6]] round.</p><p>14 | @UUID[Compendium.shadowdark.class-abilities.Item.3fck7HFRfDywsjQk]. Rimuove un veleno o una malattia.</p><p>15 | @UUID[Compendium.shadowdark.class-abilities.Item.Ussun0GbRMiJZ8vP]. Equivalente a una @UUID[Compendium.shadowdark.magic-items.jucTGEjsqJ1znHdf].</p>"
+    },
+    "Herbalism Check Advantage": {
+      "name": "Vantaggio alle Prove di Erboristeria",
+      "description": "<p>Hai vantaggio alle prove di Erboristeria per un'erba a tua scelta.</p>"
+    },
+    "Hide from Creature": {
+      "name": "Nascondersi da una Creatura",
+      "description": "<p>Una volta al giorno, scegli una creatura di livello 9 o inferiore che puoi vedere; deve superare una prova di SAG con CD 15 o non potrà vederti o sentirti per 1d4 round.</p>"
+    },
+    "Hypnotize": {
+      "name": "Ipnotizzare",
+      "description": "<p>1 volta al giorno, ipnotizzi una creatura di LV 5 o inferiore per 3 round.</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Ignore All Damage": {
+      "name": "Ignorare Tutti i Danni",
+      "description": "<p>1 volta al giorno, ignora tutti i danni e gli effetti causati da un singolo attacco.</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Immunity to Acid": {
+      "name": "Immunità all'Acido",
+      "description": ""
+    },
+    "Immunity to Cold": {
+      "name": "Immunità al Freddo",
+      "description": ""
+    },
+    "Immunity to Poison": {
+      "name": "Immunità al Veleno",
+      "description": ""
+    },
+    "Implacable": {
+      "name": "Implacabile",
+      "description": "<p><span>Hai vantaggio alle prove di COS per resistere a ferite e veleni o sopportare ambienti estremi.</span></p>"
+    },
+    "Improved Presence DC": {
+      "name": "Presenza Migliorata (CD)",
+      "description": "<p>La CD per attivare gli effetti della tua Presenza diventa 9.</p><p>Duplicato = tira di nuovo.</p>"
+    },
+    "Increased Flourish Heal": {
+      "name": "Cura della Fioritura Incrementata",
+      "description": "<p>Aumenta i PF che recuperi con la Fioritura di [[/r 1d6]].</p>"
+    },
+    "Increased Weapon Damage Die": {
+      "name": "Dado Danno dell'Arma Incrementato",
+      "description": ""
+    },
+    "Initiative Advantage": {
+      "name": "Vantaggio all'iniziativa",
+      "description": "<p>Ottieni vantaggio ai tiri di iniziativa (tira di nuovo in caso di duplicati).</p>"
+    },
+    "Keen Senses": {
+      "name": "Sensi Acuti",
+      "description": "<p><span class=\"fontstyle0\">Non puoi essere colto di sorpresa.</span></p>"
+    },
+    "Knack (Luck)": {
+      "name": "Attitudine (Sorte)",
+      "description": "<p><span class=\"fontstyle0\">Inizi ogni sessione con un gettone fortuna.</span></p>"
+    },
+    "Knack (Spellcasting)": {
+      "name": "Attitudine (Lancio Incantesimi)",
+      "description": "<p><span class=\"fontstyle0\">Ottieni un bonus +1 alle prove di lancio degli incantesimi.</span></p>"
+    },
+    "Last stand": {
+      "name": "Ultima Resistenza",
+      "description": "<p><span>Ti risvegli dalla morte con 1 punto ferita se ottieni un 18–20 naturale su un d20.</span></p>"
+    },
+    "Learn a Wizard Spell": {
+      "name": "Apprendere un Incantesimo da Mago",
+      "description": "<p>Apprendi 1 incantesimo da mago, grado = metà del tuo livello. Lo lanci con INT.</p>"
+    },
+    "Learn Spell (Mage Armor)": {
+      "name": "Apprendere Incantesimo (Armatura Magica)",
+      "description": "<p><span class=\"fontstyle0\">Apprendi un incantesimo aggiuntivo di un grado che sei già in grado di lanciare.</span></p>"
+    },
+    "Learn Extra Spell": {
+      "name": "Apprendere un Incantesimo Extra",
+      "description": "<p><span class=\"fontstyle0\">Apprendi un incantesimo aggiuntivo di un grado che sei già in grado di lanciare.</span></p>"
+    },
+    "Learn Melee Weapon": {
+      "name": "Addestramento nelle Armi da Mischia",
+      "description": "<p>Apprendi l'uso di 1 arma da mischia aggiuntiva.</p>"
+    },
+    "Learn Seer Spell": {
+      "name": "Apprendere Incantesimo da Veggente",
+      "description": "<p><span class=\"fontstyle0\">Apprendi +1 incantesimo da veggente di qualsiasi grado tu sia in grado di lanciare.</span></p>"
+    },
+    "Learn to Wield a Longbow": {
+      "name": "Addestramento nell'Arco Lungo",
+      "description": ""
+    },
+    "Learn Witch Spell": {
+      "name": "Apprendere un Incantesimo da Strega",
+      "description": "<p>Apprendi +1 incantesimo da strega di qualsiasi grado tu sia in grado di lanciare.</p>"
+    },
+    "Learn Wizard Spell": {
+      "name": "Apprendere un Incantesimo da Mago",
+      "description": "<p><span class=\"fontstyle0\">Apprendi +1 incantesimo da mago di qualsiasi grado tu sia in grado di lanciare.</span></p>"
+    },
+    "Learning Spells": {
+      "name": "Apprendere Incantesimi",
+      "description": "<p><span class=\"fontstyle0\"><strong>Apprendere Incantesimi.</strong></span><span class=\"fontstyle2\"> Puoi apprendere in modo permanente un incantesimo da mago da una pergamena magica, studiandola per un giorno e superando una prova di Intelligenza con CD 15.</span></p><p><span class=\"fontstyle2\"> Che tu riesca o fallisca, consumi la pergamena.</span></p><p><span class=\"fontstyle2\"> Gli incantesimi imparati in questo modo non contano nel totale dei tuoi incantesimi conosciuti.</span></p>"
+    },
+    "Magic Missile Advantage": {
+      "name": "Vantaggio con Dardo Incantato",
+      "description": "<p>I maghi hanno sempre vantaggio quando lanciano Dardo Incantato.</p>"
+    },
+    "Magic Resistance": {
+      "name": "Resistenza Magica",
+      "description": "<p>Gli incantesimi ostili lanciati contro di te sono sempre difficili da eseguire (CD aumentata).</p><p>Duplicato = tira di nuovo.</p>"
+    },
+    "Magical Dabbler": {
+      "name": "Mago Amatoriale",
+      "description": "<p>Puoi attivare pergamene e bacchette magiche usando il Carisma come caratteristica di lancio. In caso di fallimento critico, tira sulla tabella degli Incidenti.</p>"
+    },
+    "Make a Random Magic Item": {
+      "name": "Creare un Oggetto Magico Casuale",
+      "description": "<p>Crei un oggetto magico casuale. Vedi il compendio degli <em>Oggetti Magici</em>.</p>"
+    },
+    "Max 2 HP Rolls": {
+      "name": "Massimizzare 2 Tiri di PF",
+      "description": "<p>Massimizza 2 tiri di dado dei punti ferita (passati o futuri).</p>"
+    },
+    "Mighty": {
+      "name": "Possente",
+      "description": "<p>Hai un bonus +1 ai tiri per colpire e ai danni con le armi da mischia.</p>"
+    },
+    "Morale Checks at DC 18": {
+      "name": "Prove di Morale con CD 18",
+      "description": "<p>Quando i nemici effettuano una prova di morale vedendoti, la CD diventa 18 invece di 15.</p>"
+    },
+    "Mount": {
+      "name": "Montatura",
+      "description": "<p>Possiedi un cavallo o un cammello comune, dal temperamento Affidabile o Docile (vedi pag. 29). Viene da te quando viene chiamato e non si spaventa mai. Puoi avere una sola montatura di questo tipo alla volta.</p><p>Mentre sei in sella, entrambi ottenete un bonus alla CA pari alla metà del tuo livello (arrotondato per difetto). La tua montatura ottiene dadi vita aggiuntivi pari alla metà del tuo livello (arrotondato per difetto). Puoi salire o scendere liberamente dalla sella una volta per round.</p><p>Se perdi la tua montatura, puoi usare il tempo di pausa per cercarne e addestrarne un'altra. Superare una prova di CAR con CD 15 garantisce che la nuova creatura diventi la tua montatura. Ad ogni tentativo successivo, la CD si abbassa di un grado.</p>"
+    },
+    "Old Gods": {
+      "name": "Antichi Dèi",
+      "description": "<p>Ogni giorno, il tuo scopo si allinea con uno degli Antichi Dèi (pag. 17). Scegli una delle seguenti opzioni dopo aver completato un riposo. Ottieni i rispettivi benefici fino al riposo successivo:</p><ul><li><p><strong>Odino.</strong> Recuperi 1d4 PF ogni volta che uccidi un nemico.</p></li><li><p><strong>Freya.</strong> Una volta al giorno, ottieni un gettone fortuna se non ne possiedi già uno. Ogni volta che usi un gettone fortuna, aggiungi 1d6 al tiro.</p></li><li><p><strong>Loki.</strong> Hai vantaggio alle prove per mentire, muoverti furtivamente e nasconderti.</p></li></ul>"
+    },
+    "Omen": {
+      "name": "Presagio",
+      "description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.pRO1kFMnFkkcYOgC]</p><p>3 volte al giorno, puoi effettuare una prova di SAG con CD 9. In caso di successo, guadagni un gettone fortuna (non puoi avere più di un gettone fortuna alla volta).</p>"
+    },
+    "Paralyze a Target": {
+      "name": "Paralizzare un Bersaglio",
+      "description": "<p>1 volta al giorno, paralizzi un bersaglio di LV 9 o inferiore per 1d4 round quando gli infliggi danni con un'arma.</p>"
+    },
+    "Patron": {
+      "name": "Patrono",
+      "description": "<p>Scegli un patrono da servire (vedi pag. 17). Il tuo patrono è la fonte dei tuoi doni soprannaturali. Il tuo patrono può decidere di concedere o revocare i suoi doni in qualsiasi momento. Di conseguenza, puoi guadagnare (o perdere) nuovi Doni del Patrono o talenti.</p>"
+    },
+    "Patron Boon": {
+      "name": "Dono del Patrono",
+      "description": "<p>Al 1° livello, ottieni un talento Dono del Patrono casuale (vedi pag. 18) in base al patrono scelto.</p><p>Ogni volta che ottieni un nuovo tiro di talento, puoi scegliere di tirare sulla tabella dei Doni del Patrono invece che sulla tabella dei talenti da Warlock.</p>"
+    },
+    "Petrifying Gaze": {
+      "name": "Sguardo Pietrificante",
+      "description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.Jkl9j4RZ2WYy0Gmd]</p><p>Una creatura del tuo livello o inferiore che incrocia il tuo sguardo deve superare una prova di COS con CD 15 o rimarrà pietrificata per 1d4 round. Subisce comunque danni normalmente mentre è pietrificata.</p><p>Puoi usare questo talento un numero di volte al giorno pari al tuo modificatore di Costituzione (minimo 1).</p>"
+    },
+    "Poisons Training": {
+      "name": "Addestramento nei Veleni",
+      "description": "<p>Sei addestrato nell'uso dei veleni (vedi pag. 27).</p><p>Duplicato = tira di nuovo.</p>"
+    },
+    "Presence": {
+      "name": "Presenza",
+      "description": "<p>Effettua una prova di CAR con CD 12 per ottenere uno dei seguenti effetti. In caso di fallimento, non potrai riutilizzare questo effetto finché non completi un riposo.</p><ul><li><p>@UUID[Compendium.shadowdark.class-abilities.Item.jg2sUC3nIAI8sT18] CD 12. Un bersaglio entro distanza Corta ottiene un gettone fortuna.</p></li><li><p>@UUID[Compendium.shadowdark.class-abilities.Item.oCNpE6bnZjPIdOO1] (Concentrazione). Ammali tutti i bersagli prescelti di livello 4 o inferiore entro distanza Corta.</p></li></ul>"
+    },
+    "Prolific": {
+      "name": "Prolifico",
+      "description": "<p>Aggiungi 1d6 alle tue prove per apprendere. Gruppi con più di un bardo aggiungono 1d6 ai propri dati di controllo.</p>"
+    },
+    "Read Mind of Creature": {
+      "name": "Leggere la Mente di una Creatura",
+      "description": "<p>1/giorno, leggi la mente di una creatura che tocchi per 3 round.</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Relentless": {
+      "name": "Incansabile",
+      "description": "<p><span>3 volte al giorno, quando i tuoi PF scendono a 0, effettua una prova di COS con CD 18 (il talento Implacabile si applica a questo tiro). Con un successo, rimani a 1 PF.</span></p><p>@UUID[Compendium.shadowdark.class-abilities.Item.z5uKTDf4wtkipQ4s]</p>"
+    },
+    "Ride any Creature": {
+      "name": "Cavalcare Qualsiasi Creatura",
+      "description": "<p>Puoi usare qualsiasi creatura in grado di sostenere un cavaliere come montatura.</p>"
+    },
+    "Seafarer": {
+      "name": "Marinaio",
+      "description": "<p>Hai vantaggio alle prove correlate alla navigazione e alla gestione degli equipaggiamenti di bordo delle imbarcazioni.</p>"
+    },
+    "Shield Wall": {
+      "name": "Muro di Scudi",
+      "description": "<p>Se stai impugnando uno scudo, puoi usare la tua azione per assumere una postura difensiva. La tua CA diventa 20 per la durata.</p>"
+    },
+    "Sleep a Creature": {
+      "name": "Addormentare una Creatura",
+      "description": "<p>1 volta al giorno, scegli una creatura vivente di livello 5 o inferiore che puoi vedere entro la gittata; deve superare una prova di COS con CD 15 o si addormenterà.</p>"
+    },
+    "Slime Form": {
+      "name": "Forma di Melma",
+      "description": "<p>Ti trasformi in una pozza di melma in grado di scalare le pareti per 1d4 round (non consuma un'azione).</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Smoke Step": {
+      "name": "Passo di Fumo",
+      "description": "<p>3 volte al giorno, ti teletrasporti in un luogo visibile entro la gittata. Questo effetto non consuma la tua azione.</p>"
+    },
+    "Spellcasting (Knight of St. Ydris)": {
+      "name": "Lanciare Incantesimi (Cavaliere di Sant'Ydris)",
+      "description": "<p>Puoi lanciare gli incantesimi da strega che conosci.</p><p>Ogni volta che sali di livello, scegli nuovi incantesimi da strega da apprendere, in base alla tabella degli Incantesimi da Strega Conosciuti.</p>"
+    },
+    "Spellcasting (Priest)": {
+      "name": "Lanciare Incantesimi (Sacerdote)",
+      "description": "<p><span class=\"fontstyle0\"><strong>Lanciare Incantesimi.</strong></span><span class=\"fontstyle2\"> Puoi lanciare gli incantesimi da sacerdote che conosci.</span></p><p><span class=\"fontstyle2\"> Conosci due incantesimi di grado 1 a tua scelta dalla lista degli incantesimi da sacerdote di pag. 51.</span></p><p><span class=\"fontstyle2\"> Ogni quando sali di livello, scegli nuovi incantesimi da sacerdote da imparare, in base alla tabella degli Incantesimi da Sacerdote Conosciuti.</span></p><p><span class=\"fontstyle2\"> Per lanciarli, vedi Lanciare Incantesimi a pag. 44.</span></p>"
+    },
+    "Spellcasting (Seer)": {
+      "name": "Lanciare Incantesimi (Veggente)",
+      "description": "<p>Puoi lanciare gli incantesimi da veggente che conosci. Conosci un incantesimo di grado 1 a tua scelta dalla lista degli incantesimi da veggente (vedi pag. 30).</p><p>Ogni volta che sali di livello, scegli un nuovo incantesimo da veggente da imparare, in base alla tabella degli Incantesimi da Veggente Conosciuti.</p><p>Usi la tua Saggezza per lanciare gli incantesimi da veggente. La CD è 10 + il grado dell'incantesimo.</p><p>Se fallisci la prova di lancio, non potrai lanciare lo stesso incantesimo finché non completi un riposo. Se ottieni un 1 naturale in una prova di lancio, non potrai più lanciare quell'incantesimo finché non esegui una Penitenza del Veggente.</p><p><strong>Penitenza del Veggente</strong></p><p>Incantesimo di Grado 1: Sacrifichi temporaneamente 1d4 PF (rimani con un minimo di 1 PF); ritornano dopo una settimana.</p><p>Incantesimo di Grado 2: Riduci temporaneamente la tua SAG di 2 punti; ritornano dopo due settimane.</p><p>Incantesimo di Grado 3: Sacrifichi permanentemente 1 punto di CAR; non tornerà mai più.</p><p>Incantesimo di Grado 4: Affondi ritualmente un drakkar in fiamme nel mare.</p><p>Incantesimo di Grado 5: Sacrifichi ritualmente 9 vite umanoidi.</p>"
+    },
+    "Spellcasting (Witch)": {
+      "name": "Lanciare Incantesimi (Strega)",
+      "description": "<p>Puoi lanciare gli incantesimi da strega che conosci.</p><p>Conosci tre incantesimi di grado 1 a tua scelta dalla lista degli incantesimi da strega (vedi pag. 24). Ogni volta che sali di livello, scegli nuovi incantesimi da strega da apprendere, in base alla tabella degli Incantesimi da Strega Conosciuti. Usi il tuo Carisma per lanciare gli incantesimi da strega. La CD è 10 + il grado dell'incantesimo.</p><p>Se fallisci la prova di lancio, non potrai lanciare lo stesso incantesimo finché non completi un riposo.</p><p>Se ottieni un 1 naturale in una prova di lancio, devi tirare sulla tabella degli Incidenti Diabolici (vedi pag. 22) corrispondente al grado dell'incantesimo.</p>"
+    },
+    "Spellcasting (Wizard)": {
+      "name": "Lanciare Incantesimi (Mago)",
+      "description": "<p><span class=\"fontstyle0\"><strong>Lanciare Incantesimi.</strong></span><span class=\"fontstyle2\">Puoi lanciare gli incantesimi da mago che conosci.</span></p><p><span class=\"fontstyle2\"> Conosci tre incantesimi di grado 1 a tua scelta dalla lista degli incantesimi da mago di pag. 52.</span></p><p><span class=\"fontstyle2\"> Ogni quando sali di livello, scegli nuovi incantesimi da mago da imparare, in base alla tabella degli Incantesimi da Mago Conosciuti.</span></p><p><span class=\"fontstyle2\"> Per lanciarli, vedi Lanciare Incantesimi a pag. 44.</span></p>"
+    },
+    "Spellcasting Advantage": {
+      "name": "Vantaggio nel Lancio degli Incantesimi",
+      "description": "<p>Ottieni vantaggio nel lanciare un incantesimo che conosci.</p>"
+    },
+    "Stealthy": {
+      "name": "Furtivo",
+      "description": "<p><span class=\"fontstyle0\">Una volta al giorno, puoi diventare invisibile per 3 round.</span></p>"
+    },
+    "Stone Skin": {
+      "name": "Pelle di Pietra",
+      "description": "<p>Aggiungi 2 + metà del tuo livello (arrotondato per difetto) alla tua CA.</p><p>Hai vantaggio alle prove per nasconderti negli ambienti naturali.</p>"
+    },
+    "Stout": {
+      "name": "Robusto",
+      "description": "<p>Inizi con +2 PF. Tiri i punti ferita per livello con vantaggio.</p>"
+    },
+    "Teleport": {
+      "name": "Teletrasporto",
+      "description": "<p>Una volta al giorno, ti teletrasporti in un luogo distante che puoi vedere usando il tuo movimento.</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Teleport to Familiar": {
+      "name": "Teletrasporto dal Famiglio",
+      "description": "<p>Una volta al giorno, ti teletrasporti nella posizione del tuo famiglio usando il tuo movimento.</p><p>Duplicato = +1 utilizzo al giorno.</p>"
+    },
+    "Thievery": {
+      "name": "Ruberia",
+      "description": "<p><span class=\"fontstyle0\">Hai esperienza nelle abilità da ladro e gli attrezzi del mestiere celati addosso (non occupano slot equipaggiamento).</span></p><p><span class=\"fontstyle0\"> Sei addestrato nelle seguenti attività e hai vantaggio su qualsiasi prova relativa:</span></p><ul><li><p><span class=\"fontstyle0\">Arrampicarsi</span></p></li><li><p><span class=\"fontstyle0\">Sgattaiolare e nascondersi</span></p></li><li><p><span class=\"fontstyle0\">Usare travestimenti</span></p></li><li><p><span class=\"fontstyle0\">Trovare e disarmare trappole</span></p></li><li><p><span class=\"fontstyle0\">Operazioni delicate come borseggiare e aprire serrature</span></p></li></ul>"
+    },
+    "Trained Assassin": {
+      "name": "Assassino",
+      "description": "<p>Hai vantaggio alle prove per sgattaiolare e nasconderti. I tuoi attacchi infliggono danni doppi ai bersagli ignari della tua presenza.</p>"
+    },
+    "Triple Damage Assassin": {
+      "name": "Danno Triplo da Assassino",
+      "description": "<p>Infliggi danni tripli con il tuo talento Assassino.</p>"
+    },
+    "Turn Undead": {
+      "name": "Scacciare Non Morti",
+      "description": "<p><span class=\"fontstyle0\">Conosci l'incantesimo scacciare non morti. Non conta nel totale dei tuoi incantesimi conosciuti.</span></p>"
+    },
+    "Upgrade Destined Die": {
+      "name": "Dado Predestinato Incrementato",
+      "description": "<p>Aumenta la categoria del dado del tuo talento Predestinato di un grado.</p>"
+    },
+    "Walk on Sheer Surfaces": {
+      "name": "Camminare su Superfici Verticali",
+      "description": "<p>1 volta al giorno, puoi camminare su superfici verticali, come i muri, per 1d4 round.</p>"
+    },
+    "Walk on Water": {
+      "name": "Camminare sull'Acqua",
+      "description": "<p>1 volta al giorno, puoi camminare sull'acqua per 1d4 round come se fosse una superficie solida.</p>"
+    },
+    "Wayfinder": {
+      "name": "Esploratore",
+      "description": "<p>Hai vantaggio alle prove associate a:</p><ul><li><p>Navigazione</p></li><li><p>Seguire tracce</p></li><li><p>Sopravvivenza</p></li><li><p>Furtività</p></li><li><p>Animali selvatici</p></li></ul>"
+    },
+    "Weapon Mastery": {
+      "name": "Maestro d'Armi",
+      "description": "<p>Scegli un tipo di arma, come le spade lunghe. Ottieni +1 ai tiri per colpire e ai danni con quel tipo di arma. Inoltre, aggiungi metà del tuo livello a questi tiri (arrotondato per difetto).</p>"
+    },
+    "Weapon Mastery (Bastard Sword)": {
+      "name": "Maestro d'Armi (Spada bastarda)",
+      "description": "<p>Scegli un tipo di arma, come le spade bastarde. Ottieni +1 ai tiri per colpire e ai danni con quel tipo di arma. Inoltre, aggiungi metà del tuo livello a questi tiri (arrotondato per difetto).</p>"
+    },
+    "Weapon Mastery (Greataxe)": {
+      "name": "Maestro d'Armi (Ascia bipenne)",
+      "description": "<p>Scegli un tipo di arma, come le asce bipenni. Ottieni +1 ai tiri per colpire e ai danni con quel tipo di arma. Inoltre, aggiungi metà del tuo livello a questi tiri (arrotondato per difetto).</p>"
+    }
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "label": "Equipaggiamento",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Basic Gear": "Equipaggiamento Base",
+    "Weapons": "Armi",
+    "Starting Gear": "Equipaggiamento Iniziale",
+    "Herbal Remedies": "Rimedi Erboristici",
+    "Armor": "Armature"
+  },
+  "entries": {
+    "Arrows": {
+      "name": "Frecce (20)",
+      "description": "<p>Munizioni per archi corti e archi lunghi.</p>"
+    },
+    "Backpack": {
+      "name": "Zaino",
+      "description": "<p>Contiene tutto l'equipaggiamento che puoi trasportare. Non perderlo.</p>"
+    },
+    "Basilisk Egg": {
+      "name": "Uovo di Basilisco",
+      "description": "<p>Un cucciolo leale si schiuderà in [[/r 1d4]] giorni.</p>"
+    },
+    "Bastard Sword": {
+      "name": "Spada Bastarda",
+      "description": ""
+    },
+    "Blowgun": {
+      "name": "Cerbottana",
+      "description": ""
+    },
+    "Bolas": {
+      "name": "Bolas",
+      "description": ""
+    },
+    "Boomerang": {
+      "name": "Boomerang",
+      "description": ""
+    },
+    "Bottle": {
+      "name": "Fiaschetta o bottiglia",
+      "description": "<p>Contenitori di vetro che contengono una quantità specifica di liquido.</p>"
+    },
+    "Caltrops": {
+      "name": "Triboli",
+      "description": "<p>Piccoli spuntoni di ferro a forma di tetraedro. Le creature viventi che calpestano i triboli subiscono 1 danno e possono muoversi solo a metà della loro velocità per i successivi 10 round.</p>"
+    },
+    "Chainmail": {
+      "name": "Cotta di Maglia",
+      "description": "Svantaggio in furtività e a nuotare"
+    },
+    "Club": {
+      "name": "Randello",
+      "description": ""
+    },
+    "Club (Obsidian)": {
+      "name": "Randello (Ossidiana)",
+      "description": ""
+    },
+    "Crawling Kit": {
+      "name": "Kit da esploratore",
+      "description": "<p>Un kit da esploratore costa 7 mo. Occupa 7 slot equipaggiamento e contiene i seguenti oggetti.</p><ul><li><p>@UUID[Compendium.shadowdark.gear.oSnfz4qcWlUL6cDZ]</p></li><li><p>@UUID[Compendium.shadowdark.gear.ERprfuTIFRFEix9G]</p></li><li><p>@UUID[Compendium.shadowdark.gear.z3xc7HGysC4ZCU8e]</p></li><li><p>@UUID[Compendium.shadowdark.gear.z3xc7HGysC4ZCU8e]</p></li><li><p>@UUID[Compendium.shadowdark.gear.EPndk3DPOEOSvbga]</p></li><li><p>@UUID[Compendium.shadowdark.gear.GX6OmWQiE7MzTmjX]</p></li><li><p>@UUID[Compendium.shadowdark.gear.fqsLWV46NWH0L53l]</p></li><li><p>@UUID[Compendium.shadowdark.gear.6ZRwVHFlh5QiyZWC]</p></li></ul>"
+    },
+    "Crossbow": {
+      "name": "Balestra",
+      "description": ""
+    },
+    "Crossbow Bolts": {
+      "name": "Dardi da Balestra (20)",
+      "description": "<p>Munizioni per balestre.</p>"
+    },
+    "Crowbar": {
+      "name": "Piede di Porco",
+      "description": "<p>Fornisce Vantaggio alle prove per aprire oggetti incastrati facendo leva.</p>"
+    },
+    "Curative": {
+      "name": "Curativa",
+      "description": "<p><strong>Beneficio</strong>: Chi consuma quest'erba recupera un numero di punti ferita a seconda del proprio livello.</p><p><strong>LV 1-3</strong>: [[/r 1d6]] punti ferita.</p><p><strong>LV 4-6</strong>: [[/r 2d8]] punti ferita.</p><p><strong>LV 7-9</strong>: [[/r 3d10]] punti ferita.</p><p><strong>LV 10+</strong>: [[/r 4d12]] punti ferita.</p>"
+    },
+    "Dagger": {
+      "name": "Pugnale",
+      "description": ""
+    },
+    "Dagger (Obsidian)": {
+      "name": "Pugnale (Ossidiana)",
+      "description": ""
+    },
+    "Flask": {
+      "name": "Fiaschetta o bottiglia",
+      "description": "<p>Contenitori di vetro che contengono una quantità specifica di liquido.</p>"
+    },
+    "Flint and Steel": {
+      "name": "Acciarino",
+      "description": "<p>Un piccolo accendifuoco. Con esso, i tentativi di routine per accendere un fuoco hanno sempre successo.</p>"
+    },
+    "Foebane": {
+      "name": "Flagello dei Nemici",
+      "description": "<p>Vantaggio ai tiri di attacco e per i danni contro un tipo di creatura a scelta per [[/r 1d6]] round.</p>"
+    },
+    "Grappling Hook": {
+      "name": "Rampino",
+      "description": "<p>Un ancoraggio per corda con tre rebbi affilati e ricurvi.</p>"
+    },
+    "Greataxe": {
+      "name": "Ascia Bipenne",
+      "description": ""
+    },
+    "Greatsword": {
+      "name": "Spadone",
+      "description": ""
+    },
+    "Handaxe": {
+      "name": "Accetta",
+      "description": "<p><strong>Accurata (A)</strong>: Puoi usare FOR o DES quando attacchi con quest'arma.</p><p><strong>Lancio (L)</strong>: Puoi lanciare quest'arma per effettuare un attacco a distanza, usando FOR o DES.</p>"
+    },
+    "Holy Symbol": {
+      "name": "Simbolo Sacro",
+      "description": ""
+    },
+    "Iron Spikes": {
+      "name": "Punte di ferro (10)",
+      "description": "<p>Robuste punte di ferro. Ognuna ha un foro per infilare una corda. Si possono piantare a martellate con armi o altre punte di ferro.</p>"
+    },
+    "Javelin": {
+      "name": "Giavellotto",
+      "description": ""
+    },
+    "Lantern": {
+      "name": "Lanterna",
+      "description": "<p>Illumina fino a distanza media ×2 (vedi Fonti di Luce, pag. 86). Richiede olio. Ha uno sportello per schermare la luce.</p>"
+    },
+    "Leather Armor": {
+      "name": "Armatura di Cuoio",
+      "description": ""
+    },
+    "Light Spell": {
+      "name": "Incantesimo Luce",
+      "description": "<p>Oggetto fittizio che simula una fonte di luce creata dall'incantesimo @UUID[Compendium.shadowdark.spells.N4v17mtxJlVBbgpn].</p>"
+    },
+    "Light Spell (Double Range)": {
+      "name": "Incantesimo Luce (Gittata Doppia)",
+      "description": "<p>Oggetto fittizio che simula una fonte di luce a gittata doppia creata dall'incantesimo @UUID[Compendium.shadowdark.spells.N4v17mtxJlVBbgpn].</p>"
+    },
+    "Light Spell (Double Time)": {
+      "name": "Incantesimo Luce (Durata Doppia)",
+      "description": "<p>Oggetto fittizio che simula una fonte di luce con durata raddoppiata creata dall'incantesimo @UUID[Compendium.shadowdark.spells.N4v17mtxJlVBbgpn].</p>"
+    },
+    "Longbow": {
+      "name": "Arco Lungo",
+      "description": ""
+    },
+    "Longsword": {
+      "name": "Spada Lunga",
+      "description": ""
+    },
+    "Mace": {
+      "name": "Mazza",
+      "description": ""
+    },
+    "Mirror": {
+      "name": "Specchio",
+      "description": "<p>Un piccolo specchio lucidato.</p>"
+    },
+    "Mithral Chainmail": {
+      "name": "Cotta di Maglia in Mithral",
+      "description": "Nessuna penalità in furtività e a nuotare."
+    },
+    "Mithral Plate Mail": {
+      "name": "Corazza a piastre in mithral",
+      "description": "Nessuna penalità in furtività e a nuotare."
+    },
+    "Morningstar": {
+      "name": "Mazza Chiodata",
+      "description": ""
+    },
+    "Oil, flask": {
+      "name": "Fiaschetta d'olio",
+      "description": "<p>Alimenta una lanterna per un'ora di tempo reale. Una fiaschetta copre un'area corta e brucia per 4 round, infliggendo 1d4 danni a round.</p>"
+    },
+    "Pike": {
+      "name": "Picca",
+      "description": "<p><strong>Gittata:</strong> A 2 Mani</p><p>Occupa 2 spazi.</p>"
+    },
+    "Plate Mail": {
+      "name": "Corazza a piastre",
+      "description": "Svantaggio in furtività, impossibile nuotare"
+    },
+    "Pole": {
+      "name": "Pertica",
+      "description": "<p>Di legno, 3 metri di lunghezza.</p>"
+    },
+    "Rations": {
+      "name": "Razioni (3)",
+      "description": "<p>Cibo e acqua sufficienti per una persona per un giorno.</p>"
+    },
+    "Razor Chain": {
+      "name": "Catena Tagliente",
+      "description": ""
+    },
+    "Restorative": {
+      "name": "Ristoratrice",
+      "description": "<p>Cura un veleno o una malattia.</p>"
+    },
+    "Rope, 60'": {
+      "name": "Corda (18 m)",
+      "description": "<p>Di canapa, 18 metri di lunghezza.</p>"
+    },
+    "Round Shield": {
+      "name": "Scudo Rotondo",
+      "description": "Occupa una mano, si può frantumare"
+    },
+    "Salve": {
+      "name": "Balsamo",
+      "description": "<p>Cura 1 PF.</p>"
+    },
+    "Scimitar": {
+      "name": "Scimitarra",
+      "description": ""
+    },
+    "Shield": {
+      "name": "Scudo",
+      "description": "Occupa una mano."
+    },
+    "Shortbow": {
+      "name": "Arco Corto",
+      "description": ""
+    },
+    "Shortsword": {
+      "name": "Spada Corta",
+      "description": ""
+    },
+    "Shuriken": {
+      "name": "Shuriken",
+      "description": ""
+    },
+    "Sling": {
+      "name": "Fionda",
+      "description": ""
+    },
+    "Spear": {
+      "name": "Lancia",
+      "description": ""
+    },
+    "Spear (Obsidian)": {
+      "name": "Lancia (Ossidiana)",
+      "description": ""
+    },
+    "Spear-thrower": {
+      "name": "Propulsore",
+      "description": "<p>Quando usato per lanciare una lancia, ne aumenta la gittata a lunga.</p>"
+    },
+    "Staff": {
+      "name": "Bastone",
+      "description": ""
+    },
+    "Stave": {
+      "name": "Bastone Corto",
+      "description": ""
+    },
+    "Stimulant": {
+      "name": "Stimolante",
+      "description": "<p>Non puoi essere sorpreso per 10 round.</p><p>@UUID[Compendium.shadowdark.conditions.MUNwczWej0Bo8x4S]</p>"
+    },
+    "Thieves' Tools": {
+      "name": "Arnesi da Scasso",
+      "description": "<p>Vantaggio alle prove per arrampicarsi, muoversi furtivamente e nascondersi, usare travestimenti, trovare e disarmare trappole, svolgere compiti delicati come rubare borse e aprire serrature.</p>"
+    },
+    "Torch": {
+      "name": "Torcia",
+      "description": "<p>Illumina fino a distanza media (vedi Fonti di Luce, pag. 86). Brucia per un'ora di tempo reale.</p>"
+    },
+    "Warhammer": {
+      "name": "Martello da Guerra",
+      "description": ""
+    },
+    "Whip": {
+      "name": "Frusta",
+      "description": "<p><strong>Tipo:</strong> Mischia o A Distanza.</p><p><strong>Gittata:</strong> Mischia o media</p><p><strong>Accurata (A)</strong>: Puoi usare FOR o DES quando attacchi con quest'arma.</p><p><strong>A Frusta (Fr)</strong>: Quando effettui un attacco a distanza con quest'arma, non ti sfugge di mano.</p>"
+    }
+  }
+}

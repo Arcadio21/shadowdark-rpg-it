@@ -1,0 +1,253 @@
+{
+  "label": "Background",
+  "mapping": {
+    "description": "system.description"
+  },
+  "folders": {
+    "Core": "Regole Base",
+    "Diabolical": "Diavolerie!",
+    "Nord": "Nordico"
+  },
+  "entries": {
+    "Acolyte": {
+      "name": "Accolito",
+      "description": "<p>Sei formato in riti e dottrine religiose</p>"
+    },
+    "Amnesiac": {
+      "name": "Amnesico",
+      "description": "<p>Il tuo passato è sfocato, ma ti tornano in mente alcuni ricordi</p>"
+    },
+    "Ascetic": {
+      "name": "Asceta",
+      "description": "<p>Le persone ti temono ma cercano i tuoi consigli</p>"
+    },
+    "Banished": {
+      "name": "Bandito",
+      "description": "<p>La tua gente ti ha esiliato per crimini che avresti commesso</p>"
+    },
+    "Barbarian": {
+      "name": "Barbaro",
+      "description": "<p>Hai lasciato l'orda, ma lei non lo ha fatto</p>"
+    },
+    "Blacksmith": {
+      "name": "Fabbro",
+      "description": "<p>Armi, armature, ferri di cavallo: sai forgiare di tutto</p>"
+    },
+    "Bowyer": {
+      "name": "Fabbricante di Archi",
+      "description": "<p>Sai costruire e riparare archi o frecce</p>"
+    },
+    "Chirurgeon": {
+      "name": "Cerusico",
+      "description": "<p>Conosci anatomia, chirurgia e primo soccorso</p>"
+    },
+    "Chosen": {
+      "name": "Prescelto",
+      "description": "<p>Un'entità soprannaturale ti ha scelto per uno scopo</p>"
+    },
+    "Crafter": {
+      "name": "Artigiano",
+      "description": "<p>Sai costruire e riparare qualsiasi oggetto utile</p>"
+    },
+    "Criminal": {
+      "name": "Criminale",
+      "description": "<p>Sei stato esiliato dal tuo villaggio a causa di un crimine</p>"
+    },
+    "Crop Farmer": {
+      "name": "Agricoltore",
+      "description": "<p>Lavori la terra e conosci tutte le piante</p>"
+    },
+    "Cult Initiate": {
+      "name": "Iniziato del Culto",
+      "description": "<p>Conosci segreti e rituali blasfemi</p>"
+    },
+    "Demonborn": {
+      "name": "Stirpe Demoniaca",
+      "description": "<p>Uno dei tuoi antenati è un potente demone</p>"
+    },
+    "Displaced": {
+      "name": "Sfollato",
+      "description": "<p>Sei fuggito dopo che uno jarl rivale ha attaccato il tuo villaggio</p>"
+    },
+    "Drawn": {
+      "name": "Attratto",
+      "description": "<p>Senti un sussurro che ti chiama e lo segui</p>"
+    },
+    "Drifter": {
+      "name": "Vagabondo",
+      "description": "<p>Non hai ancora trovato uno jarl degno della tua lealtà</p>"
+    },
+    "Enforcer": {
+      "name": "Scagnozzo",
+      "description": "<p>Scagnozzo</p>"
+    },
+    "Fallen": {
+      "name": "Caduto",
+      "description": "<p>Sei caduto in disgrazia. La accetterai o ti redimerai?</p>"
+    },
+    "Far Traveler": {
+      "name": "Viaggiatore Lontano",
+      "description": "<p>Conosci molti popoli e usanze lontane</p>"
+    },
+    "Feytouched": {
+      "name": "Toccato dalle Fate",
+      "description": "<p>Una fata è diventata tua amica durante l'infanzia</p>"
+    },
+    "Fisher": {
+      "name": "Pescatore",
+      "description": "<p>Conosci tutte le creature e le leggende marine</p>"
+    },
+    "Forager": {
+      "name": "Raccoglitore",
+      "description": "<p>Sai distinguere ciò che è commestibile da ciò che è mortale</p>"
+    },
+    "Freed": {
+      "name": "Liberato",
+      "description": "<p>Eri uno schiavo, ma sei scappato o hai ottenuto la libertà</p>"
+    },
+    "Fugitive": {
+      "name": "Fuggitivo",
+      "description": "<p>Un salvatore anonimo ti ha aiutato a sparire</p>"
+    },
+    "God's Blood": {
+      "name": "Sangue Divino",
+      "description": "<p>Discendi da un dio e ne porti il marchio</p>"
+    },
+    "Haunted": {
+      "name": "Tormentato",
+      "description": "<p>Uno spirito inquieto vuole qualcosa da te</p>"
+    },
+    "Healer": {
+      "name": "Guaritore",
+      "description": "<p>Comprendi come si intrecciano la vita e la morte</p>"
+    },
+    "Herbalist": {
+      "name": "Erborista",
+      "description": "<p>Conosci piante, medicine e veleni</p>"
+    },
+    "Hermit": {
+      "name": "Eremita",
+      "description": "<p>Le terre selvagge (e le loro creature) sono la tua famiglia</p>"
+    },
+    "Heroborn": {
+      "name": "Stirpe Eroica",
+      "description": "<p>Sei discendente di un guerriero famoso</p>"
+    },
+    "Hunter": {
+      "name": "Cacciatore",
+      "description": "<p>Sai muoverti silenziosamente nelle terre selvagge</p>"
+    },
+    "Jeweler": {
+      "name": "Gioielliere",
+      "description": "<p>Capisci subito il valore e l'autenticità</p>"
+    },
+    "Livestock Farmer": {
+      "name": "Allevatore",
+      "description": "<p>Hai una buona intuizione con tutti gli animali</p>"
+    },
+    "Marked": {
+      "name": "Marchiato",
+      "description": "<p>Porti un marchio soprannaturale. Maledizione o dono?</p>"
+    },
+    "Marooned": {
+      "name": "Abbandonato",
+      "description": "<p>Ti hanno lasciato indietro, ma ti sei rifiutato di morire</p>"
+    },
+    "Mercenary": {
+      "name": "Mercenario",
+      "description": "<p>Hai combattuto amici e nemici per denaro</p>"
+    },
+    "Minstrel": {
+      "name": "Menestrello",
+      "description": "<p>Sei arrivato lontano grazie a fascino e talento</p>"
+    },
+    "Noble": {
+      "name": "Nobile",
+      "description": "<p>Un nome famoso ti ha aperto molte porte</p>"
+    },
+    "Nobleborn": {
+      "name": "Sangue Nobile",
+      "description": "<p>Sei figlio di 1d6: 1-5. jarl, 6. re</p>"
+    },
+    "Orphaned": {
+      "name": "Orfano",
+      "description": "<p>Un insolito guardiano ti ha salvato e cresciuto</p>"
+    },
+    "Outcast": {
+      "name": "Esiliato",
+      "description": "<p>La tua gente ti ha espulso per presunti crimini</p>"
+    },
+    "Ranger": {
+      "name": "Ranger",
+      "description": "<p>I boschi e la natura sono la tua vera casa</p>"
+    },
+    "Redeemer": {
+      "name": "Redentore",
+      "description": "<p>Devi redimere il nome della tua gente</p>"
+    },
+    "Sacrifice": {
+      "name": "Sacrificio",
+      "description": "<p>Dovevi essere sacrificato in un rituale, ma sei fuggito</p>"
+    },
+    "Sailor": {
+      "name": "Marinaio",
+      "description": "<p>Pirata, corsaro o mercante: i mari sono tuoi</p>"
+    },
+    "Scholar": {
+      "name": "Studioso",
+      "description": "<p>Sai molto di storia e tradizioni antiche</p>"
+    },
+    "Scout": {
+      "name": "Ricognitore",
+      "description": "<p>Buon occhio, velocità, furtività. Sei vivo per questo</p>"
+    },
+    "Seer's Apprentice": {
+      "name": "Apprendista Veggente",
+      "description": "<p>Conosci un po' delle arti mistiche</p>"
+    },
+    "Shipwright": {
+      "name": "Carpentiere Navale",
+      "description": "<p>Sai costruire e riparare drakkar</p>"
+    },
+    "Skald": {
+      "name": "Scaldo",
+      "description": "<p>Sei un poeta e conosci tutte le antiche ballate</p>"
+    },
+    "Soldier": {
+      "name": "Soldato",
+      "description": "<p>Hai servito in un esercito organizzato</p>"
+    },
+    "Thieves' Guild": {
+      "name": "Gilda di Ladri",
+      "description": "<p>Hai conoscenze, contatti e debiti</p>"
+    },
+    "Trader": {
+      "name": "Mercante",
+      "description": "<p>Hai contatti commerciali in ogni villaggio</p>"
+    },
+    "Urchin": {
+      "name": "Monello",
+      "description": "<p>Sei cresciuto nelle spietate strade di città</p>"
+    },
+    "Wanted": {
+      "name": "Ricercato",
+      "description": "<p>Hai una taglia sulla testa, ma anche alleati</p>"
+    },
+    "Witchborn": {
+      "name": "Stirpe di Strega",
+      "description": "<p>Hanno bruciato tua madre, ma ti hanno risparmiato</p>"
+    },
+    "Wizard's Apprentice": {
+      "name": "Apprendista Mago",
+      "description": "<p>Hai talento e occhio per la magia</p>"
+    },
+    "Wolfchild": {
+      "name": "Ragazzo Lupo",
+      "description": "<p>Molto tempo fa, sei entrato in città indossando pelli</p>"
+    },
+    "Woodborn": {
+      "name": "Nato nel Bosco",
+      "description": "<p>Ti hanno trovato nella cavità di una quercia</p>"
+    }
+  }
+}

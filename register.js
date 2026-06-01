@@ -9,7 +9,7 @@ Hooks.on("init", () => {
 
   game.babele.register({
     module: MODULE_ID,
-    lang: "it-IT",
+    lang: "it",
     dir: "compendium/it-IT",
   });
 

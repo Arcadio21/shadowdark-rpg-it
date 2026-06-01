@@ -46,8 +46,8 @@
   ],
   "languages": [
     {
-      "lang": "it-IT",
-      "name": "Italiano",
+      "lang": "it",
+      "name": "Italian",
       "path": "i18n/it.json",
       "flags": {}
     }

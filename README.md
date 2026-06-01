@@ -27,13 +27,6 @@ Basato sul modulo di traduzione portoghese di Luber.
    `https://github.com/Arcadio21/shadowdark-rpg-it/releases/latest/download/module.json`
 4. Clicca su **Installa** subito accanto all'URL del Manifesto appena incollato.
 
-## Ringraziamenti
-
-Si ringraziano tutte le persone della community che hanno contribuito a questo modulo di traduzione:
-
-- **Gianluca** – *@arcadio21*
-
-
 ## Licenze e Copyright
 
 Questo modulo di traduzione è un progetto indipendente della community e non è affiliato a [The Arcane Library, LLC](https://www.thearcanelibrary.com). 

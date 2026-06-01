@@ -1,52 +1,45 @@
-# ShadowDark - Tradução em Português BR
+# ShadowDark - Traduzione Italiana
 
-Módulo de tradução para ShadowDark RPG no FoundryVTT.
-Uma tradução usando os termos oficiais, de acordo com a LaserHead Press.
-Based on Rabbit Hole French Translation.
+Modulo di traduzione per ShadowDark RPG su Foundry VTT.
+Una traduzione che utilizza i termini ufficiali in linea con l'edizione italiana.
+Basato sul modulo di traduzione portoghese di Luber.
 
-## Como Usar
+## Come Usare
 
-- Instale o módulo babele e esse módulo.
-- Ative ambos.
-- Altere o idioma em configurações para Português (Brasil)
+- Installa il modulo **Babele** e questo modulo di traduzione.
+- Attivali entrambi all'interno del tuo mondo di gioco.
+- Cambia la lingua del sistema in Italiano nelle impostazioni di Foundry VTT.
 
-## Instalação
+## Installazione
 
-### Método 1
+### Metodo 1
 
-1. Na tela **Configuração e Ajustes** do Foundry VTT, vá para **Módulos Adicionais**
-2. Clique em **Instalar Módulo**
-3. Procure por **Shadowdark rpg br**
-4. Clique em **Instalar** ao lado da listagem do módulo
+1. Nella schermata principale **Configurazione e Impostazioni** di Foundry VTT, vai alla scheda **Moduli Aggiuntivi**.
+2. Clicca su **Installa Modulo**.
+3. Cerca **Shadowdark RPG IT** (o il nome esatto del tuo modulo).
+4. Clicca su **Installa** in corrispondenza del modulo trovato.
 
-### Método 2
+### Metodo 2
 
-1. Na tela **Configuração e Ajustes** do Foundry VTT, vá para **Módulos Adicionais**
-2. Clique em **Instalar Módulo**
-3. No campo **URL do Manifesto**, cole:
-##
-    https://github.com/luizrcb/shadowdark-rpg-br/releases/latest/download/module.json
-4. Clique em **Instalar** ao lado da URL do Manifesto colada
+1. Nella schermata principale **Configurazione e Impostazioni** di Foundry VTT, vai alla scheda **Moduli Aggiuntivi**.
+2. Clicca su **Installa Modulo**.
+3. Nel campo **URL del Manifesto**, incolla il seguente indirizzo:
+   `https://github.com/Arcadio21/shadowdark-rpg-it/releases/latest/download/module.json`
+4. Clicca su **Installa** subito accanto all'URL del Manifesto appena incollato.
 
-## Agradecimentos
+## Ringraziamenti
 
-Agradecemos a todas as pessoas que contribuíram com este módulo de tradução comunitário:
+Si ringraziano tutte le persone della community che hanno contribuito a questo modulo di traduzione:
 
-- **Luiz "Luber" Bertoni** – Discord: `luizbertoni`, E-mail: `luizrcb@gmail.com`, [Perfil no Foundry](https://foundryvtt.com/community/luizbertoni)
-- **Igor Téuri - Dados Críticos** – Discord: `teuri`, E-mail: `dadoscriticos@gmail.com`, [YouTube](https://youtube.com/dadoscriticos?sub_confirmation=1)
-- **Lótus Brum**
-- **Eric Fernandes**
-- **Daniel Rocha**
-- **Daniel Mello**
+- **Gianluca** – *@arcadio21*
 
-Um agradecimento especial à [**LaserHead Press**](https://laserhead.com.br) pelo apoio e autorização para a realização desta tradução, e a toda a comunidade de Shadowdark no WhatsApp, que incentiva e fortalece o cenário nacional do jogo.
 
-## Licenses
+## Licenze e Copyright
 
-This translation module is an independent community project and is not affiliated with [The Arcane Library, LLC](https://www.thearcanelibrary.com) or [LaserHead Press](https://laserhead.com.br).
+Questo modulo di traduzione è un progetto indipendente della community e non è affiliato a [The Arcane Library, LLC](https://www.thearcanelibrary.com). 
 
-This Brazilian Portuguese translation is produced with authorization from **LaserHead Press** (holder of the Portuguese translation rights) and **Kelsey Dionne** (author of ShadowDark), and follows the terms established by LaserHead Press for translated content.
+I testi italiani inseriti sono allineati alla terminologia ufficiale dell'edizione italiana di ShadowDark RPG, pubblicata da Need Games su licenza di Kelsey Dionne.
 
 ShadowDark RPG © 2023 The Arcane Library, LLC.
 
-**Foundry VTT:** The project is created following the Foundry VTT [Limited License Agreement for module development](https://foundryvtt.com/article/license/)
+**Foundry VTT:** Questo progetto è stato creato in conformità con l'accordo di licenza limitata di Foundry VTT per lo sviluppo dei moduli (*Limited License Agreement for module development*).

@@ -2429,6 +2429,132 @@
         }
       }
     },
+    "Trap: Damage or Effect": {
+      "name": "Trappola: Danno o Effetto",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "[[/r 1d6]]"
+        },
+        "2-2": {
+          "description": "[[/r 1d6]] / @UUID[Compendium.shadowdark.spell-effects.FrFilluk4S5VaWut]"
+        },
+        "3-3": {
+          "description": "[[/r 1d6]] / @UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]"
+        },
+        "4-4": {
+          "description": "[[/r 1d6]] / @UUID[Compendium.shadowdark.spell-effects.SOkcvkzrGMGQKhmk]"
+        },
+        "5-5": {
+          "description": "[[/r 2d8]]"
+        },
+        "6-6": {
+          "description": "[[/r 2d8]] / @UUID[Compendium.shadowdark.spell-effects.FrFilluk4S5VaWut]"
+        },
+        "7-7": {
+          "description": "[[/r 2d8]] / @UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]"
+        },
+        "8-8": {
+          "description": "[[/r 2d8]] / Confusione"
+        },
+        "9-9": {
+          "description": "[[/r 3d10]]"
+        },
+        "10-10": {
+          "description": "[[/r 3d10]] / @UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]"
+        },
+        "11-11": {
+          "description": "[[/r 3d10]] / incoscienza"
+        },
+        "12-12": {
+          "description": "[[/r 3d10]] / pietrificazione"
+        }
+      }
+    },
+    "Trap: Trap": {
+      "name": "Trappola: Trappola",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Balestra"
+        },
+        "2-2": {
+          "description": "Pioggia di aghi"
+        },
+        "3-3": {
+          "description": "Gas tossico"
+        },
+        "4-4": {
+          "description": "Rete spinata"
+        },
+        "5-5": {
+          "description": "Masso rotolante"
+        },
+        "6-6": {
+          "description": "Lama tagliente"
+        },
+        "7-7": {
+          "description": "Fossa con paletti"
+        },
+        "8-8": {
+          "description": "Giavellotto"
+        },
+        "9-9": {
+          "description": "Glifo magico"
+        },
+        "10-10": {
+          "description": "Esplosione di fuoco"
+        },
+        "11-11": {
+          "description": "Blocco in caduta"
+        },
+        "12-12": {
+          "description": "Statua maledetta"
+        }
+      }
+    },
+    "Trap: Trigger": {
+      "name": "Trappola: Innesco",
+      "description": "",
+      "results": {
+        "1-1": {
+          "description": "Filo d'inciampo"
+        },
+        "2-2": {
+          "description": "Piastra a pressione"
+        },
+        "3-3": {
+          "description": "Aprire una porta"
+        },
+        "4-4": {
+          "description": "Interruttore o pulsante"
+        },
+        "5-5": {
+          "description": "Gradino falso sulla scala"
+        },
+        "6-6": {
+          "description": "Chiudere una porta"
+        },
+        "7-7": {
+          "description": "Bloccare un fascio di luce"
+        },
+        "8-8": {
+          "description": "Tirare una leva"
+        },
+        "9-9": {
+          "description": "Pronunciare una parola"
+        },
+        "10-10": {
+          "description": "Gancio su un filo"
+        },
+        "11-11": {
+          "description": "Rimuovere un oggetto"
+        },
+        "12-12": {
+          "description": "Lanciare un incantesimo"
+        }
+      }
+    },
     "Something Happens!": {
       "name": "Succede Qualcosa!",
       "description": "",

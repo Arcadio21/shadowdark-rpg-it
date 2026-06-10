@@ -29,8 +29,8 @@
           "notes": {},
           "backgroundColor": "#121212",
           "navName": "La Cittadella Perduta",
-          "foreground": "modules/shadowdark-rpg-fr/assets/map/the-lost-citadel-by-Futurewolf_foreground_layer.webp",
-          "src": "modules/shadowdark-rpg-fr/assets/map/the-lost-citadel-by-Futurewolf_background_img.webp"
+          "foreground": "modules/shadowdark-rpg-it/assets/map/the-lost-citadel-by-Futurewolf_foreground_layer.webp",
+          "src": "modules/shadowdark-rpg-it/assets/map/the-lost-citadel-by-Futurewolf_background_img.webp"
         }
       },
       "macros": {

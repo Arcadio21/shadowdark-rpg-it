@@ -3,7 +3,7 @@
   "title": "ShadowDark - Traduzione in Italiano IT",
   "description": "ShadowDark RPG. Traduzione Italiana. Basata sulla traduzione italiana di Need Games",
   "library": "false",
-  "version": "1.0",
+  "version": "1.1",
   "url": "https://github.com/Arcadio21/shadowdark-rpg-it",
   "manifest": "https://raw.githubusercontent.com/Arcadio21/shadowdark-rpg-it/main/module.json",
   "download": "https://codeload.github.com/Arcadio21/shadowdark-rpg-it/zip/main",
